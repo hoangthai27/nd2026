@@ -2986,7 +2986,7 @@
     "AnswerB": "COUT",
     "AnswerC": "GMT",
     "AnswerD": "CUT",
-    "CorrectAnswer": "CUT",
+    "CorrectAnswer": "UTC",
     "Category": "LTCTWR"
   },
   {
@@ -3666,7 +3666,7 @@
     "AnswerB": "HEADING in “turn right heading….”",
     "AnswerC": "FLIGHT in “climb to flight level….”",
     "AnswerD": "RUNWAY in “hold short of runway 11R”",
-    "CorrectAnswer": "RUNWAY in “hold short of runway 11R”",
+    "CorrectAnswer": "SURFACE in “surface wind…..”",
     "Category": "LTCTWR"
   },
   {
