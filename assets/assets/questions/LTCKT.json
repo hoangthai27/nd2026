@@ -1,0 +1,3132 @@
+[
+  {
+    "QID": 1,
+    "Question": "Reference to AIP Viet Nam, The Class D airspace are classified and designated in accordance with the following :",
+    "AnswerA": "The responsibility areas of the TWRs at the civil aerodromes, the aerodromes (using both civil and military) over the territory of Viet Nam (except CTR of Noi Bai , Da Nang, Tan Son Nhat).",
+    "AnswerB": "On the ATS routes: From minimum flight level to 6 000 M.\n TMA: Noi Bai, Tan Son Nhat.\n CTR: Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerC": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset: out of operation time and service provided.",
+    "AnswerD": "Above 14 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs.\n From 2 000 M to 6 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs, except ATS routes and TMA, CTR of C and D classes.",
+    "CorrectAnswer": "The responsibility areas of the TWRs at the civil aerodromes, the aerodromes (using both civil and military) over the territory of Viet Nam (except CTR of Noi Bai , Da Nang, Tan Son Nhat).",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 2,
+    "Question": "Reference to AIP Viet Nam, The Class E airspace are classified and designated in accordance with the following :",
+    "AnswerA": "Lateral limit: Ha Noi and Ho Chi Minh FIRs\n Vertical limit: from 6 000 M to 14 000 M",
+    "AnswerB": "On the ATS routes: From minimum flight level to 6 000 M.\n TMA: Noi Bai, Tan Son Nhat.\n CTR: Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerC": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset : out of operation time and service provided.",
+    "AnswerD": "Above 14 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs.\n From 2 000 M to 6 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs, except ATS routes and TMA, CTR of C and D classes.",
+    "CorrectAnswer": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset : out of operation time and service provided.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 3,
+    "Question": "Reference to AIP Viet Nam, The Class G airspace are classified and designated in accordance with the following :",
+    "AnswerA": "IFR flights only are permitted, all flights are provided with air traffic control service and are separated from each other.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerB": "IFR and VFR flights are permitted, all flights are provided with air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerC": "IFR and VFR flights are permitted and all flights are provided with air traffic control service, IFR flights are separated from other IFR flights and receive traffic information in respect of VFR flights, VFR flights receive traffic information in respect of all other flights.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerD": "IFR and VFR flights are permitted, IFR flights are provided with air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical. \n Radio communication requirement :\n Continuous two-way",
+    "CorrectAnswer": "IFR and VFR flights are permitted, IFR flights are provided with air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical. \n Radio communication requirement :\n Continuous two-way",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 4,
+    "Question": "The request to change from IFR flight to VFR flight is:",
+    "AnswerA": "Made by pilot-in-command",
+    "AnswerB": "Suggested by ATC when VMC exist",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 or 2",
+    "CorrectAnswer": "Made by pilot-in-command",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 5,
+    "Question": "The speed reductions not exceeding plus/minus 40km/h (20kt) IAS should be used for :",
+    "AnswerA": "Aircraft on inital and intermediate approach segments.",
+    "AnswerB": "Aircraft on intermediate approach segment.",
+    "AnswerC": "Aircraft on intermediate and final approach segments.",
+    "AnswerD": "Aircraft on final approach segment.",
+    "CorrectAnswer": "Aircraft on intermediate and final approach segments.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 6,
+    "Question": "Radar separation based upon primary radar shall be the distance:",
+    "AnswerA": "Between the edges of the radar blips",
+    "AnswerB": "Between the centers of the radar blips.",
+    "AnswerC": "Between the edges of one blip and the center of the other.",
+    "AnswerD": "Between the nearest edges of the blips.",
+    "CorrectAnswer": "Between the centers of the radar blips.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 7,
+    "Question": "Transfer of identity of a radar blip from the radar controller to another should be attempted wheen it is considered that:",
+    "AnswerA": "The aircraft is on the frequency of the accepting controller.",
+    "AnswerB": "The aircraft is over the common boundary.",
+    "AnswerC": "The aircraft is within the coverage of the accepting controller’s rasdar display .",
+    "AnswerD": "The aircraft reports over the last fix displayed on the radar display of transferring controller.",
+    "CorrectAnswer": "The aircraft is within the coverage of the accepting controller’s rasdar display .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 8,
+    "Question": "For traffic on reciprocal tracks where lateral separation is not provide, vertical separation shall be kept at least…………prior to and after the time the aircraft are estimated to pass, or are estimated to have passed.",
+    "AnswerA": "10 minutes",
+    "AnswerB": "5 minutes",
+    "AnswerC": "15minutes",
+    "AnswerD": "As long as the aircraft are estimated to have passed each other.",
+    "CorrectAnswer": "10 minutes",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 9,
+    "Question": "According to the 125 Decree on Air Traffic Management: The Operation Department (Ministry of Nation Defense) shall designate and air traffic control services, aeronautical information services providers of danger areas at least………hours prior any operations performed that may give risk to civil flight operations.",
+    "AnswerA": 12,
+    "AnswerB": 24,
+    "AnswerC": 48,
+    "AnswerD": 72,
+    "CorrectAnswer": 24,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 10,
+    "Question": "The generation of minimum safe altitude warnings is a function of an ATC radar-processing system. The objective of the MSAW function is to assist in the prevention of controlled flight into………………accidents by generating in a timely manner, a warning of the possible infringement of a minimum safe altitude.",
+    "AnswerA": "Traffic",
+    "AnswerB": "Moutain",
+    "AnswerC": "Terain",
+    "AnswerD": "Balloon",
+    "CorrectAnswer": "Terain",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 11,
+    "Question": "The criterion which shall be used to determine that a specific level is occupied by an aircraft shall be +_60m(200ft) in RVSM airspace. In other airspace, it shall be………..,except that the appropriate ATS authority may specify a smaller criterion, but not less than +_60m(200ft), if this is found to be more practical.",
+    "AnswerA": "±90m(300ft)",
+    "AnswerB": "±60m(200ft)",
+    "AnswerC": "±30m(100ft)",
+    "AnswerD": "±120m(400ft)",
+    "CorrectAnswer": "±90m(300ft)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 12,
+    "Question": "When SSR radar is not available, radar identification may be achieved by instructing the aircraft to make heading changes of at least:",
+    "AnswerA": "10 degrees",
+    "AnswerB": "20 degrees",
+    "AnswerC": "30 degrees",
+    "AnswerD": "40 degrees",
+    "CorrectAnswer": "30 degrees",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 13,
+    "Question": "Vertical separation if other known traffic behind aircraft dumping fuel within 15 minutes flying time or a distance of 93km (50NM) by at least 300m (1000ft) if above the aircraft dumping fuel; and",
+    "AnswerA": "At least 600m (2000ft) if below the aircraft dumping fuel.",
+    "AnswerB": "At least 300m (1000ft) if below the aircraft dumping fuel.",
+    "AnswerC": "At least 900m (3000ft) if below the aircraft dumping fuel.",
+    "AnswerD": "At least 1200m (4000ft) if below the aircraft dumping fuel.",
+    "CorrectAnswer": "At least 900m (3000ft) if below the aircraft dumping fuel.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 14,
+    "Question": "Whenever a code is assigned to an aircraft, the setting of this code shall be verified by controller:",
+    "AnswerA": "At the first contact.",
+    "AnswerB": "At the second communication.",
+    "AnswerC": "At the appropriate opportunity",
+    "AnswerD": "At the earliest opportunity .",
+    "CorrectAnswer": "At the earliest opportunity .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 15,
+    "Question": "The Director of Airport Authority shall decide to temporarily close an airport or aerodrome for not more than ……….hours and report such decision to the Minister of Transport without delay.",
+    "AnswerA": 72,
+    "AnswerB": 48,
+    "AnswerC": 36,
+    "AnswerD": 24,
+    "CorrectAnswer": 24,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 16,
+    "Question": "Who have the right to open an airport or aerodrome based on the airport or aerodrome system plans?",
+    "AnswerA": "The Prime Minister",
+    "AnswerB": "The Minister of Transport",
+    "AnswerC": "The Director of Airport Authority",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "The Prime Minister",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 17,
+    "Question": "Vietnamese and foreign aircraft operating international flights shall be permitted only to take off and land at the international airports. In the case of take off and landing at domestic airports or aerodromes, the shall acquire approval from the:",
+    "AnswerA": "The Minister of Transport",
+    "AnswerB": "The Director of Airport Authority",
+    "AnswerC": "The Prime Minister",
+    "AnswerD": "Minister of Nation Defense",
+    "CorrectAnswer": "The Prime Minister",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 18,
+    "Question": "The establishment and operation of airways shall be approved by:",
+    "AnswerA": "The Prime Minister",
+    "AnswerB": "The Minister of Transport",
+    "AnswerC": "General Director of VATM",
+    "AnswerD": "The Minister of Nation Defense",
+    "CorrectAnswer": "The Prime Minister",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 19,
+    "Question": "Who has the right to grant flight permission to foreign VIP flights carrying the guests of the Party and State and escorting flights or other flights associated with the VIP flight.",
+    "AnswerA": "The Prime Minister",
+    "AnswerB": "The Minister of Transport",
+    "AnswerC": "Minister of Nation Defense",
+    "AnswerD": "Ministry of Foreign Affairs",
+    "CorrectAnswer": "Ministry of Foreign Affairs",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 20,
+    "Question": "…………………shall decide to establish the prohibited and restricted area inthe territory of VietNam in order to ensure the national defense, security, and social safety.",
+    "AnswerA": "The Prime Minister",
+    "AnswerB": "The Minister of Transport",
+    "AnswerC": "Minister of Nation Defense",
+    "AnswerD": "Ministry of Foreign Affair",
+    "CorrectAnswer": "The Prime Minister",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 21,
+    "Question": "If an arriving aircraft is making a straight-in approach, a departing aircraft may take off in any direction until……….. before the arriving aircraft is estimated to be over the instrument runway.",
+    "AnswerA": "10 minutes.",
+    "AnswerB": "2 minutes.",
+    "AnswerC": "5 minutes.",
+    "AnswerD": "3 minutes.",
+    "CorrectAnswer": "5 minutes.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 22,
+    "Question": "If an arriving aircraft is making a complete instrument approach, a departing aircraft may take off in any direction until:",
+    "AnswerA": "The arriving aircraft has started its procedure turn or base turn leading to final approach.",
+    "AnswerB": "The arriving aircraft has commenced initial approach.",
+    "AnswerC": "The arriving aircraft has entered ILS glide path.",
+    "AnswerD": "The pilot of the arriving aircraft has observed the departing aircraft.",
+    "CorrectAnswer": "The arriving aircraft has started its procedure turn or base turn leading to final approach.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 23,
+    "Question": "Radar separation between two wake turbulence category “ HEAVY” aircrafts on final shall be at least:",
+    "AnswerA": "3NM.",
+    "AnswerB": "4NM.",
+    "AnswerC": "5NM.",
+    "AnswerD": "6NM.",
+    "CorrectAnswer": "4NM.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 24,
+    "Question": "When aircraft operating within controlled airspace needs to dump fuel, the flight crew shall advise ATC. The ATC unit should then coordinate with the flight crew the following: the route to be flown, which, if possible, should be clear of cities and towns, preferably over water and away from areas where thunderstorms have been reported or are expected; The duration of the fuel dumping;The level to be used, which should be not less than……….",
+    "AnswerA": "1800m(6000ft).",
+    "AnswerB": "1500m(5000ft)",
+    "AnswerC": "1200m(4000ft).",
+    "AnswerD": "900m(3000ft).",
+    "CorrectAnswer": "1800m(6000ft).",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 25,
+    "Question": "Other known traffic should be separated from the aircraft dumping fuel by:",
+    "AnswerA": "At least 19km(10NM) horizontally, but not behind the aircraft dumping fuel .",
+    "AnswerB": "Vertical separation if behind the aircraft dumping fuel within 10 minutes flying time or a distance of 93km(50NM)….",
+    "AnswerC": "At least 19km(10NM) horizontally, but not front of the aircraft dumping fuel.",
+    "AnswerD": "At least 37km(20NM) horizontally, but not behind the aircraft dumping fuel.",
+    "CorrectAnswer": "At least 19km(10NM) horizontally, but not behind the aircraft dumping fuel .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 26,
+    "Question": "To determine effect of wake turbulence, aircraft are grouped into the following categories:",
+    "AnswerA": "CAT I, CAT II, CAT III;",
+    "AnswerB": "SMALL, MEDIUM, LARGE;",
+    "AnswerC": "LIGHT, MEDIUM, HEAVY;",
+    "AnswerD": "CAT A, CAT B, CAT C.",
+    "CorrectAnswer": "LIGHT, MEDIUM, HEAVY;",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 27,
+    "Question": "The controller shall…………. To ascertain that the clearance or instruction has been correctly acknowledge by flight crew and shall take immediately action to correct any discrepancies revealed by the………….",
+    "AnswerA": "Observe…….listen",
+    "AnswerB": "Readback………listen.",
+    "AnswerC": "Listen……….readback.",
+    "AnswerD": "Readback……readback.",
+    "CorrectAnswer": "Listen……….readback.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 28,
+    "Question": "Minimum flight altitude ensures (according to Annex II rules of the air):",
+    "AnswerA": "At least 300m(1000ft) above MSL.",
+    "AnswerB": "At least 300m(1000ft) above terrain.",
+    "AnswerC": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainuos area.",
+    "AnswerD": "Non of the above.",
+    "CorrectAnswer": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainuos area.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 29,
+    "Question": "Which aircraft along the following has first priority:",
+    "AnswerA": "Departing aircraft.",
+    "AnswerB": "Taxiing aircraft.",
+    "AnswerC": "Arriving aircraft on final approach.",
+    "AnswerD": "Arriving aircraft in the traffic pattern.",
+    "CorrectAnswer": "Arriving aircraft on final approach.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 30,
+    "Question": "An aircraft making a radar approach should be advised to consider executing a missed approach if the aircraft is not visible on the radar display for significant interval during the last…….. of the approach.",
+    "AnswerA": "5 NM",
+    "AnswerB": "4 NM",
+    "AnswerC": "3 NM",
+    "AnswerD": "2 NM",
+    "CorrectAnswer": "2 NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 31,
+    "Question": "Speed adjustments may not be requested or applied after the aircraft has passed a point of…………… from the threshold on final approach:",
+    "AnswerA": "3 NM",
+    "AnswerB": "4 NM",
+    "AnswerC": "5 NM",
+    "AnswerD": "8 NM",
+    "CorrectAnswer": "4 NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 32,
+    "Question": "Before providing radar service to an aircraft, the radar controller shall:",
+    "AnswerA": "Establish radar identity of that aircraft.",
+    "AnswerB": "Provide the radar information to the aircraft.",
+    "AnswerC": "Request the pilot to change heading 30 degrees or more.",
+    "AnswerD": "Instruct the pilot to operate SPI feature.",
+    "CorrectAnswer": "Establish radar identity of that aircraft.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 33,
+    "Question": "When two or more aircraft are at the same cruising level, the……aircraft shall normally have priority:",
+    "AnswerA": "Preceding",
+    "AnswerB": "Succeeding",
+    "AnswerC": "Fastest",
+    "AnswerD": "Biggest",
+    "CorrectAnswer": "Preceding",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 34,
+    "Question": "Time separation minima between holding aircraft in a holding pattern and en-route aircraft which are on the same flight level is:",
+    "AnswerA": "10 minutes",
+    "AnswerB": "5 minutes",
+    "AnswerC": "3 minutes",
+    "AnswerD": "As long as outbound time is",
+    "CorrectAnswer": "5 minutes",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 35,
+    "Question": "A light aircraft is approaching for landing behind a heavy aircraft, the time separation minima between them must be:",
+    "AnswerA": "1 minute",
+    "AnswerB": "2minutes",
+    "AnswerC": "3 minutes",
+    "AnswerD": "4 minutes",
+    "CorrectAnswer": "3 minutes",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 36,
+    "Question": "A radiotelephony distress message transmit by an aircraft should commence with the word “………”",
+    "AnswerA": "SOS",
+    "AnswerB": "MAYDAY",
+    "AnswerC": "PANPAN",
+    "AnswerD": "EMERGENCY",
+    "CorrectAnswer": "MAYDAY",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 37,
+    "Question": "The standard controller-pilot phraseology for a controller to ascertain the RVSM approval status of an aircraft is:",
+    "AnswerA": "( call sign) confirm RVSM approved.",
+    "AnswerB": "( call sign) affirm RVSM.",
+    "AnswerC": "( call sign) do you have RVSM approval.",
+    "AnswerD": "None of the above.",
+    "CorrectAnswer": "( call sign) confirm RVSM approved.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 38,
+    "Question": "When two-way communication is lost, a pilot should select ____ on the transponder",
+    "AnswerA": "Code 7500",
+    "AnswerB": "Code 7600",
+    "AnswerC": "Code 7700",
+    "AnswerD": "Code 2000",
+    "CorrectAnswer": "Code 7600",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 39,
+    "Question": "What does a clearance for \"Immediate Takeoff\" mean",
+    "AnswerA": "Line up immediately after the landing aircraft",
+    "AnswerB": "Have all the approriate checks complete before entering runway",
+    "AnswerC": "The subsequent taxi and takeoff shall be completed in one continuous movement",
+    "AnswerD": "Enter the runway, apply the brakes, set full power, release the brakes and take off without further clearance",
+    "CorrectAnswer": "The subsequent taxi and takeoff shall be completed in one continuous movement",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 40,
+    "Question": "Reference to AIP Viet Nam, The Class D airspace are classified and designated in accordance with the following :",
+    "AnswerA": "The responsibility areas of the TWRs at the civil aerodromes, the aerodromes (using both civil and military) over the territory of Viet Nam (except CTR of Noi Bai , Da Nang, Tan Son Nhat).",
+    "AnswerB": "On the ATS routes: From minimum flight level to 6 000 M.\n TMA: Noi Bai, Tan Son Nhat.\n CTR: Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerC": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset: out of operation time and service provided.",
+    "AnswerD": "Above 14 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs.\n From 2 000 M to 6 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs, except ATS routes and TMA, CTR of C and D classes.",
+    "CorrectAnswer": "The responsibility areas of the TWRs at the civil aerodromes, the aerodromes (using both civil and military) over the territory of Viet Nam (except CTR of Noi Bai , Da Nang, Tan Son Nhat).",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 41,
+    "Question": "Reference to AIP Viet Nam, The Class E airspace are classified and designated in accordance with the following :",
+    "AnswerA": "Lateral limit: Ha Noi and Ho Chi Minh FIRs\n Vertical limit: from 6 000 M to 14 000 M",
+    "AnswerB": "On the ATS routes: From minimum flight level to 6 000 M.\n TMA: Noi Bai, Tan Son Nhat.\n CTR: Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerC": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset : out of operation time and service provided.",
+    "AnswerD": "Above 14 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs.\n From 2 000 M to 6 000 M\n Lateral limit: Ha Noi and Ho Chi Minh FIRs, except ATS routes and TMA, CTR of C and D classes.",
+    "CorrectAnswer": "Unspecified airspace;\n The responsibility areas of the TWRs of which operations are based on time limits or from sunrise to sunset : out of operation time and service provided.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 42,
+    "Question": "Reference to AIP Viet Nam, The Class G airspace are classified and designated in accordance with the following :",
+    "AnswerA": "IFR flights only are permitted, all flights are provided with air traffic control service and are separated from each other.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerB": "IFR and VFR flights are permitted, all flights are provided with air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerC": "IFR and VFR flights are permitted and all flights are provided with air traffic control service, IFR flights are separated from other IFR flights and receive traffic information in respect of VFR flights, VFR flights receive traffic information in respect of all other flights.\n Radio communication requirement:\n Continuous two-way",
+    "AnswerD": "IFR and VFR flights are permitted, IFR flights are provided with air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical. \n Radio communication requirement :\n Continuous two-way",
+    "CorrectAnswer": "IFR and VFR flights are permitted, IFR flights are provided with air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical. \n Radio communication requirement :\n Continuous two-way",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 43,
+    "Question": "Surveillance radar:",
+    "AnswerA": "Radar equipment used to determine the altitude of an aircraft.",
+    "AnswerB": "Radar equipment used to determine the position of an aircraft in range and azimuth.",
+    "AnswerC": "Radar equipment used to determine the position of an aircraft in range.",
+    "AnswerD": "Radar equipment used to determine the position of an aircraft in azimuth.",
+    "CorrectAnswer": "Radar equipment used to determine the position of an aircraft in range and azimuth.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 44,
+    "Question": "Mode A code to provide recognition of an aircraft in an emergency:",
+    "AnswerA": "Code 7100.",
+    "AnswerB": "Code 7500.",
+    "AnswerC": "Code 7600.",
+    "AnswerD": "Code 7700.",
+    "CorrectAnswer": "Code 7700.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 45,
+    "Question": "Mode A code to provide recognition of an aircraft with radio communication failure:",
+    "AnswerA": "Code 7200.",
+    "AnswerB": "Code 7500.",
+    "AnswerC": "Code 7600.",
+    "AnswerD": "Code 7700.",
+    "CorrectAnswer": "Code 7600.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 46,
+    "Question": "Mode A code to provide recognition of an aircraft which is being subjected to unlawful interference:",
+    "AnswerA": "Code 7400.",
+    "AnswerB": "Code 7500.",
+    "AnswerC": "Code 7600.",
+    "AnswerD": "Code 7700.",
+    "CorrectAnswer": "Code 7500.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 47,
+    "Question": "Mode A code shall be reserved to provide recognition of an aircraft which has not received any instructions from air traffic control units to operate the transponder.",
+    "AnswerA": "Code 2000.",
+    "AnswerB": "Code 2100.",
+    "AnswerC": "Code 2200.",
+    "AnswerD": "Code 2300.",
+    "CorrectAnswer": "Code 2000.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 48,
+    "Question": "The Mode A code shall be manually selected from……….",
+    "AnswerA": "The 1096 codes available.",
+    "AnswerB": "The 2096 codes available.",
+    "AnswerC": "The 3096 codes available.",
+    "AnswerD": "The 4096 codes available.",
+    "CorrectAnswer": "The 4096 codes available.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 49,
+    "Question": "Air traffic service, a generic term meaning variously, shall comprise:",
+    "AnswerA": "Flight information service.",
+    "AnswerB": "Alerting service, air traffic advisory service.",
+    "AnswerC": "Air traffic control service.",
+    "AnswerD": "All above.",
+    "CorrectAnswer": "All above.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 50,
+    "Question": "The order of priority for the transmission of messages in the aeronautical fixed telecommunication network shall be as follows: Transmission priority indicator",
+    "AnswerA": "SS DD FF GG KK.",
+    "AnswerB": "DD FF GG KK SS.",
+    "AnswerC": "FF GG KK SS DD.",
+    "AnswerD": "GG KK SS DD FF.",
+    "CorrectAnswer": "SS DD FF GG KK.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 51,
+    "Question": "The four-letter location indicators are listed in …………",
+    "AnswerA": "Doc 8585",
+    "AnswerB": "Doc 7910.",
+    "AnswerC": "Doc 8186.",
+    "AnswerD": "Doc 9432.",
+    "CorrectAnswer": "Doc 7910.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 52,
+    "Question": "The three-letter designators are listed in………",
+    "AnswerA": "Doc 7910.",
+    "AnswerB": "Doc 8186.",
+    "AnswerC": "Doc 8585.",
+    "AnswerD": "Doc 9432.",
+    "CorrectAnswer": "Doc 8585.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 53,
+    "Question": "AFTN destination stations shall retain, for a period of at least……..",
+    "AnswerA": "90 days.",
+    "AnswerB": "60 days.",
+    "AnswerC": "45 days.",
+    "AnswerD": "30 days.",
+    "CorrectAnswer": "30 days.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 54,
+    "Question": "Except for reasons of safety, no transmission shall be directed to an aircraft ………",
+    "AnswerA": "During take-off.",
+    "AnswerB": "During the last part of the final approach.",
+    "AnswerC": "During the landing roll.",
+    "AnswerD": "All of the above.",
+    "CorrectAnswer": "All of the above.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 55,
+    "Question": "Airborne collision avoidance system (ACAS).",
+    "AnswerA": "An aircraft system based on secondary surveillance radar (SSR) transponder signals.",
+    "AnswerB": "An aircraft system based on primary radar signals.",
+    "AnswerC": "1 or 2.",
+    "AnswerD": "1 and 2.",
+    "CorrectAnswer": "An aircraft system based on secondary surveillance radar (SSR) transponder signals.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 56,
+    "Question": "Pressure-altitude: An atmospheric pressure expressed in terms of …which corresponds to that pressure in the Standard Atmosphere.",
+    "AnswerA": "Flight level.",
+    "AnswerB": "Altitude.",
+    "AnswerC": "Height.",
+    "AnswerD": "Airspace.",
+    "CorrectAnswer": "Altitude.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 57,
+    "Question": "Radio navigation service: A service providing …or position data for the efficient and safe operation of aircraft supported by one or more radio navigation aids.",
+    "AnswerA": "Weather information.",
+    "AnswerB": "ATIS information.",
+    "AnswerC": "Guidance information.",
+    "AnswerD": "Departure information.",
+    "CorrectAnswer": "Guidance information.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 58,
+    "Question": "Touchdown is the point where the nominal glide path intercepts..........",
+    "AnswerA": "The outer marker.",
+    "AnswerB": "The localizer.",
+    "AnswerC": "The final course.",
+    "AnswerD": "The runway.",
+    "CorrectAnswer": "The runway.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 59,
+    "Question": "ILS reference datum :A point at a specified height located above the intersection of the runway centre line and the threshold and through which …extended straight portion of the ILS glide path passes.",
+    "AnswerA": "The downward",
+    "AnswerB": "The upward",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 or 2",
+    "CorrectAnswer": "The downward",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 60,
+    "Question": "The DME system shall comprise:",
+    "AnswerA": "one component fitted in the aircraft.",
+    "AnswerB": "one component installed on the ground.",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2",
+    "CorrectAnswer": "1 and 2",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 61,
+    "Question": "Air-ground communication:",
+    "AnswerA": "One-way communication between aircraft and stations or locations on the surface of the earth.",
+    "AnswerB": "Two-way communication between aircraft and stations or locations on the surface of the earth.",
+    "AnswerC": "1 or 2.",
+    "AnswerD": "1 and 2.",
+    "CorrectAnswer": "Two-way communication between aircraft and stations or locations on the surface of the earth.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 62,
+    "Question": "Air-to-ground communication:",
+    "AnswerA": "One-way communication from aircraft to stations or locations on the surface of the earth.",
+    "AnswerB": "Two-way communication from aircraft to stations or locations on the surface of the earth.",
+    "AnswerC": "1 or 2.",
+    "AnswerD": "1 and 2.",
+    "CorrectAnswer": "One-way communication from aircraft to stations or locations on the surface of the earth.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 63,
+    "Question": "Ground-to-air communication:",
+    "AnswerA": "One-way communication from stations or locations on the surface of the earth to aircraft.",
+    "AnswerB": "Two-way communication from stations or locations on the surface of the earth to aircraft.",
+    "AnswerC": "1 or 2.",
+    "AnswerD": "1 and 2.",
+    "CorrectAnswer": "One-way communication from stations or locations on the surface of the earth to aircraft.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 64,
+    "Question": "Controller-pilot data link communications (CPDLC).",
+    "AnswerA": "A means of communication between controllers, using data link for ATC communications.",
+    "AnswerB": "A means of communication between controller and pilot, using data link for ATC communications.",
+    "AnswerC": "A means of communication between pilots, using data link for ATC communications.",
+    "AnswerD": "None of the above.",
+    "CorrectAnswer": "A means of communication between controller and pilot, using data link for ATC communications.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 65,
+    "Question": "Air-report:",
+    "AnswerA": "A report from an aircraft in flight.",
+    "AnswerB": "A report from an aircraft on ground.",
+    "AnswerC": "A report from an aircraft in the air.",
+    "AnswerD": "A report from an aircraft in hangar.",
+    "CorrectAnswer": "A report from an aircraft in flight.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 66,
+    "Question": "Distress messages (priority indicator SS).",
+    "AnswerA": "This message category shall comprise those messages sent by mobile stations reporting that they are threatened by grave and imminent danger .",
+    "AnswerB": "This message category shall comprise those messages sent by mobile stations reporting that they are in danger.",
+    "AnswerC": "This message category shall comprise those messages sent by ATC unit reporting that they are in danger.",
+    "AnswerD": "This message category shall comprise those messages sent by area control centre reporting that they are in danger.",
+    "CorrectAnswer": "This message category shall comprise those messages sent by mobile stations reporting that they are threatened by grave and imminent danger .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 67,
+    "Question": "Urgency messages (priority indicator DD).",
+    "AnswerA": "This category shall comprise messages concerning the safety of a ship, aircraft or other vehicles, or of some person on board or within sight .",
+    "AnswerB": "This category shall comprise messages concerning the safety of a ship.",
+    "AnswerC": "This category shall comprise messages concerning the safety of an aircraft.",
+    "AnswerD": "This category shall comprise messages concerning the safety of some person on board.",
+    "CorrectAnswer": "This category shall comprise messages concerning the safety of a ship, aircraft or other vehicles, or of some person on board or within sight .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 68,
+    "Question": "What is a PAPI",
+    "AnswerA": "Precision Approach Power Indicator",
+    "AnswerB": "Precision Approach Path Indicator",
+    "AnswerC": "Precision Approach Power Index",
+    "AnswerD": "Precision Approach Path Index",
+    "CorrectAnswer": "Precision Approach Path Indicator",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 69,
+    "Question": "PANS-OPS means",
+    "AnswerA": "Procedures for Air Navigation Systems - Airfield Operations",
+    "AnswerB": "Procedures for Air Navigation Services - Aircraft Operations",
+    "AnswerC": "Pilots Alternate Navigational Systems and Operational Procedures",
+    "AnswerD": "Primary Alternate Navigational Systems and Operational Procedures",
+    "CorrectAnswer": "Procedures for Air Navigation Services - Aircraft Operations",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 70,
+    "Question": "PANS are",
+    "AnswerA": "Procedures for Air Navigation Services",
+    "AnswerB": "Procedures for Air Navigation Standards",
+    "AnswerC": "Pratices for Air Navigation Services",
+    "AnswerD": "Practices for Air Navigation Standards",
+    "CorrectAnswer": "Procedures for Air Navigation Services",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 71,
+    "Question": "VORTAC is",
+    "AnswerA": "A combined VOR and TACAN combination where bearing is from the VOR element and the range from TACAN element",
+    "AnswerB": "A combined VOR and TACAN combination where bearing is from the TACAN and the range from VOR",
+    "AnswerC": "Range and bearing are supplied from TACAN element and the VOR is a switch on device",
+    "AnswerD": "TACAN refined for missed approach positioning",
+    "CorrectAnswer": "A combined VOR and TACAN combination where bearing is from the VOR element and the range from TACAN element",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 72,
+    "Question": "With increasing altitude, the rate of climb will:",
+    "AnswerA": "decreases because power available increases and power required increases",
+    "AnswerB": "increases because power available decreases and power required increases",
+    "AnswerC": "decreases because power available decreases and power required increases",
+    "AnswerD": "",
+    "CorrectAnswer": "decreases because power available decreases and power required increases",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 73,
+    "Question": "If the aircraft mass increases, how does the rate of climb:",
+    "AnswerA": "increases",
+    "AnswerB": "decreases",
+    "AnswerC": "remains constant",
+    "AnswerD": "",
+    "CorrectAnswer": "decreases",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 74,
+    "Question": "A headwind will:",
+    "AnswerA": "increase the climb flight path angle",
+    "AnswerB": "decrease the climb flight path angle",
+    "AnswerC": "no effect the angle of climb",
+    "AnswerD": "",
+    "CorrectAnswer": "increase the climb flight path angle",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 75,
+    "Question": "In a standard atmosphere and at the sea level, the calibrated airspeed (CAS) is:",
+    "AnswerA": "higher than the true airspeed (TAS)",
+    "AnswerB": "independent of the true airspeed (TAS)",
+    "AnswerC": "equal to the true airspeed (TAS)",
+    "AnswerD": "lower than the true airspeed (TAS)",
+    "CorrectAnswer": "equal to the true airspeed (TAS)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 76,
+    "Question": "An airspeed indicator displays:",
+    "AnswerA": "IAS",
+    "AnswerB": "EAS",
+    "AnswerC": "CAS",
+    "AnswerD": "TAS",
+    "CorrectAnswer": "IAS",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 77,
+    "Question": "On board an aircraft, the altitude is measured from the:",
+    "AnswerA": "pressure altitude",
+    "AnswerB": "standard altitude",
+    "AnswerC": "temperature altitude",
+    "AnswerD": "density altitude",
+    "CorrectAnswer": "pressure altitude",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 78,
+    "Question": "With regards to the optimum altitude during the cruise, the aircraft is:",
+    "AnswerA": "flown as close to the optimum altitude as ATC will allow",
+    "AnswerB": "always flown 2000 ft below the optimum altitude",
+    "AnswerC": "may be flown above or below the optimum altitude, but never at the optimum altitude",
+    "AnswerD": "",
+    "CorrectAnswer": "flown as close to the optimum altitude as ATC will allow",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 79,
+    "Question": "Which Annex contains the standard and recommended Practices for all types of aeronautical charts ?",
+    "AnswerA": "Annex 4",
+    "AnswerB": "Annex 14",
+    "AnswerC": "Annex 5",
+    "AnswerD": "Annex15",
+    "CorrectAnswer": "Annex 4",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 80,
+    "Question": "What are the international aviation distress signals?",
+    "AnswerA": "SOS",
+    "AnswerB": "MAYDAY",
+    "AnswerC": "PANPAN",
+    "AnswerD": "All the above",
+    "CorrectAnswer": "MAYDAY",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 81,
+    "Question": "Pilots should notify air traffic control if the variation in true aispeed at criusing level between the reporting point vary by:",
+    "AnswerA": "±5%",
+    "AnswerB": "±4%",
+    "AnswerC": "±3%",
+    "AnswerD": "±2 %",
+    "CorrectAnswer": "±5%",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 82,
+    "Question": "The pilot of the jet aircraft wish to reach the destination with the minimum use of fuel. They should fly at:",
+    "AnswerA": "Maximum range cruise speed",
+    "AnswerB": "Best landing speed",
+    "AnswerC": "Long range cruise speed",
+    "AnswerD": "Minimum power speed",
+    "CorrectAnswer": "Maximum range cruise speed",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 83,
+    "Question": "When descending below the optimum altitude at the long range cruise speed:",
+    "AnswerA": "Mach number decreases",
+    "AnswerB": "TAS increases",
+    "AnswerC": "Mach number remains constant",
+    "AnswerD": "Mach number increases",
+    "CorrectAnswer": "Mach number decreases",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 84,
+    "Question": "What will be the influence of the aeroplane performance if aerodrome pressure altitude is increased?",
+    "AnswerA": "It will increase the take-off distance",
+    "AnswerB": "It will decrease the take-off distance",
+    "AnswerC": "It will increase the take-off distance available",
+    "AnswerD": "",
+    "CorrectAnswer": "It will increase the take-off distance",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 85,
+    "Question": "For a jet transport aeroplane, which of the following is the reason for the use of maximum range speed",
+    "AnswerA": "Minimum specific fuel comsumption",
+    "AnswerB": "Minimum fuel flow",
+    "AnswerC": "Longest flight duration",
+    "AnswerD": "Minimum drag",
+    "CorrectAnswer": "Minimum specific fuel comsumption",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 86,
+    "Question": "An aircraft with 180 minutes ETOPS approval must be:",
+    "AnswerA": "no more than 180 minutes from a suitable alternate, still air at the one engine inoperative TAS",
+    "AnswerB": "no more than 60 minutes from a suitable alternate, in the prevailing conditions and using the one engine inoperative TAS",
+    "AnswerC": "no more than 90 minutes from a suitable alternate, in the prevailing conditions and using the one engine inoperative TAS",
+    "AnswerD": "",
+    "CorrectAnswer": "no more than 180 minutes from a suitable alternate, still air at the one engine inoperative TAS",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 87,
+    "Question": "All current civil SSR systems use :",
+    "AnswerA": "The same frequencies i.e. 1030MHz for the ground to air transmission and 1090MHz for the air to ground transmission.",
+    "AnswerB": "The same frequencies i.e. 1090MHz for the ground to air transmission and 1030MHz for the air to ground transmission.",
+    "AnswerC": "The same frequency i.e. 1030MHz for transmissions on both directions .",
+    "AnswerD": "",
+    "CorrectAnswer": "The same frequencies i.e. 1030MHz for the ground to air transmission and 1090MHz for the air to ground transmission.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 88,
+    "Question": "If an unidentified aircraft is approaching heading on the controlled aircraft what action should be taken by the radar controller?",
+    "AnswerA": "Immediately turn the controlled aircraft to the right",
+    "AnswerB": "Descend the controlled aircraft to fly below the unidentified aircraft",
+    "AnswerC": "When the aircraft is 5 miles apart turn the controlled aircraft to the right",
+    "AnswerD": "Immediately climb the controlled aircraft",
+    "CorrectAnswer": "Immediately turn the controlled aircraft to the right",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 89,
+    "Question": "How is Flight Visibility defined?",
+    "AnswerA": "The visibility reported by a pilot currently flying in the vicinity",
+    "AnswerB": "The measured visibility assessed by a certified meteorological observer",
+    "AnswerC": "The visibility forward from the flight deck of an aeroplane in flight",
+    "AnswerD": "The forecast visibility at 3000 ft above the aerodrome",
+    "CorrectAnswer": "The visibility forward from the flight deck of an aeroplane in flight",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 90,
+    "Question": "An aircraft is considered to overtake another if it approaches the other aircraft from the rear on a line forming an angle of less than:",
+    "AnswerA": "60 degrees with the plane of symmetry of the latter",
+    "AnswerB": "50 degrees with the plane of symmetry of the latter",
+    "AnswerC": "80 degrees with the plane of symmetry of the latter",
+    "AnswerD": "70 degrees with the plane of symmetry of the latter",
+    "CorrectAnswer": "70 degrees with the plane of symmetry of the latter",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 91,
+    "Question": "Pilots should notify air traffic control a revised estimated time if the reported estimate for the reporting point is found to be in error in excess of:",
+    "AnswerA": "±5 minutes",
+    "AnswerB": "±4 minutes",
+    "AnswerC": "±3 minutes",
+    "AnswerD": "±2 minutes",
+    "CorrectAnswer": "±3 minutes",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 92,
+    "Question": "An aircraft flying above the sea between 4,500ft MSL and 9000ft MSL outside controlled airspace under VFR , must remain on principle at least:",
+    "AnswerA": "Clear of clouds and sight of surface ; 8km visibility",
+    "AnswerB": "2000ft horizontally , 1000ft vertically from clouds ; 5 km visibility",
+    "AnswerC": "1500m horizontally , 1000ft vertically from clouds ; 5 km visibility",
+    "AnswerD": "1500m horizontally , 1000ft vertically from clouds ;8 km visibility",
+    "CorrectAnswer": "1500m horizontally , 1000ft vertically from clouds ; 5 km visibility",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 93,
+    "Question": "What are the international aviation urgency signals?",
+    "AnswerA": "SOS",
+    "AnswerB": "MAYDAY",
+    "AnswerC": "PANPAN",
+    "AnswerD": "All the above",
+    "CorrectAnswer": "PANPAN",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 94,
+    "Question": "If an arriving aircraft is making a straight-in approach, a departing aircraft may take off in any direction until……….. before the arriving aircraft is estimated to be over the instrument runway.",
+    "AnswerA": "10 minutes.",
+    "AnswerB": "2 minutes.",
+    "AnswerC": "5 minutes.",
+    "AnswerD": "3 minutes.",
+    "CorrectAnswer": "5 minutes.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 95,
+    "Question": "Radar separation between two wake turbulence category “ HEAVY” aircrafts on final shall be at least:",
+    "AnswerA": "3NM.",
+    "AnswerB": "4NM.",
+    "AnswerC": "5NM.",
+    "AnswerD": "6NM.",
+    "CorrectAnswer": "4NM.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 96,
+    "Question": "When aircraft operating within controlled airspace needs to dump fuel, the flight crew shall advise ATC. The ATC unit should then coordinate with the flight crew the following: the rout to be flown, which, if possible, should be clear of cities and towns, preferably over water and away from areas where thunderstorms have been reported or are expected; The duration of the fuel dumping;The level to be used, which should be not less than……….",
+    "AnswerA": "1800m(6000ft).",
+    "AnswerB": "1500m(5000ft)",
+    "AnswerC": "1200m(4000ft).",
+    "AnswerD": "900m(3000ft).",
+    "CorrectAnswer": "1800m(6000ft).",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 97,
+    "Question": "The MSA provides obstacle clearance in a circle with a radius of:",
+    "AnswerA": "15NM.",
+    "AnswerB": "20NM.",
+    "AnswerC": "25NM",
+    "AnswerD": "30NM",
+    "CorrectAnswer": "25NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 98,
+    "Question": "To determine effect of wake turbulence, aircraft are grouped into the following categories:",
+    "AnswerA": "CAT I, CAT II, CAT III;",
+    "AnswerB": "SMALL, MEDIUM, LARGE;",
+    "AnswerC": "LIGHT, MEDIUM, HEAVY;",
+    "AnswerD": "CAT A, CAT B, CAT C.",
+    "CorrectAnswer": "LIGHT, MEDIUM, HEAVY;",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 99,
+    "Question": "If an arriving aircraft is making a complete instrument approach, a departing aircraft may take off in any direction until:",
+    "AnswerA": "The arriving aircraft has started its procedure turn or base turn leading to final approach.",
+    "AnswerB": "The arriving aircraft has commenced initial approach.",
+    "AnswerC": "The arriving aircraft has entered ILS glide path.",
+    "AnswerD": "The pilot of the arriving aircraft has observed the departing aircraft.",
+    "CorrectAnswer": "The arriving aircraft has started its procedure turn or base turn leading to final approach.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 100,
+    "Question": "The controller shall…………. To ascertain that the clearance or instruction has been correctly acknowledge by flight crew and shall take immediately action to correct any discrepancies revealed by the…..",
+    "AnswerA": "Observe…….listen",
+    "AnswerB": "Readback………listen.",
+    "AnswerC": "Listen……….readback.",
+    "AnswerD": "Readback……readback.",
+    "CorrectAnswer": "Listen……….readback.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 101,
+    "Question": "Which aircraft along the following has first priority:",
+    "AnswerA": "Departing aircraft.",
+    "AnswerB": "Taxiing aircraft.",
+    "AnswerC": "Arriving aircraft on final approach.",
+    "AnswerD": "Arriving aircraft in the traffic pattern.",
+    "CorrectAnswer": "Arriving aircraft on final approach.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 102,
+    "Question": "When an aircraft will pass through the level of another aircraft on crossing tracks, the longitudinal separation minima is………………when the level is crossed:",
+    "AnswerA": "10 minutes if preceding aircraft is 74km/h(40kt) or more faster than the following.",
+    "AnswerB": "10 minutes if the track are 30 degrees or more divergent.",
+    "AnswerC": "15 minutes.",
+    "AnswerD": "2 and 3",
+    "CorrectAnswer": "15 minutes.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 103,
+    "Question": "The criterion which shall be used to determine that a specific level is occupied by an aircraft shall be ±60m(200ft) in RVSM airspace. In other airspace, it shall be………..,except that the appropriate ATS authority may specify a smaller criterion, but not less than ±60m(200ft), if this is found to be more practical.",
+    "AnswerA": "±90m(300ft)",
+    "AnswerB": "±60m(200ft)",
+    "AnswerC": "±30m(100ft)",
+    "AnswerD": "±120m(400ft)",
+    "CorrectAnswer": "±90m(300ft)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 104,
+    "Question": "An IFR flight may be cleared to execute a visual approach provided the pilot can maintain visual reference to the terrain and the reported ceiling is…………..the level of the beginning of the initial approach segment for the aircraft so cleared; or the pilot reports at the level of the beginning of the………..or at any time during the instrument approach procedure that the meteorological conditions are such that with reasonable assurance a visual approach and landing can be completed.",
+    "AnswerA": "Below…………final approach segment.",
+    "AnswerB": "At or above…….initial approach segment.",
+    "AnswerC": "Upper………..missed approach procedure.",
+    "AnswerD": "Below……………intermediate approach segment.",
+    "CorrectAnswer": "At or above…….initial approach segment.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 105,
+    "Question": "Vertical separation if other known traffic behind aircraft dumping fuel within 15 minutes flying time or a distance of 93km (50NM) by at least 300m (1000ft) if above the aircraft dumping fuel; and",
+    "AnswerA": "At least 600m (2000ft) if below the aircraft dumping fuel.",
+    "AnswerB": "At least 300m (1000ft) if below the aircraft dumping fuel.",
+    "AnswerC": "At least 900m (3000ft) if below the aircraft dumping fuel.",
+    "AnswerD": "At least 1200m (4000ft) if below the aircraft dumping fuel.",
+    "CorrectAnswer": "At least 900m (3000ft) if below the aircraft dumping fuel.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 106,
+    "Question": "The final vector shall enable the aircraft to be established in level flight on the final approach track prior to intercepting the specified or norminal glide path if an ILS or radar approach is to be made and should provide an intercept angle with the final approach track of ……………..",
+    "AnswerA": "30 degrees or less",
+    "AnswerB": "45 degrees or less",
+    "AnswerC": "25 degrees or less",
+    "AnswerD": "None of the above",
+    "CorrectAnswer": "45 degrees or less",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 107,
+    "Question": "Red pyrotechnic directed by tower to an aircraft in flight means:",
+    "AnswerA": "Return for landing",
+    "AnswerB": "Not withstanding any previous instruction, do not land for the time being",
+    "AnswerC": "Give way to other aircraft and continue circling",
+    "AnswerD": "Clearance to and taxi will be given in due course.",
+    "CorrectAnswer": "Not withstanding any previous instruction, do not land for the time being",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 108,
+    "Question": "In the event of a delay of …..minutes in excess of the estimated off-block time for a controlled flight or delay of …minutes for an uncontrolled flight for which a flight plan has been submitted , the flight plan should be amended or a new flight plan submitted and the old flight plan cancelled, whichever is applicable :",
+    "AnswerA": "30,30",
+    "AnswerB": "30,60",
+    "AnswerC": "60,30",
+    "AnswerD": "60,60",
+    "CorrectAnswer": "30,60",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 109,
+    "Question": "If a pilot who has experienced two-way radio failure during an IFR flight proceeds according to his latest clearance , which was the navigational aid serving his destination airport , where should he commence his descent for landing ?",
+    "AnswerA": "When he is 80 miles from the airport",
+    "AnswerB": "When he enters the TMA",
+    "AnswerC": "When he is over the airport",
+    "AnswerD": "From the navigational aid serving his destination",
+    "CorrectAnswer": "From the navigational aid serving his destination",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 110,
+    "Question": "Aircraft taxiing in the manoeuvring area must give way to",
+    "AnswerA": "Departing traffic",
+    "AnswerB": "Landing traffic",
+    "AnswerC": "Departing and landing traffic",
+    "AnswerD": "follow-me vehicles",
+    "CorrectAnswer": "Departing and landing traffic",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 111,
+    "Question": "For the purpose of wake turbulence separation, what is the ICAO minimum radar separation distance if a heavy aeroplane is following directly behind another heavy aeroplance on the approach to the same runway ?",
+    "AnswerA": "3.7 km (2 NM)",
+    "AnswerB": "7.4 km (4 NM)",
+    "AnswerC": "9.3 km (5 NM)",
+    "AnswerD": "11.1 km (6 NM)",
+    "CorrectAnswer": "7.4 km (4 NM)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 112,
+    "Question": "An operator must ensure that, for the duration of each flight, be kept on the ground a copy of the :",
+    "AnswerA": "flight route sheet",
+    "AnswerB": "operation flight plan.",
+    "AnswerC": "ATC (Air Traffic Control) flight plan",
+    "AnswerD": "flight plan processing",
+    "CorrectAnswer": "operation flight plan.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 113,
+    "Question": "Visual approach is :",
+    "AnswerA": "An approach made by an IFR flight when either part or all of an instrument approach procedure is not completed.",
+    "AnswerB": "An approach made by VFR flight.",
+    "AnswerC": "Executed in visual reference to terrain.",
+    "AnswerD": "1 and 3",
+    "CorrectAnswer": "1 and 3",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 114,
+    "Question": "Clearance limit means :",
+    "AnswerA": "The point to which an aircraft is granted an air traffic control clearance .",
+    "AnswerB": "The destination airport at which an aircraft plans to arrive.",
+    "AnswerC": "The flight level at which an aircraft plans to fly.",
+    "AnswerD": "To point at which an aircraft is going to hold.",
+    "CorrectAnswer": "The point to which an aircraft is granted an air traffic control clearance .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 115,
+    "Question": "Touchdown zone is:",
+    "AnswerA": "The portion of a runway , beyond the threshold , where it is intended landing airplanes first contact the runway.",
+    "AnswerB": "The portion of a runway, at the threshold, where it is intended landing airplanes first contact the runway .",
+    "AnswerC": "The beginning of a runway where it is intended landing airplanes first contact the runway .",
+    "AnswerD": "The portion of a runway where it is intended landing airplanes first contact the runway .",
+    "CorrectAnswer": "The portion of a runway , beyond the threshold , where it is intended landing airplanes first contact the runway.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 116,
+    "Question": "Expected approach time is :",
+    "AnswerA": "The time at which ATC expects that an arriving aircraft , following a delay will leave the holding point to complete its approach for landing .",
+    "AnswerB": "The time at which the pilot of an arriving aircraft expects to leave the holding point to complete its approach for landing",
+    "AnswerC": "The time at which it is estimated that an arriving aircraft will commence its approach for landing",
+    "AnswerD": "All the above",
+    "CorrectAnswer": "The time at which ATC expects that an arriving aircraft , following a delay will leave the holding point to complete its approach for landing .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 117,
+    "Question": "Missed approach procedure is :",
+    "AnswerA": "The procedure to be followed if an aircraft cannot land",
+    "AnswerB": "The procedure which aircraft uses when there are many obstacles on the Runway-in–use",
+    "AnswerC": "The procedure to be commenced by aircraft decision height",
+    "AnswerD": "The procedure to be followed if the approach cannot be continued.",
+    "CorrectAnswer": "The procedure to be followed if the approach cannot be continued.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 118,
+    "Question": "Cruising levels at which a flight is to be conducted mean :",
+    "AnswerA": "Flight levels",
+    "AnswerB": "Altitudes",
+    "AnswerC": "Flight level for flights at or above the lowest usable flight level or altitude for flights below the lowest usable flight level",
+    "AnswerD": "Flight level used for en-route flight.",
+    "CorrectAnswer": "Flight level used for en-route flight.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 119,
+    "Question": "After an aircraft has been intercepted in flight, the intercepted aircraft is rocking its wings. This means",
+    "AnswerA": "Unable to comply",
+    "AnswerB": "No",
+    "AnswerC": "You are not to enter this airspace",
+    "AnswerD": "Understood, will comply",
+    "CorrectAnswer": "Understood, will comply",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 120,
+    "Question": "Thinking on human reliability is changing:",
+    "AnswerA": "It is thought that will be possible to eliminate errors in the near future.",
+    "AnswerB": "Human errors are now considered as being inherent to the cognitive function of human and are generally inescapable .",
+    "AnswerC": "Human errors can be avoide All it takes is to be vigilant and to extend one’s knowledge.",
+    "AnswerD": "The individual view of safety has gradually replaced the systemic view of safety.",
+    "CorrectAnswer": "Human errors are now considered as being inherent to the cognitive function of human and are generally inescapable .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 121,
+    "Question": "Which of the following statements in regard to motivation is correct?",
+    "AnswerA": "Too much motivation may result in hypovigilance and thus in a decrease in attention.",
+    "AnswerB": "Motivation will reduce the task automation process.",
+    "AnswerC": "Low motivation will guarantee adequate attention management capabilities.",
+    "AnswerD": "Extremely high motivation in combination with excessive stress will limit attention management capabilities.",
+    "CorrectAnswer": "Extremely high motivation in combination with excessive stress will limit attention management capabilities.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 122,
+    "Question": "Once detected, an error will result in cognitive consequences which:",
+    "AnswerA": "Are prompted by inductive factors.",
+    "AnswerB": "Have virtually no interaction with behavior.",
+    "AnswerC": "Make it possible to modify behavior with a view to adaptation .",
+    "AnswerD": "Destabilize cognitive progress and maintain the error.",
+    "CorrectAnswer": "Make it possible to modify behavior with a view to adaptation .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 123,
+    "Question": "What are the various factors which guide attention?\n 1: the level of automation of behavior \n 2: response time\n 3: the salience of the information\n 4: expectations",
+    "AnswerA": "1, 4",
+    "AnswerB": "1, 2",
+    "AnswerC": "2, 3, 2004",
+    "AnswerD": "1, 3 ,2004",
+    "CorrectAnswer": 37989,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 124,
+    "Question": "An important aspect of Situational Awareness is:",
+    "AnswerA": "When individual's perception equals (matches) reality",
+    "AnswerB": "When individual's perception higher than reality",
+    "AnswerC": "When individual's perception lower than reality",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "When individual's perception equals (matches) reality",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 125,
+    "Question": "The ability to monitor information which could indicate the development of a critical situation:",
+    "AnswerA": "is necessary to maintain good situational awareness",
+    "AnswerB": "is dangerous, because it distracts attention from flying the aircraft",
+    "AnswerC": "makes no sense because the human information processing system is limited anyway",
+    "AnswerD": "is responsible for the development of inadequate mental models of the real world",
+    "CorrectAnswer": "is necessary to maintain good situational awareness",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 126,
+    "Question": "Stress is above all:",
+    "AnswerA": "A response by man to his problems, which automatically leads to a reduction in his performance.",
+    "AnswerB": "A phenomenon which is specific to modern man.",
+    "AnswerC": "The best adaptation phenomenon that man possesses for responding to the various situation which he may have to face .",
+    "AnswerD": "A psychosomatic disease that one can learn to control.",
+    "CorrectAnswer": "The best adaptation phenomenon that man possesses for responding to the various situation which he may have to face .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 127,
+    "Question": "According to Wicken’s theory, the human brain has:",
+    "AnswerA": "Cognitive resources which are centered on action.",
+    "AnswerB": "Processing capabilities which function at peak level when different tasks call for the same resources.",
+    "AnswerC": "Different reservoirs depending on whether one is in the information-gathering, information-processing or action phase",
+    "AnswerD": "Unlimited information-processing resources.",
+    "CorrectAnswer": "Different reservoirs depending on whether one is in the information-gathering, information-processing or action phase",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 128,
+    "Question": "Between which components an interface mismatch causing disturbance of the biological rhythm, thus leading to reduced human performance?",
+    "AnswerA": "Liveware – Hardware.",
+    "AnswerB": "Liveware – Software.",
+    "AnswerC": "Liveware – Environment .",
+    "AnswerD": "Liveware – Liveware.",
+    "CorrectAnswer": "Liveware – Environment .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 129,
+    "Question": "An increase in workload usually leads to:",
+    "AnswerA": "A longer and less frequent exchange of information.",
+    "AnswerB": "A shorter and more frequent exchange of information.",
+    "AnswerC": "A longer and more frequent exchange of information.",
+    "AnswerD": "A shorter and less frequent exchange of information .",
+    "CorrectAnswer": "A shorter and less frequent exchange of information .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 130,
+    "Question": "Which of the following characteristics apply to short-term memory? \n 1: it is limited in time and size\n 2: it is unlimited in time and limited in size\n 3: it is stable and insensitive to disturbances\n 4: it is limited in time and unlimited in size",
+    "AnswerA": "2, 3.",
+    "AnswerB": "1 .",
+    "AnswerC": "1, 3.",
+    "AnswerD": "1, 2, 3, 4.",
+    "CorrectAnswer": "1 .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 131,
+    "Question": "Stress appears:\n 1: only in a situation of imminent danger \n 2: only when faced with real, existing and palpable phenomenon\n 3: sometimes via imagination, the anticipation of a situation or its outcome\n 4: because of the similarity with a formerly experienced stressful situation \n The correct statement(s) is (are):",
+    "AnswerA": "3 ,4",
+    "AnswerB": "1, 2",
+    "AnswerC": "2, 3",
+    "AnswerD": "1, 2, 2004",
+    "CorrectAnswer": 46085,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 132,
+    "Question": "The capacity of the short-term memory is",
+    "AnswerA": "Very limited – only one item.",
+    "AnswerB": "About 30 items.",
+    "AnswerC": "Unlimited",
+    "AnswerD": "A few items of information during a few seconds .",
+    "CorrectAnswer": "A few items of information during a few seconds .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 133,
+    "Question": "What is the effect of tiredness on attention?",
+    "AnswerA": "It has no specific effects on attention.",
+    "AnswerB": "It reduces the ability to manage multiple matters .",
+    "AnswerC": "It increases the ability to manage multiple matters.",
+    "AnswerD": "It leads to one’s attention being dispersed between different centers of interest.",
+    "CorrectAnswer": "It reduces the ability to manage multiple matters .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 134,
+    "Question": "Decision-making can be influenced by the following factors:\n 1: people tend to conform to opinions expressed by a majority within the group they belong to \n 2: people always tend to keep the future decisions in line with those their superiors have made in the past \n 3: people more easily tend to select data which meet the expectations \n 4: people hardly base decisions on their personal preferences but rather on rational information",
+    "AnswerA": "2, 3",
+    "AnswerB": "1, 4",
+    "AnswerC": "2, 4",
+    "AnswerD": "1 , 3",
+    "CorrectAnswer": "1 , 3",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 135,
+    "Question": "Which model has some holes on layer of defences, barriers, and safeguard?",
+    "AnswerA": "SHEL",
+    "AnswerB": "Swiss Cheese",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 or 2",
+    "CorrectAnswer": "Swiss Cheese",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 136,
+    "Question": "What do holes on layers in the ‘Swiss Cheese’ model indicate?",
+    "AnswerA": "Risks.",
+    "AnswerB": "Active failure.",
+    "AnswerC": "Hazards",
+    "AnswerD": "None of above.",
+    "CorrectAnswer": "Hazards",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 137,
+    "Question": "What is the reason of ‘Swiss Cheese’ model",
+    "AnswerA": "Promotes a systematic approach to safety.",
+    "AnswerB": "Is a logical and systematic development of the error chain approach to focus on causes of “organizational accidents”.",
+    "AnswerC": "Involves recognition that all components of the aviation system can contribute to and detract from safe and effective operations.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 138,
+    "Question": "Which of the following ideas is not true about practical use of reason ‘Swiss Cheese’ model?",
+    "AnswerA": "Removes the spotlight from operator’s error",
+    "AnswerB": "Filter out non-contributory facts.",
+    "AnswerC": "Identifies missing or conflicting information.",
+    "AnswerD": "Provides an extremely effective briefing tool for ATC .",
+    "CorrectAnswer": "Provides an extremely effective briefing tool for ATC .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 139,
+    "Question": "Which of the following statements is true about error chain?",
+    "AnswerA": "In most cases accidents and incidents are result of a single cause.",
+    "AnswerB": "Many accidents are a linked sequence where several layers of defences fail .",
+    "AnswerC": "The sequence may not originate with an individual or at a high level within the organization.",
+    "AnswerD": "Preventing or avoiding one of these events would have led to an accident.",
+    "CorrectAnswer": "Many accidents are a linked sequence where several layers of defences fail .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 140,
+    "Question": "Which of the following statements is true about chain of event?",
+    "AnswerA": "Multiple contributing causes that can lead to an accident.",
+    "AnswerB": "Rarely does an accident have a single cause.",
+    "AnswerC": "If we can break just one link in the chain, the accident doesn’t happen.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 141,
+    "Question": "Some areas of concerned are at the controller’s workplace:",
+    "AnswerA": "Work environment; man and the system.",
+    "AnswerB": "Display system; input devices; computer assistance.",
+    "AnswerC": "Human cognitive capabilities & limitations; communication.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 142,
+    "Question": "Goals of automation are to",
+    "AnswerA": "Aid efficiency and Improve safety.",
+    "AnswerB": "Help to prevent errors.",
+    "AnswerC": "Increase reliability.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 143,
+    "Question": "Automation’s standardization in ATC includes:",
+    "AnswerA": "Verbal communication safest when everyone adhere to standardization (language, format, etc).",
+    "AnswerB": "Deviations can lead to errors and misunderstanding – must be discouraged.",
+    "AnswerC": "Recommendation with recent form of automation – apply rigid standardization, not to introduce any variations or shortcuts.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 144,
+    "Question": "What is the training of controllers objective to",
+    "AnswerA": "ensure that controllers possess the required knowledge, skills and experience to perform their duties safely and efficiently .",
+    "AnswerB": "make the best use of the human strengths and capabilities and overcome or circumvent human inadequacies or limitations.",
+    "AnswerC": "maintain controller’s proficiency.",
+    "AnswerD": "all of above",
+    "CorrectAnswer": "ensure that controllers possess the required knowledge, skills and experience to perform their duties safely and efficiently .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 145,
+    "Question": "The quality of learning:",
+    "AnswerA": "Is independent of age.",
+    "AnswerB": "Is promoted by feedback on the value of one’s own performance .",
+    "AnswerC": "Depends on long-term memory capacity.",
+    "AnswerD": "Is independent of the level of motivation.",
+    "CorrectAnswer": "Is promoted by feedback on the value of one’s own performance .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 146,
+    "Question": "Information stays in the short-term memory",
+    "AnswerA": "Around 24 hours.",
+    "AnswerB": "About 20 seconds.",
+    "AnswerC": "Less than 1 second.",
+    "AnswerD": "During a few seconds .",
+    "CorrectAnswer": "During a few seconds .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 147,
+    "Question": "Which combination of elements guarantee the understanding of a message without adding new information to it?",
+    "AnswerA": "Synchronization",
+    "AnswerB": "Encoding",
+    "AnswerC": "Feedback",
+    "AnswerD": "Coding",
+    "CorrectAnswer": "Feedback",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 148,
+    "Question": "Why is frost considered hazardous to flight?",
+    "AnswerA": "Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability.",
+    "AnswerB": "Frost slows the airflow over the airfoils, thereby increasing control effectiveness.",
+    "AnswerC": "Frost changes the basic aerodynamic shape of the airfoils, thereby increasing lift.",
+    "AnswerD": "",
+    "CorrectAnswer": "Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 149,
+    "Question": "The name given to the lowest forecast mean sea level pressure in an area is:",
+    "AnswerA": "Regional QNH.",
+    "AnswerB": "QFE.",
+    "AnswerC": "QFF.",
+    "AnswerD": "QNE.",
+    "CorrectAnswer": "Regional QNH.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 150,
+    "Question": "One or more coloured rings around the sun or moon may indicate the presence of which type of cloud?",
+    "AnswerA": "Altostratus.",
+    "AnswerB": "High.",
+    "AnswerC": "Stratus.",
+    "AnswerD": "Cirrocumulus.",
+    "CorrectAnswer": "Altostratus.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 151,
+    "Question": "Hail is most likely to fall from which type of cloud?",
+    "AnswerA": "CB .",
+    "AnswerB": "NS.",
+    "AnswerC": "AC.",
+    "AnswerD": "AS.",
+    "CorrectAnswer": "CB .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 152,
+    "Question": "From the list below, select the Low, Medium and High clouds in ascending order.",
+    "AnswerA": "Stratus, Altocumulus , Cirrus.",
+    "AnswerB": "Nimbostratus, Cumulonimbus, Cirrus.",
+    "AnswerC": "Altostratus, Altocumulus, Cirrus.",
+    "AnswerD": "Cirrus, Cumulonimbus, Stratus.",
+    "CorrectAnswer": "Stratus, Altocumulus , Cirrus.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 153,
+    "Question": "Precipitation produced by stratus is normally?",
+    "AnswerA": "Drizzle",
+    "AnswerB": "Heavy showers.",
+    "AnswerC": "Heavy rain.",
+    "AnswerD": "Light showers.",
+    "CorrectAnswer": "Drizzle",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 154,
+    "Question": "Unstable air is forced to rise up the side of a mountain. What weather might you expect to see on the windward slopes?",
+    "AnswerA": "Cloud of extensive vertical development .",
+    "AnswerB": "Thick stratiform cloud, probably nimbostratus.",
+    "AnswerC": "None, as the air will subside and warm adiabatically after passing over the summit.",
+    "AnswerD": "Cap clouds with possible altocumulus lenticularis.",
+    "CorrectAnswer": "Cloud of extensive vertical development .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 155,
+    "Question": "WMO data type designator used for OPMET data, which of the following statements is likely true SA ?",
+    "AnswerA": "Aerodrome report",
+    "AnswerB": "Aerodrome forecast .",
+    "AnswerC": "Volcanic ash advisorie.",
+    "AnswerD": "Administrative",
+    "CorrectAnswer": "Aerodrome report",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 156,
+    "Question": "WMO data type designator used for OPMET data, which of the following statements is likely true FT?",
+    "AnswerA": "TAF",
+    "AnswerB": "TCA.",
+    "AnswerC": "METAR.",
+    "AnswerD": "VAA.",
+    "CorrectAnswer": "TAF",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 157,
+    "Question": "WMO data type designator used for OPMET data, which of the following statements is likely true WS ?",
+    "AnswerA": "SIGMET",
+    "AnswerB": "SIGMET for TC",
+    "AnswerC": "SIGMET for VA",
+    "AnswerD": "VAA",
+    "CorrectAnswer": "SIGMET",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 158,
+    "Question": "WMO data type designator used for OPMET data, which of the following statements is likely true FK ?",
+    "AnswerA": "Tropical cyclone advisories .",
+    "AnswerB": "Air-reports",
+    "AnswerC": "Aerodrome forecasts.",
+    "AnswerD": "Administrative",
+    "CorrectAnswer": "Tropical cyclone advisories .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 159,
+    "Question": "WMO data type designator used for OPMET data, which of the following statements is likely true WC ?",
+    "AnswerA": "SIGMET.",
+    "AnswerB": "SIGMET for TC .",
+    "AnswerC": "SIGMET for VA.",
+    "AnswerD": "TCA",
+    "CorrectAnswer": "SIGMET for TC .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 160,
+    "Question": "OPMET bulletins transmitted via AFTN, priority indicators FF used for OPMET data as follow:",
+    "AnswerA": "SIGMET.",
+    "AnswerB": "AIREP SPECIAL.",
+    "AnswerC": "VAA, TCA and TAF AMD.",
+    "AnswerD": "All correct",
+    "CorrectAnswer": "All correct",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 161,
+    "Question": "OPMET bulletins transmitted via AFTN, priority indicators GG used for OPMET data as follow:",
+    "AnswerA": "SIGMET.",
+    "AnswerB": "AIREP SPECIAL.",
+    "AnswerC": "TAF, METAR and SPECI.",
+    "AnswerD": "All correct",
+    "CorrectAnswer": "All correct",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 162,
+    "Question": "Required transit times of AFTN messages and bulletins containing OPMET information (SIGMET messages, volcanic ash and tropical cyclone advisory infonnation and special air-reports) should achieve transit times of less than the following:",
+    "AnswerA": "5 minutes .",
+    "AnswerB": "1 minute.",
+    "AnswerC": "10 minutes.",
+    "AnswerD": "15 minutes.",
+    "CorrectAnswer": "5 minutes .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 163,
+    "Question": "In the METAR and SPECI reports, the term vicinity (VC) shall be understood as:",
+    "AnswerA": "Between approximately 8 and 16 km of the aerodrome reference point .",
+    "AnswerB": "Not further away than approximately 8 km of the aerodrome reference point.",
+    "AnswerC": "Further away than approximately 16 km of the aerodrome reference point.",
+    "AnswerD": "Between approximately 6 and 8 km of the aerodrome reference point.",
+    "CorrectAnswer": "Between approximately 8 and 16 km of the aerodrome reference point .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 164,
+    "Question": "Which of the following statements is likely true about QNH?",
+    "AnswerA": "Pressure at mean sea level",
+    "AnswerB": "Pressure reset to mean sea level at same condition.",
+    "AnswerC": "Pressure level in accordance with ICAO standards.",
+    "AnswerD": "All the above.",
+    "CorrectAnswer": "Pressure at mean sea level",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 165,
+    "Question": "Which of the following statements is likely true a METAR?",
+    "AnswerA": "An aviation weather report",
+    "AnswerB": "An aviation weather forecast",
+    "AnswerC": "An aerodrome warning",
+    "AnswerD": "An AIRMET information",
+    "CorrectAnswer": "An aviation weather report",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 166,
+    "Question": "In the METAR/SPECI, when the RVR has increased during the 10 minutes preceding the observation, the tendency is indicated by:",
+    "AnswerA": "U",
+    "AnswerB": "D",
+    "AnswerC": "N",
+    "AnswerD": "P",
+    "CorrectAnswer": "U",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 167,
+    "Question": "In the METAR/SPECI, when the RVR has decreased, the tendency is indicated by:",
+    "AnswerA": "U",
+    "AnswerB": "D",
+    "AnswerC": "N",
+    "AnswerD": "P",
+    "CorrectAnswer": "D",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 168,
+    "Question": "In the METAR/SPECI, when the RVR no distinct change, the tendency is indicated by:",
+    "AnswerA": "U",
+    "AnswerB": "D",
+    "AnswerC": "N",
+    "AnswerD": "P",
+    "CorrectAnswer": "N",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 169,
+    "Question": "In the aviation meteorological sevice “Cloud of operational significance” shall be understood as:",
+    "AnswerA": "a cloud with the height of cloud base below 1 500 m (5 000 ft).",
+    "AnswerB": "a cloud below the highest minimum sector altitude, whichever is greater.",
+    "AnswerC": "a cumulonimbus cloud or a towering cumulus cloud at any height.",
+    "AnswerD": "all correct",
+    "CorrectAnswer": "all correct",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 170,
+    "Question": "There is thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous atmospheric phenomenon might be expected on the landing approach?",
+    "AnswerA": "Windshear , turbulence",
+    "AnswerB": "Steady rain",
+    "AnswerC": "Precipitation static",
+    "AnswerD": "Drizzle",
+    "CorrectAnswer": "Windshear , turbulence",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 171,
+    "Question": "The term “CAVOK” is uesd when:",
+    "AnswerA": "Visibility is 10 km or more and no cumulonimbus no weather of significance to aviation.",
+    "AnswerB": "Visibility is 10 km or more; No cloud below 1500m or below the highest minimum sector altitude; whichever is greater, and no cumulonimbus; No weather of significance to aviation.",
+    "AnswerC": "Visibility is 10 km; No cloud below 2000m or below the highest minimum sector altitude; whichever is greater, and no cumulonimbus; No weather of significance to aviation.",
+    "AnswerD": "Visibility is 10 km or more; No cloud below 1000m or below the highest minimum sector altitude; whichever is greater, and no cumulonimbus; No weather of significance to aviation.",
+    "CorrectAnswer": "Visibility is 10 km or more; No cloud below 1500m or below the highest minimum sector altitude; whichever is greater, and no cumulonimbus; No weather of significance to aviation.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 172,
+    "Question": "The term “CALM” in METAR and SPECI reports is coded as:",
+    "AnswerA": "00000 followed by the abbreviation for the wind speed units",
+    "AnswerB": 0,
+    "AnswerC": "CALM",
+    "AnswerD": "/////",
+    "CorrectAnswer": "00000 followed by the abbreviation for the wind speed units",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 173,
+    "Question": "In report in the METAR code form, surface wind should be based on below:",
+    "AnswerA": "An averaging period of 10 minutes, except that when the 10 minute period includes a marked discontinuity in the wind direction and/or speed.",
+    "AnswerB": "An averaging period of 5 minutes.",
+    "AnswerC": "An averaging period of 2 minutes.",
+    "AnswerD": "An averaging period of 1 minute.",
+    "CorrectAnswer": "An averaging period of 10 minutes, except that when the 10 minute period includes a marked discontinuity in the wind direction and/or speed.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 174,
+    "Question": "Hail is reported when:",
+    "AnswerA": "Diameter of largest hailstones is 5 mm or more.",
+    "AnswerB": "Diameter of largest hailstones is 4 mm or more.",
+    "AnswerC": "Diameter of largest hailstones is 3 mm or more.",
+    "AnswerD": "Diameter of largest hailstones is 2 mm or more.",
+    "CorrectAnswer": "Diameter of largest hailstones is 5 mm or more.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 175,
+    "Question": "Small hail an/or snow pellets is reported when:",
+    "AnswerA": "Diameter of largest hailstones is less than 2 mm.",
+    "AnswerB": "Diameter of largest hailstones is less than 4 mm.",
+    "AnswerC": "Diameter of largest hailstones is less than 3 mm.",
+    "AnswerD": "Diameter of largest hailstones is less than 5 mm.",
+    "CorrectAnswer": "Diameter of largest hailstones is less than 5 mm.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 176,
+    "Question": "Fog is reported when:",
+    "AnswerA": "Visibility is less than 1000m, except when qualified by “MI”, “BC’, “PR” or “VC”.",
+    "AnswerB": "Visibility is less than 800m, except when qualified by “MI”, “BC’, “PR” or “VC”.",
+    "AnswerC": "Visibility is less than 600m, except when qualified by “MI”, “BC’, “PR” or “VC”.",
+    "AnswerD": "Visibility is less than 500m, except when qualified by “MI”, “BC’, “PR” or “VC”.",
+    "CorrectAnswer": "Visibility is less than 1000m, except when qualified by “MI”, “BC’, “PR” or “VC”.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 177,
+    "Question": "Mist is reported when:",
+    "AnswerA": "Visibility is at least 1000 m but not more than 5000 m.",
+    "AnswerB": "Visibility is at least 800 m but not more than 3000 m.",
+    "AnswerC": "Visibility is at least 1500 m but not more than 4000 m.",
+    "AnswerD": "Visibility is at least 1500 m but not more than 5000 m.",
+    "CorrectAnswer": "Visibility is at least 1000 m but not more than 5000 m.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 178,
+    "Question": "In the local routine and special reports, temperature below 0 degrees Celsius are preceded by:",
+    "AnswerA": "MS",
+    "AnswerB": "M",
+    "AnswerC": "P",
+    "AnswerD": "",
+    "CorrectAnswer": "MS",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 179,
+    "Question": "In the METAR and SPECI reports, temperrature below 0 degrees Celsius are preceded by:",
+    "AnswerA": "MS",
+    "AnswerB": "M",
+    "AnswerC": "P",
+    "AnswerD": "",
+    "CorrectAnswer": "M",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 180,
+    "Question": "In reports for departing aircraft, the visibility observations should be:",
+    "AnswerA": "Representative of the take-off and climb-out area",
+    "AnswerB": "Representative of the take-off .",
+    "AnswerC": "Representative of the whole runways.",
+    "AnswerD": "Representative of the aerodrome and its vicinity.",
+    "CorrectAnswer": "Representative of the take-off and climb-out area",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 181,
+    "Question": "In reports for arriving aircraft, the visibility observations should be:",
+    "AnswerA": "Representative of the landing area",
+    "AnswerB": "Representative of the aerodrome and its vicinity.",
+    "AnswerC": "Representative of the approach and landing area.",
+    "AnswerD": "Representative of the whole runways.",
+    "CorrectAnswer": "Representative of the approach and landing area.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 182,
+    "Question": "In local reports, the term “CALM” is used when:",
+    "AnswerA": "A wind speed of less than 2 km/h is observed.",
+    "AnswerB": "A wind speed of less than 3 km/h is observed.",
+    "AnswerC": "A wind speed of less than 4 km/h is observed.",
+    "AnswerD": "A wind speed of less than 5 km/h is observed",
+    "CorrectAnswer": "A wind speed of less than 2 km/h is observed.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 183,
+    "Question": "In reports desseminated locally at the aerodrome, surface wind should be based on below:",
+    "AnswerA": "An averaging period of 2 minutes.",
+    "AnswerB": "An averaging period of 1 minute.",
+    "AnswerC": "An averaging period of 3 minutes.",
+    "AnswerD": "An averaging period of 4 minutes.",
+    "CorrectAnswer": "An averaging period of 2 minutes.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 184,
+    "Question": "Which of the following weather phenomena will reduce the visibility?",
+    "AnswerA": "rain",
+    "AnswerB": "fog",
+    "AnswerC": "haze",
+    "AnswerD": "all the above",
+    "CorrectAnswer": "all the above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 185,
+    "Question": "A tropical cyclone has wind speeds:",
+    "AnswerA": "34 kt or more",
+    "AnswerB": "32 kt or more",
+    "AnswerC": "33 kt or less",
+    "AnswerD": "31 kt or more",
+    "CorrectAnswer": "34 kt or more",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 186,
+    "Question": "A tornado over water is called a:",
+    "AnswerA": "waterspout",
+    "AnswerB": "mixer",
+    "AnswerC": "washer",
+    "AnswerD": "all the above",
+    "CorrectAnswer": "waterspout",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 187,
+    "Question": "An electrical discharge from a thunderstorm:",
+    "AnswerA": "lightning",
+    "AnswerB": "thunder",
+    "AnswerC": "rain",
+    "AnswerD": "mist",
+    "CorrectAnswer": "lightning",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 188,
+    "Question": "The layer of the atmosphere where most of the world’s weather occurs is ?",
+    "AnswerA": "stratosphere",
+    "AnswerB": "troposphere",
+    "AnswerC": "hemisphere",
+    "AnswerD": "thermosphere",
+    "CorrectAnswer": "troposphere",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 189,
+    "Question": "The gas which comprises most of the atmosphere is ?",
+    "AnswerA": "oxygen",
+    "AnswerB": "carbon",
+    "AnswerC": "nitrogen",
+    "AnswerD": "helium",
+    "CorrectAnswer": "nitrogen",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 190,
+    "Question": "You notice on a barometer that air pressure has been decreasing rapidly. The type of weather that would normally be expected to occur would be ?",
+    "AnswerA": "fog",
+    "AnswerB": "drizzle",
+    "AnswerC": "thunderstorm",
+    "AnswerD": "clear skies",
+    "CorrectAnswer": "thunderstorm",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 191,
+    "Question": "Which one of these clouds can produce moderate to heavy precipitation?",
+    "AnswerA": "cumulonimbus",
+    "AnswerB": "stratocumulus",
+    "AnswerC": "cirrus",
+    "AnswerD": "stratus",
+    "CorrectAnswer": "cumulonimbus",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 192,
+    "Question": "The first stage of a thunderstorm is the ________ ?",
+    "AnswerA": "cumulus stage",
+    "AnswerB": "mature stage",
+    "AnswerC": "dissipating stage",
+    "AnswerD": "all the above",
+    "CorrectAnswer": "cumulus stage",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 193,
+    "Question": "The most likely stage for large hail and damaging winds is the _________ of a thunderstorm ?",
+    "AnswerA": "cumulus stage",
+    "AnswerB": "mature stage",
+    "AnswerC": "dissipating stage",
+    "AnswerD": "all the above",
+    "CorrectAnswer": "mature stage",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 194,
+    "Question": "Wind shear warning be issued when expected existence of wind shear__?",
+    "AnswerA": "between runway level and 500 m above that level",
+    "AnswerB": "between runway level and 1500 m above that level",
+    "AnswerC": "at any level",
+    "AnswerD": "in thunderstorms",
+    "CorrectAnswer": "between runway level and 500 m above that level",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 195,
+    "Question": "TAF VVTS 200330Z 200624 23010KT 9999 BKN017 TEMPO 0814 1500 +TSRA SCT013 SCT015CB=",
+    "AnswerA": "The prior - of validity of forecast is 1-2 hours",
+    "AnswerB": "The prior- of validity of forecast is 18 hours",
+    "AnswerC": "The prior- of validity of forecast is 24 hours",
+    "AnswerD": "The prior- of validity of forecast is 15 hours",
+    "CorrectAnswer": "The prior- of validity of forecast is 18 hours",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 196,
+    "Question": "A SPECI is :",
+    "AnswerA": "An aerodrome corrected weather report",
+    "AnswerB": "An aerodrome routine weather report",
+    "AnswerC": "An aerodrome special weather report",
+    "AnswerD": "An aerodrome amended weather report",
+    "CorrectAnswer": "An aerodrome special weather report",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 197,
+    "Question": "Atmosphere pressure ………..with height :",
+    "AnswerA": "Does not change",
+    "AnswerB": "Increases",
+    "AnswerC": "Rises",
+    "AnswerD": "Falls",
+    "CorrectAnswer": "Falls",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 198,
+    "Question": "The change indicator TEMPO in the TAF used when :",
+    "AnswerA": "The probability that a certain change or value occurs",
+    "AnswerB": "The conditions are expected to reach or pass specified values at a regular or irregular rate",
+    "AnswerC": "The temporary fluctuations in the meteorological conditions , lasting less than one hour in each instance and covering less than half of the forecast period .",
+    "AnswerD": "All the MET conditions are to pass specified values at a regular rate",
+    "CorrectAnswer": "The temporary fluctuations in the meteorological conditions , lasting less than one hour in each instance and covering less than half of the forecast period .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 199,
+    "Question": "The change indicator PROB in the TAF used when :",
+    "AnswerA": "The probability that a certain change or value occurs",
+    "AnswerB": "The conditions are expected to reach or pass specified values at a regular or irregular rate",
+    "AnswerC": "The temporary fluctuations in the meteorological conditions , lasting less than one hour in each instance and covering less than half of the forecast period .",
+    "AnswerD": "All the MET conditions are to pass specified values at a regular rate",
+    "CorrectAnswer": "The probability that a certain change or value occurs",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 200,
+    "Question": "The period of validity of a SIGMET message shall be not more than __?",
+    "AnswerA": "4 hours",
+    "AnswerB": "6 hours",
+    "AnswerC": "12 hours",
+    "AnswerD": "18 hours",
+    "CorrectAnswer": "4 hours",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 201,
+    "Question": "An aircraft is on an IFR approach to an aerodrome in VMC. This approach can be defined as:",
+    "AnswerA": "a VFR approach",
+    "AnswerB": "a VFR approach with visual reference to the ground",
+    "AnswerC": "an IFR approach in IMC",
+    "AnswerD": "an IFR approach",
+    "CorrectAnswer": "an IFR approach",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 202,
+    "Question": "The abbreviation SSR stands for:",
+    "AnswerA": "Some strange radio.",
+    "AnswerB": "Secondary surveillance radar.",
+    "AnswerC": "Single system receiver.",
+    "AnswerD": "Sector safety range.",
+    "CorrectAnswer": "Secondary surveillance radar.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 203,
+    "Question": "Which abbreviation is used for Co-ordinated universal time?",
+    "AnswerA": "UTC",
+    "AnswerB": "COUT",
+    "AnswerC": "GMT",
+    "AnswerD": "CUT",
+    "CorrectAnswer": "UTC",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 204,
+    "Question": "A standard instrument arrival is known as a:",
+    "AnswerA": "STAR.",
+    "AnswerB": "SDP.",
+    "AnswerC": "SIA.",
+    "AnswerD": "SA.",
+    "CorrectAnswer": "STAR.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 205,
+    "Question": "PAPI stands for:",
+    "AnswerA": "Pitch attitude prime instrument.",
+    "AnswerB": "Precision approach indicators.",
+    "AnswerC": "Propeller and power indicator.",
+    "AnswerD": "Precision approach path indicators.",
+    "CorrectAnswer": "Precision approach path indicators.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 206,
+    "Question": "In Viet Nam the following types of radio aids to air navigation are available:",
+    "AnswerA": "NDB, VOR, DME, ILS, LORAN.",
+    "AnswerB": "NDB, VOR, DME, ILS, OMEGA.",
+    "AnswerC": "NDB, VOR, DME, ILS.",
+    "AnswerD": "NDB, VOR, DME, ILS, OMEGA, LORAN.",
+    "CorrectAnswer": "NDB, VOR, DME, ILS.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 207,
+    "Question": "Which facility among the following provides a/c with its azimuth and distance:",
+    "AnswerA": "NDB",
+    "AnswerB": "VOR/DME",
+    "AnswerC": "ILS",
+    "AnswerD": "DVOR",
+    "CorrectAnswer": "VOR/DME",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 208,
+    "Question": "Air traffic services unit clocks and other time-recording devices shall be checked as necessary to ensure correct time to within plus or minus ____ of UTC at all times:",
+    "AnswerA": "10 seconds.",
+    "AnswerB": "20 seconds.",
+    "AnswerC": "30 seconds.",
+    "AnswerD": "1 minute.",
+    "CorrectAnswer": "30 seconds.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 209,
+    "Question": "The frequencies used for survival radio equipment are:",
+    "AnswerA": "121.5 MHz and 406 MHz",
+    "AnswerB": "121.5 MHz and 423 MHz",
+    "AnswerC": "120.5 MHz and 243 MHz",
+    "AnswerD": "120.5 MHz and 423 MHz",
+    "CorrectAnswer": "121.5 MHz and 406 MHz",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 210,
+    "Question": "ATC unit may use the following means of communications for co-ordination purposes:",
+    "AnswerA": "AFTN",
+    "AnswerB": "Direct speech circuits",
+    "AnswerC": "Data - exchange circuits",
+    "AnswerD": "All of the above",
+    "CorrectAnswer": "All of the above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 211,
+    "Question": "Emergency locator transmetter (ELT) is fitted _____ :",
+    "AnswerA": "On board of the aircraft",
+    "AnswerB": "At the rescue co-ordination centre",
+    "AnswerC": "At the search and rescue Centre",
+    "AnswerD": "At the rescue sub Centre",
+    "CorrectAnswer": "On board of the aircraft",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 212,
+    "Question": "The ICAO definition of ETA is the:",
+    "AnswerA": "actual time of arrival at a point or fix.",
+    "AnswerB": "estimated time of arrival at an en-route point or fix.",
+    "AnswerC": "estimated time of arrival at destination.",
+    "AnswerD": "estimated time en route.",
+    "CorrectAnswer": "estimated time of arrival at destination.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 213,
+    "Question": "What is the value of magnetic dip at the South Magnetic Pole?",
+    "AnswerA": "0°",
+    "AnswerB": "360°",
+    "AnswerC": "180°",
+    "AnswerD": "090°",
+    "CorrectAnswer": "090°",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 214,
+    "Question": "A waypoint is:",
+    "AnswerA": "A geographical location relating to area navigation (RNAV).",
+    "AnswerB": "A visual sign pointing the way.",
+    "AnswerC": "A geographical point at which a change of level takes place.",
+    "AnswerD": "A designated reporting point.",
+    "CorrectAnswer": "A geographical location relating to area navigation (RNAV).",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 215,
+    "Question": "The limits of the VHF band are:",
+    "AnswerA": "30 - 300 MHz.",
+    "AnswerB": "3 - 30 MHz.",
+    "AnswerC": "300 - 3000 MHz.",
+    "AnswerD": "300 - 3000 KHz.",
+    "CorrectAnswer": "30 - 300 MHz.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 216,
+    "Question": "Positions on a Flight Management Computer are updated with information from:",
+    "AnswerA": "DME / DME.",
+    "AnswerB": "DME / VOR.",
+    "AnswerC": "DME / DME or DME / VOR.",
+    "AnswerD": "VOR / ADF.",
+    "CorrectAnswer": "DME / DME or DME / VOR.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 217,
+    "Question": "The radio navigation information used by the FMC is:",
+    "AnswerA": "ADF, VOR, DME.",
+    "AnswerB": "VOR, DME.",
+    "AnswerC": "DME, VOR , ILS.",
+    "AnswerD": "VOR, ADF, DME, ILS.",
+    "CorrectAnswer": "DME, VOR , ILS.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 218,
+    "Question": "Basic RNAV requires a track-keeping accuracy of:",
+    "AnswerA": "±3NM or better for 90% of the flight time.",
+    "AnswerB": "±2NM or better for 75% of the flight time.",
+    "AnswerC": "±5NM or better throughout the flight.",
+    "AnswerD": "±5NM or better for 95% of the flight time.",
+    "CorrectAnswer": "±5NM or better for 95% of the flight time.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 219,
+    "Question": "Using a primary radar:",
+    "AnswerA": "All 3 answers are correct.",
+    "AnswerB": "target size will influence the maximum range.",
+    "AnswerC": "detection of targets in the area close to the radar will be difficult.",
+    "AnswerD": "precipitation may reduce the useful range.",
+    "CorrectAnswer": "All 3 answers are correct.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 220,
+    "Question": "A Primary radar operates on the principle of:",
+    "AnswerA": "transponder interrogation.",
+    "AnswerB": "phase comparison.",
+    "AnswerC": "pulse technique.",
+    "AnswerD": "continuous wave transmission.",
+    "CorrectAnswer": "pulse technique.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 221,
+    "Question": "The Squawk code for emergency is:",
+    "AnswerA": 7500,
+    "AnswerB": 7700,
+    "AnswerC": 7600,
+    "AnswerD": 7000,
+    "CorrectAnswer": 7700,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 222,
+    "Question": "When an aircraft is subjected to unlawful interference , the pilot incomand shall indicate the situation by setting the transponder to",
+    "AnswerA": 7500,
+    "AnswerB": 7700,
+    "AnswerC": 7600,
+    "AnswerD": 7000,
+    "CorrectAnswer": 7500,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 223,
+    "Question": "RNP 4 represents a navigation accuracy of",
+    "AnswerA": "1NM on a 95% conatinment basis",
+    "AnswerB": "4NM either side of track",
+    "AnswerC": "4NM on a 95% containment basis",
+    "AnswerD": "4KM on a 95% containment basis",
+    "CorrectAnswer": "4NM on a 95% containment basis",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 224,
+    "Question": "Which is transmitting technique:",
+    "AnswerA": "Use a normal conversational tone, and speak clearly and distinctly",
+    "AnswerB": "Maintain the speaking volume at a constant level",
+    "AnswerC": "A slight pause before and after numbers will assist in making them easier to understand",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 225,
+    "Question": "The transmission of long messages should be :",
+    "AnswerA": "Transmited constantly",
+    "AnswerB": "Transmited as soon as possible",
+    "AnswerC": "Interrupted momentarily from time to time",
+    "AnswerD": "All above are correct",
+    "CorrectAnswer": "Interrupted momentarily from time to time",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 226,
+    "Question": "Refer to AGIMY,which is correct:",
+    "AnswerA": "Alpha-Golf-Yankee -Mike- India",
+    "AnswerB": "Alpha-Gold-India-Mike-Yankee.",
+    "AnswerC": "Alpha-Golf-India-Mike-Yankee.",
+    "AnswerD": "Alpha-Golf-India- Mile-Yankee.",
+    "CorrectAnswer": "Alpha-Golf-India-Mike-Yankee.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 227,
+    "Question": "Which is correct:",
+    "AnswerA": "Climb to two five hundred feet.",
+    "AnswerB": "Climb to two thousand five hundred feet.",
+    "AnswerC": "Climb two five hundred feet.",
+    "AnswerD": "Climb to twenty five hundred feet.",
+    "CorrectAnswer": "Climb to two thousand five hundred feet.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 228,
+    "Question": "What does ‘GO AHEAD’ mean:",
+    "AnswerA": "Go straight ahead",
+    "AnswerB": "Proceed with your message.",
+    "AnswerC": "Continue, do not stop",
+    "AnswerD": "Say again",
+    "CorrectAnswer": "Proceed with your message.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 229,
+    "Question": "What does ‘HOW DO YOU READ’ mean:",
+    "AnswerA": "How do you copy my message?",
+    "AnswerB": "Do you understand?",
+    "AnswerC": "What is readability of my transmission?",
+    "AnswerD": "Do you receive my message?",
+    "CorrectAnswer": "What is readability of my transmission?",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 230,
+    "Question": "In transmitting technique, rate of speech shall be not exceeded….words per minute:",
+    "AnswerA": 90,
+    "AnswerB": 100,
+    "AnswerC": 110,
+    "AnswerD": 120,
+    "CorrectAnswer": 100,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 231,
+    "Question": "In the initial contact,which message may be used by pilot:",
+    "AnswerA": "Noibai TWR,Thai 564, Heavy",
+    "AnswerB": "Noibai TWR,Thai 564, Medium",
+    "AnswerC": "Noibai TWR,Thai 564, Light",
+    "AnswerD": "Noibai TWR.Thai 564, VIP",
+    "CorrectAnswer": "Noibai TWR,Thai 564, Heavy",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 232,
+    "Question": "Except in cases of emergency, controllers should not transmit to an aircraft:",
+    "AnswerA": "When he is taxiing",
+    "AnswerB": "When he is joining final course.",
+    "AnswerC": "When he is taking-off",
+    "AnswerD": "When he vacating runway.",
+    "CorrectAnswer": "When he is taking-off",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 233,
+    "Question": "In What condition of weather ? the controller may request the pilot to report when airborne:",
+    "AnswerA": "Raining .",
+    "AnswerB": "Thunderstorm.",
+    "AnswerC": "Gusting wind.",
+    "AnswerD": "Poor visibility.",
+    "CorrectAnswer": "Poor visibility.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 234,
+    "Question": "When an aircraft has commenced the take-off roll, and it is necessary for the aircraft to abandon take-off in order to avert a dangerous traffic situation,which instruction shall be given (by ATC):",
+    "AnswerA": "(Callsign), cancel take-off.",
+    "AnswerB": "(Callsign), hold position",
+    "AnswerC": "(Callsign), stand by",
+    "AnswerD": "(Callsign), stop immediately.",
+    "CorrectAnswer": "(Callsign), stop immediately.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 235,
+    "Question": "A “FINAL” report is made when an aircraft turns onto final within … from touchdown:",
+    "AnswerA": "3NM",
+    "AnswerB": "4NM",
+    "AnswerC": "5NM",
+    "AnswerD": "6NM",
+    "CorrectAnswer": "4NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 236,
+    "Question": "A “LONG FINAL” report is made when an aircraft turns onto final at the distance that greater than ……from touchdown:",
+    "AnswerA": "6NM",
+    "AnswerB": "5NM",
+    "AnswerC": "4NM",
+    "AnswerD": "3NM",
+    "CorrectAnswer": "4NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 237,
+    "Question": "When an aircraft is going around,any transmission to him should be:",
+    "AnswerA": "As detailed as possible",
+    "AnswerB": "Stopped at once",
+    "AnswerC": "Brieft and kept to a minimum",
+    "AnswerD": "Sent when pilot is ready to copy.",
+    "CorrectAnswer": "Brieft and kept to a minimum",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 238,
+    "Question": "A transmission from one station to another station in circumstances where two-way communication cannot be established but where it is believed that the called station is able to receive the transmission:",
+    "AnswerA": "Blind transmission",
+    "AnswerB": "One-way transmission",
+    "AnswerC": "Two-way transmission",
+    "AnswerD": "Radio check",
+    "CorrectAnswer": "Blind transmission",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 239,
+    "Question": "A transmission of information relating to air navigation that is not addressed to a specific station or stations:",
+    "AnswerA": "Transmit",
+    "AnswerB": "Convey",
+    "AnswerC": "Send",
+    "AnswerD": "Broadcast",
+    "CorrectAnswer": "Broadcast",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 240,
+    "Question": "Clearance limit:",
+    "AnswerA": "The point to which an aircraft is granted an air traffic control clearance.",
+    "AnswerB": "The fix to which an aircraft is granted an air traffic control clearance.",
+    "AnswerC": "The level to which an aircraft is granted an air traffic control clearance.",
+    "AnswerD": "all above.",
+    "CorrectAnswer": "The point to which an aircraft is granted an air traffic control clearance.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 241,
+    "Question": "When the language used for communication is English, number 4 shall be transmitted using the following pronunciation:",
+    "AnswerA": "FOW-er",
+    "AnswerB": "four",
+    "AnswerC": "fao-er",
+    "AnswerD": "faw-er",
+    "CorrectAnswer": "FOW-er",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 242,
+    "Question": "Pilots may check the time with the appropriate ATS unit. Time checks shall be given to.....",
+    "AnswerA": "the nearest half minute",
+    "AnswerB": "the closer half minute",
+    "AnswerC": "the nearest 30 seconds",
+    "AnswerD": "the half minute.",
+    "CorrectAnswer": "the nearest half minute",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 243,
+    "Question": "The word CONFIRM shall be used in radiotelephony communications as appropriate and shall have the meaning given below :",
+    "AnswerA": "“I request verification of: (clearance, instruction, action, information).”",
+    "AnswerB": "verify",
+    "AnswerC": "request",
+    "AnswerD": "none above",
+    "CorrectAnswer": "“I request verification of: (clearance, instruction, action, information).”",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 244,
+    "Question": "The word RECLEARED shall be used in radiotelephony communications as appropriate and shall have the meaning given below :",
+    "AnswerA": "“this new clearance supersedes your previous clearance or part thereof.”",
+    "AnswerB": "“A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof.”",
+    "AnswerC": "“A change has been made to your last clearance and this revised clearance supersedes your previous clearance or part thereof.”",
+    "AnswerD": "“Authorized to proceed under the conditions specified”",
+    "CorrectAnswer": "“A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof.”",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 245,
+    "Question": "The word READ BACK shall be used in radiotelephony communications as appropriate and shall have the meaning given below :",
+    "AnswerA": "“Repeat all, or the specified part, of this message back to me exactly as received”",
+    "AnswerB": "“Repeat the specified part of this message back to me exactly as received”",
+    "AnswerC": "“Repeat this message back to me exactly as received”",
+    "AnswerD": "“Repeat all, or the specified part, of this message back to your partner exactly as received”",
+    "CorrectAnswer": "“Repeat all, or the specified part, of this message back to me exactly as received”",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 246,
+    "Question": "The word STANDBY shall be used in radiotelephony communications as appropriate and shall have the meaning given below :",
+    "AnswerA": "“Wait and I will call you.”",
+    "AnswerB": "“Wait for a while.”",
+    "AnswerC": "i will call you later",
+    "AnswerD": "“Wait and call me later.”",
+    "CorrectAnswer": "“Wait and I will call you.”",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 247,
+    "Question": "When establishing communications, an aircraft should:",
+    "AnswerA": "use the full call sign of both the aircraft and the aeronautical station.",
+    "AnswerB": "use the call sign of both the aircraft and the aeronautical station.",
+    "AnswerC": "use the full call sign of both the aircraft and owner company",
+    "AnswerD": "use the full call sign of the aircraft and spell it to aeronautical station",
+    "CorrectAnswer": "use the full call sign of both the aircraft and the aeronautical station.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 248,
+    "Question": "When it is considered that reception is likely to be difficult, important elements of the message should be spoken ......",
+    "AnswerA": "twice",
+    "AnswerB": "again",
+    "AnswerC": "slowly",
+    "AnswerD": "in local language",
+    "CorrectAnswer": "twice",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 249,
+    "Question": "Test transmissions should take the following form:",
+    "AnswerA": "the identification of the aeronautical station being called;",
+    "AnswerB": "the aircraft identification;",
+    "AnswerC": "the words “RADIO CHECK”; and the frequency being used.",
+    "AnswerD": "all above",
+    "CorrectAnswer": "all above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 250,
+    "Question": "Approach control will normally advise the type of approach to be expected.",
+    "AnswerA": "on initial contact,",
+    "AnswerB": "as soon as possible",
+    "AnswerC": "when passing transistion level",
+    "AnswerD": "not nescesary",
+    "CorrectAnswer": "on initial contact,",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 251,
+    "Question": "What shall the pilots read back be for CLIMB TO 2.500 FEET?",
+    "AnswerA": "Climbing to two point five",
+    "AnswerB": "Up to two thousand five hundred",
+    "AnswerC": "Climbing to two thousand five hundred feet",
+    "AnswerD": "Climbing to two thousand five hundred",
+    "CorrectAnswer": "Climbing to two thousand five hundred feet",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 252,
+    "Question": "Which elements of a position report cannot be omitted?",
+    "AnswerA": "Aircraft identification, position, time, level",
+    "AnswerB": "Aircraft identification, position, time",
+    "AnswerC": "Aircraft identification, position, level",
+    "AnswerD": "Aircraft identification, position, next position",
+    "CorrectAnswer": "Aircraft identification, position, next position",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 253,
+    "Question": "ATC clears Fastair 345 to descent from FL 100 to FL 80. What is the correct read back by the pilot?",
+    "AnswerA": "Descending to 80, Fastair 345",
+    "AnswerB": "Leaving flight level 100 descending to flight level 80, Fastair 345",
+    "AnswerC": "Down to flight level 80, Fastair 345",
+    "AnswerD": "Leaving 100 to 80, Fastair 345",
+    "CorrectAnswer": "Leaving flight level 100 descending to flight level 80, Fastair 345",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 254,
+    "Question": "Which word shall be used to ask a station whether you have correctly received a message, clearance,instruction, etc?",
+    "AnswerA": "Confirm",
+    "AnswerB": "Correct",
+    "AnswerC": "Acknowledge",
+    "AnswerD": "Verify",
+    "CorrectAnswer": "Verify",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 255,
+    "Question": "Distress conditions are defined as:",
+    "AnswerA": "a condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
+    "AnswerB": "a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but which does not require immediate assistance",
+    "AnswerC": "a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight and of requiring immediate assistance.",
+    "AnswerD": "a condition of being threatened by serious and/or imminent danger .",
+    "CorrectAnswer": "a condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 256,
+    "Question": "Urgency conditions are defined as:",
+    "AnswerA": "a condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
+    "AnswerB": "a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but which does not require immediate assistance",
+    "AnswerC": "a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight and of requiring immediate assistance.",
+    "AnswerD": "a condition of being threatened by serious and/or imminent danger .",
+    "CorrectAnswer": "a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but which does not require immediate assistance",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 257,
+    "Question": "The word “MAYDAY” spoken at the start identifies....... message:",
+    "AnswerA": "abnomal",
+    "AnswerB": "a distress",
+    "AnswerC": "an urgency",
+    "AnswerD": "none above",
+    "CorrectAnswer": "a distress",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 258,
+    "Question": "The words “PAN PAN” at the start identifies an ..... message.",
+    "AnswerA": "abnomal",
+    "AnswerB": "a distress",
+    "AnswerC": "an urgency",
+    "AnswerD": "none above",
+    "CorrectAnswer": "an urgency",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 259,
+    "Question": "The words “MAYDAY” or “PAN PAN”, as appropriate, should preferably be ........... at the start of the initial distress or urgency call.",
+    "AnswerA": "spoken 4 times",
+    "AnswerB": "spoken 2 times",
+    "AnswerC": "spoken 3 times",
+    "AnswerD": "spoken only ones",
+    "CorrectAnswer": "spoken 3 times",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 260,
+    "Question": "When an aircraft is no longer in distress, it shall transmit a message cancelling the distress condition. Which words shall this message include?",
+    "AnswerA": "MAYDAY, resuming normal operations",
+    "AnswerB": "cancel distress",
+    "AnswerC": "MAYDAY cancelled",
+    "AnswerD": "distress condition terminated",
+    "CorrectAnswer": "cancel distress",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 261,
+    "Question": "The distress communication and silence conditions shall be terminated by transmitting a message. Which words shall this message include?",
+    "AnswerA": "Disregard distress communication, OUT.",
+    "AnswerB": "Emergency communication finished.",
+    "AnswerC": "MAYDAY traffic ended.",
+    "AnswerD": "Distress traffic ended .",
+    "CorrectAnswer": "Distress traffic ended .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 262,
+    "Question": "The MSA provides obstacle clearance in a circle with a radius of :",
+    "AnswerA": "15NM",
+    "AnswerB": "20NM",
+    "AnswerC": "25NM",
+    "AnswerD": "",
+    "CorrectAnswer": "25NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 263,
+    "Question": "The direction in which the longitudinal axis of an aircraft is pointed, usually expressed in degrees from North (true, magnetic, compass or grid).That is definition of:",
+    "AnswerA": "Track",
+    "AnswerB": "Bearing",
+    "AnswerC": "Heading",
+    "AnswerD": "Desired Track",
+    "CorrectAnswer": "Heading",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 264,
+    "Question": "The correct phraseology to request termination of pressure altitude transmission when radar controller observed an aircraft wrong mode C indication is:",
+    "AnswerA": "Stop squawking mode C wrong indication",
+    "AnswerB": "Stop squawk charlie wrong indication",
+    "AnswerC": "Stop squawking charlie wrong indication",
+    "AnswerD": "Stop squawk altitude wrong level",
+    "CorrectAnswer": "Stop squawking mode C wrong indication",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 265,
+    "Question": "Use of surface movement radar (SMR):",
+    "AnswerA": "Monitor the movement of aircraft and vehicales on the manoeuving area; provide directional information to pilots and vehical drivers as necessary;",
+    "AnswerB": "Provide advise and assistance for the safe and efficient movement of aircraft and vehicales on the manoueving area.",
+    "AnswerC": "Both 1 and 2.",
+    "AnswerD": "1 or 2.",
+    "CorrectAnswer": "Both 1 and 2.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 266,
+    "Question": "One of the functions of radar control in the approach area is:",
+    "AnswerA": "To provide surveillance radar approaches.",
+    "AnswerB": "To reduce separation to less than 5 NM",
+    "AnswerC": "To reduce vertical separation to 500 feet",
+    "AnswerD": "To reduce separation minima if PIC’s agree.",
+    "CorrectAnswer": "To provide surveillance radar approaches.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 267,
+    "Question": "Aircraft taking off can be positively identified only if they are seen:",
+    "AnswerA": "Within 5 miles of the upwind end of the runway.",
+    "AnswerB": "Within 3 miles of the upwind end of the runway.",
+    "AnswerC": "Within 1 miles of the upwind end of the runway.",
+    "AnswerD": "Actually leaving the runway",
+    "CorrectAnswer": "Within 1 miles of the upwind end of the runway.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 268,
+    "Question": "In an SSR system, the interrogator transmission are made on a frequency of:",
+    "AnswerA": "1090 MHz.",
+    "AnswerB": "1030 MHz.",
+    "AnswerC": "1003 MHz.",
+    "AnswerD": "1009 MHz.",
+    "CorrectAnswer": "1030 MHz.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 269,
+    "Question": "The surveillance radar normally used by ATC does not display altitude information unless the aircraft is equipped with an altitude encoding transponder. This is referred to as:",
+    "AnswerA": "DME",
+    "AnswerB": "Mode B",
+    "AnswerC": "Mode C",
+    "AnswerD": "Altitude",
+    "CorrectAnswer": "Mode C",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 270,
+    "Question": "Frequency used in SSR - Transponder receiver:",
+    "AnswerA": "1040 MHz",
+    "AnswerB": "1050 MHz",
+    "AnswerC": "1030 MHz",
+    "AnswerD": "1090 MHz",
+    "CorrectAnswer": "1090 MHz",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 271,
+    "Question": "An aircraft making a radar approach should be advised to consider executing a missed approach if the aircraft is not visible on the radar display for significant interval during the last ...... of the approach.",
+    "AnswerA": "6NM",
+    "AnswerB": "4NM",
+    "AnswerC": "2NM",
+    "AnswerD": "1NM",
+    "CorrectAnswer": "2NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 272,
+    "Question": "Radar separation based upon primary radar (PSR) shall be the distance:",
+    "AnswerA": "Between the edges of the radar blips.",
+    "AnswerB": "Between the center of the radar blips",
+    "AnswerC": "Between the edges of one blip and the center of the other.",
+    "AnswerD": "Between the nearest edges of the blips.",
+    "CorrectAnswer": "Between the center of the radar blips",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 273,
+    "Question": "Radar separation based on the used of SSR responses:",
+    "AnswerA": "The distance between the centers of radar blips",
+    "AnswerB": "The distance between the closest edges of the radar blips",
+    "AnswerC": "The distance between the closest edges of the position elements of the SSR responses must never be less than a prescribed minimum",
+    "AnswerD": "All above",
+    "CorrectAnswer": "The distance between the closest edges of the position elements of the SSR responses must never be less than a prescribed minimum",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 274,
+    "Question": "Who is responsible for check alignment of the Radar video display to ensure the video map or overlay is properly aligned with a permanent target of known and azimuth on the radar display?",
+    "AnswerA": "The technician.",
+    "AnswerB": "The watch supervisor.",
+    "AnswerC": "The “D” controller.",
+    "AnswerD": "The assistant controller.",
+    "CorrectAnswer": "The technician.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 275,
+    "Question": "How many methods do you use for identification by SSR?",
+    "AnswerA": 4,
+    "AnswerB": 5,
+    "AnswerC": 6,
+    "AnswerD": 7,
+    "CorrectAnswer": 6,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 276,
+    "Question": "How many methods using for identification by PSR?",
+    "AnswerA": 3,
+    "AnswerB": 4,
+    "AnswerC": 5,
+    "AnswerD": 6,
+    "CorrectAnswer": 4,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 277,
+    "Question": "The number assigned to a particular multiple pulse signals transmitted by a transponder is:",
+    "AnswerA": "Mode.",
+    "AnswerB": "Code.",
+    "AnswerC": "Interrogation.",
+    "AnswerD": "Response.",
+    "CorrectAnswer": "Code.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 278,
+    "Question": "An aircraft will be considered to be maintaining FL 190 when SSR mode C level information indicates:",
+    "AnswerA": 195,
+    "AnswerB": 197,
+    "AnswerC": 193,
+    "AnswerD": 196,
+    "CorrectAnswer": 193,
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 279,
+    "Question": "The tolerance value which should be used to determine that mode C derived level information displayed to the controller is accurate shall be:",
+    "AnswerA": "…200 feet",
+    "AnswerB": "…300 feet",
+    "AnswerC": "…500 feet",
+    "AnswerD": "…1000 feet",
+    "CorrectAnswer": "…300 feet",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 280,
+    "Question": "Radar-separation between two wake turbulence category “HEAVY” aircraft on final shall be at least:",
+    "AnswerA": "3 NM",
+    "AnswerB": "4 NM",
+    "AnswerC": "5 NM",
+    "AnswerD": "6 NM",
+    "CorrectAnswer": "4 NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 281,
+    "Question": "The use of radar for the purpose of providing aircraft with information and advice relative significant deviation from nominal flight path is:",
+    "AnswerA": "Radar monitoring.",
+    "AnswerB": "Radar vectoring.",
+    "AnswerC": "Radar identification.",
+    "AnswerD": "Radar separation.",
+    "CorrectAnswer": "Radar monitoring.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 282,
+    "Question": "VASIS is one of the landing aids that we have in our airport. When an aircraft flies on the correct slope, what color does the pilot see when descending ?",
+    "AnswerA": "Intermittent RED and WHITE",
+    "AnswerB": "Intermittent BLUE and WHITE",
+    "AnswerC": "RED color only",
+    "AnswerD": "WHITE color only",
+    "CorrectAnswer": "Intermittent RED and WHITE",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 283,
+    "Question": "Primary Surveillance Radar mean:",
+    "AnswerA": "A surveillance radar system which provides primary information of air traffic to Atc unit",
+    "AnswerB": "A surveillance radar system which uses reflected radio signals",
+    "AnswerC": "A surveillance radar system which uses primary in for action from aircraft and displays them on radar screen",
+    "AnswerD": "A surveillance radar system which Atc uses first to determine aircraft position in distance and azimuth",
+    "CorrectAnswer": "A surveillance radar system which uses reflected radio signals",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 284,
+    "Question": "GNSS is:",
+    "AnswerA": "Global navigation satellite system",
+    "AnswerB": "Ground navigation satellite system",
+    "AnswerC": "Global navigation system satellite",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "Global navigation satellite system",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 285,
+    "Question": "SMR is:",
+    "AnswerA": "Surface movement radar",
+    "AnswerB": "Surface maneuver radar",
+    "AnswerC": "Surface maneuvering radar",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "Surface movement radar",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 286,
+    "Question": "GPWS is:",
+    "AnswerA": "Ground proximity warning system",
+    "AnswerB": "Global proximity warning system",
+    "AnswerC": "Ground proximate warning system",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "Ground proximity warning system",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 287,
+    "Question": "GLONASS is:",
+    "AnswerA": "Global orbiting navigation satellite system",
+    "AnswerB": "Ground orbiting navigation satellite system",
+    "AnswerC": "Ground observed navigation satellite system",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "Global orbiting navigation satellite system",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 288,
+    "Question": "GBAS is:",
+    "AnswerA": "Ground based augmentation system",
+    "AnswerB": "Global based augmentation system",
+    "AnswerC": "Global based augmentative system",
+    "AnswerD": "None of above",
+    "CorrectAnswer": "Ground based augmentation system",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 289,
+    "Question": "What shall the controller do when a pilot reports an ACAS resolution advisory (RA)?",
+    "AnswerA": "Not attempt to modify the aircraft flight path until the pilot reports “clear of traffic”",
+    "AnswerB": "Do his best to keep separation between aircraft concerned until the pilot reports “clear of traffic”.",
+    "AnswerC": "Acknowledge a report to other flight crew that there is an aircraft affected by RA.",
+    "AnswerD": "Acknowledge a report from the flight crew that waiting until the aircraft resuming the current clearance.",
+    "CorrectAnswer": "Not attempt to modify the aircraft flight path until the pilot reports “clear of traffic”",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 290,
+    "Question": "What should a radar controller do if the code displayed on the radar screen difference from the code he has just asked the pilot to squawk?",
+    "AnswerA": "Request the pilot to stop squawk.",
+    "AnswerB": "Request the pilot to recycle the assigned mode and code.",
+    "AnswerC": "The pilot shall be requested to confirm the code and reselect the correct code .",
+    "AnswerD": "Request the pilot to switch the transponder from ON to STANDBY.",
+    "CorrectAnswer": "The pilot shall be requested to confirm the code and reselect the correct code .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 291,
+    "Question": "An aircraft will consider to have reached the level to which it has been cleared when:",
+    "AnswerA": "Level information derived by mode C indicated that it is within 90m ( 300 ft) of it’s assigned level.",
+    "AnswerB": "After three consecutive renewals of mode C derived level information.",
+    "AnswerC": "As long as mode C derived level information indicated that it is within plus or minus 90m (300ft).",
+    "AnswerD": "Three consecutive renewals of mode C derived level information have indicated that it is within 90m(300ft) of it’s assigned levels.",
+    "CorrectAnswer": "Level information derived by mode C indicated that it is within 90m ( 300 ft) of it’s assigned level.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 292,
+    "Question": "Radar separation may be applied between an aircraft taking off and other radar controlled traffic provided there is reasonable assurance that:",
+    "AnswerA": "The taking off a/c will be identified within 1 NM from the end of the runway and at the time the required radar separation will exist.",
+    "AnswerB": "The taking–off a/c is at or above the minimum flight altitude of minimum safety altitude.",
+    "AnswerC": "Both taking – off a/c and other radar controller flight are being identified.",
+    "AnswerD": "",
+    "CorrectAnswer": "The taking off a/c will be identified within 1 NM from the end of the runway and at the time the required radar separation will exist.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 293,
+    "Question": "In the case that the radar fails, but communication is still good, the radar controller should:",
+    "AnswerA": "Instruct aircraft to maintain level and VMC.",
+    "AnswerB": "Inform aircraft that radar fails and maintain own separation.",
+    "AnswerC": "Instructed aircraft to change to APP frequency.",
+    "AnswerD": "Mark position of identified aircraft and take measure to provide non- radar separation.",
+    "CorrectAnswer": "Mark position of identified aircraft and take measure to provide non- radar separation.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 294,
+    "Question": "An arriving aircraft is descending for approach. The pilot of the aircraft is to change altimeter setting from Standard air pressure (760 mm Pb) to QNH (or QFE) ___",
+    "AnswerA": "At above transition level.",
+    "AnswerB": "Below transition level but above transition altitude",
+    "AnswerC": "At transition altitude",
+    "AnswerD": "Below transition altitude.",
+    "CorrectAnswer": "Below transition level but above transition altitude",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 295,
+    "Question": "What is Standard Instrument Arrival (STAR)?",
+    "AnswerA": "A designated instrument flight rule (IFR) arrival route linking a significant point, normally on an ATS route, with a point from which a published instrument approach procedure can be commenced.",
+    "AnswerB": "A designated visual flight rule (IFR) arrival route linking a significant point, normally on an ATS route, with a point from which a published instrument approach procedure can be commenced.",
+    "AnswerC": "A designated instrument flight rule (IFR) arrival route linking a significant point, normally on an ATS route, with a point from which a published visual approach procedure can be commenced.",
+    "AnswerD": "All the above.",
+    "CorrectAnswer": "A designated instrument flight rule (IFR) arrival route linking a significant point, normally on an ATS route, with a point from which a published instrument approach procedure can be commenced.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 296,
+    "Question": "The aircraft should be advised to consider executing a missed approach if the aircraft is not visible on the situation display for any significant interval during the last...of the approach.",
+    "AnswerA": "1 NM",
+    "AnswerB": "2 NM",
+    "AnswerC": "3 NM",
+    "AnswerD": "4 NM",
+    "CorrectAnswer": "2 NM",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 297,
+    "Question": "If the landing clearance is not received, a subsequent notification should be made at approximately…and landing clearance requested.",
+    "AnswerA": "4 NM from threshold",
+    "AnswerB": "4 NM from touchdown",
+    "AnswerC": "1 or 2 is correct",
+    "AnswerD": "1 and 2 are correct",
+    "CorrectAnswer": "4 NM from touchdown",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 298,
+    "Question": "Which does ATC Term “Radar contact” signify?",
+    "AnswerA": "Your aircraft has been identified and you will receive separation from all aircraft while in contact with this radar facility.",
+    "AnswerB": "You will be given traffic advisories until advised that the service has been terminated or that radar contact has been lost.",
+    "AnswerC": "ATC is receiving your transponder and will furnish vectors and traffic advisories until you are advised that contact has been lost.",
+    "AnswerD": "Your aircraft has been identified on the radar display and radar flight instructions will provided until radar identification is terminated.",
+    "CorrectAnswer": "Your aircraft has been identified on the radar display and radar flight instructions will provided until radar identification is terminated.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 299,
+    "Question": "What does an air traffic controller have to do before providing an ATS surveillance service to an air craft?",
+    "AnswerA": "Identify air craft",
+    "AnswerB": "Radio contact with air craft",
+    "AnswerC": "Issue ATC clearance for air craft",
+    "AnswerD": "Change air craft flight level",
+    "CorrectAnswer": "Identify air craft",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 300,
+    "Question": "What does mode C show?",
+    "AnswerA": "Identification",
+    "AnswerB": "Weather information",
+    "AnswerC": "Restriction",
+    "AnswerD": "Level information",
+    "CorrectAnswer": "Level information",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 301,
+    "Question": "What does mode S show?",
+    "AnswerA": "Identification feature",
+    "AnswerB": "Weather information",
+    "AnswerC": "Restriction",
+    "AnswerD": "Level information",
+    "CorrectAnswer": "Identification feature",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 302,
+    "Question": "How shall a pilot inform a radar control unit that the aircraft is not quipped with transponder?",
+    "AnswerA": "Negative squawk.",
+    "AnswerB": "Negative transponder.",
+    "AnswerC": "Transponder not available.",
+    "AnswerD": "No SSR.",
+    "CorrectAnswer": "Negative transponder.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 303,
+    "Question": "Track separation between aircraft using the same VOR is at least…and at a distance of…more from the facility.",
+    "AnswerA": "10 degrees; 18,5km(10NM)",
+    "AnswerB": "15 degrees; 18,5km(10NM)",
+    "AnswerC": "10 degrees; 28km(10NM)",
+    "AnswerD": "15 degrees; 28km(15NM)",
+    "CorrectAnswer": "15 degrees; 28km(15NM)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 304,
+    "Question": "Track separation between aircraft using the same NDB is at least…and at a distance of…more from the facility.",
+    "AnswerA": "10 degrees; 18,5km(10NM)",
+    "AnswerB": "30 degrees; 18,5km(10NM)",
+    "AnswerC": "30 degrees; 28km(10NM)",
+    "AnswerD": "30 degrees; 28km(15NM)",
+    "CorrectAnswer": "30 degrees; 28km(15NM)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 305,
+    "Question": "Track separation between aircraft using dead reckoning is at least…and at a distance of…more from the facility.",
+    "AnswerA": "30 degrees; 18,5km(10NM)",
+    "AnswerB": "45 degrees; 18,5km(10NM)",
+    "AnswerC": "30 degrees; 28km(10NM)",
+    "AnswerD": "45 degrees; 28km(15NM)",
+    "CorrectAnswer": "45 degrees; 28km(15NM)",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 306,
+    "Question": "What type of separation must be maintained at all times between aircraft holding in the holding pattern?",
+    "AnswerA": "vertical",
+    "AnswerB": "lateral",
+    "AnswerC": "longitudinal",
+    "AnswerD": "a combination of lateral and vertical",
+    "CorrectAnswer": "vertical",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 307,
+    "Question": "Priority for landing shall be given to:",
+    "AnswerA": "an aircraft which anticipates being compelled to land because of factors affecting the safe operation of the aircraft (engine failure, shortage of fuel, etc.);",
+    "AnswerB": "hospital aircraft or aircraft carrying any sick or seriously injured persons requiring urgent medical attention;",
+    "AnswerC": "aircraft engaged in search and rescue operations; and other aircraft as may be determined by the appropriate authority.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 308,
+    "Question": "Speed control shall not be applicable to aircraft:",
+    "AnswerA": "Entering or established in holding pattern.",
+    "AnswerB": "Encountering the turbulent weather; conducting priority/ emergency landing.",
+    "AnswerC": "Carrying VIP.",
+    "AnswerD": "All the above",
+    "CorrectAnswer": "All the above",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 309,
+    "Question": "AIP Amendment contain:",
+    "AnswerA": "Permanent changes to the information contained in the AIP.",
+    "AnswerB": "Temporary changes to the information contained in the AIP.",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2.",
+    "CorrectAnswer": "Permanent changes to the information contained in the AIP.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 310,
+    "Question": "AIP Supplement contain:",
+    "AnswerA": "Permanent changes to the information contained in the AIP which are published by means of special pages.",
+    "AnswerB": "Temporary changes to the information contained in the AIP which are published by means of special pages.",
+    "AnswerC": "1or 2",
+    "AnswerD": "1and 2",
+    "CorrectAnswer": "Temporary changes to the information contained in the AIP which are published by means of special pages.",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 311,
+    "Question": "Danger area.",
+    "AnswerA": "An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at all times.",
+    "AnswerB": "An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times .",
+    "AnswerC": "An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at day-light times.",
+    "AnswerD": "An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at night times.",
+    "CorrectAnswer": "An airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 312,
+    "Question": "Geodesic distance.",
+    "AnswerA": "The slant distance between any two points on a mathematically defined ellipsoidal surface.",
+    "AnswerB": "The distance between any two points on a mathematically defined ellipsoidal surface.",
+    "AnswerC": "The shortest distance between any two points on a mathematically defined ellipsoidal surface .",
+    "AnswerD": "The vertical distance between any two points on a mathematically defined ellipsoidal surface.",
+    "CorrectAnswer": "The shortest distance between any two points on a mathematically defined ellipsoidal surface .",
+    "Category": "LTCKT"
+  },
+  {
+    "QID": 313,
+    "Question": "Geodetic datum.",
+    "AnswerA": "A set of parameters required to define location and orientation of the local reference system with respect to the global reference system/frame.",
+    "AnswerB": "A maximum set of parameters required to define location and orientation of the local reference system with respect to the global reference system/frame.",
+    "AnswerC": "A minimum set of parameters required to define location and orientation of the local reference system with respect to the global reference system/frame .",
+    "AnswerD": "None of the above.",
+    "CorrectAnswer": "A minimum set of parameters required to define location and orientation of the local reference system with respect to the global reference system/frame .",
+    "Category": "LTCKT"
+  }
+]

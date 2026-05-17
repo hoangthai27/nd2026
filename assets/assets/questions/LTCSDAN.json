@@ -1,0 +1,3052 @@
+[
+  {
+    "QID": 1,
+    "Question": "According to the Determination of CAAV No. 4179/QĐ-CHK dated 28.09.2012 that you have known, how many classes are there in the “Classification of Airspace in Vietnam? What are they?",
+    "AnswerA": "4 (A, B, C, D )",
+    "AnswerB": "6 (A, B, C, D, E and F)",
+    "AnswerC": "6 (A, B, C, D, E and G)",
+    "AnswerD": "5 (A, C, D, E and G )",
+    "CorrectAnswer": "5 (A, C, D, E and G )",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 2,
+    "Question": "According to the Determination of CAAV No. 4179/QĐ-CHK dated 28.09.2012 that you have known, which Classification does DN TWR airspace belong to?",
+    "AnswerA": "Class C\n 1/ In airways (W1, W2…): From minimum FL up to 6000m.\n 2/ In TMA Noi Bai, Tan Son Nhat; in CTR Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerB": "Class C\n 1/ In airways (W1, W2…): From minimum FL up to FL245.\n 2/ In TMA Noi Bai, Tan Son Nhat; in CTR Noi Bai, Tan Son Nhat, Da Nang",
+    "AnswerC": "Class C\n 1/ In airways (W1, W2…): From minimum FL up to 6000m.\n 2/ In TMA Noi Bai, Tan Son Nhat, Da Nang; in CTR Noi Bai, Tan Son Nhat.",
+    "AnswerD": "",
+    "CorrectAnswer": "Class C\n 1/ In airways (W1, W2…): From minimum FL up to 6000m.\n 2/ In TMA Noi Bai, Tan Son Nhat; in CTR Noi Bai, Tan Son Nhat, Da Nang",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 3,
+    "Question": "According to the Determination of CAAV No. 4179/QĐ-CHK dated 28.09.2012 that you have known, which Classification do TWR airspaces of Phu Bai, Chu Lai, Phu Cat and Pleiku belong to?",
+    "AnswerA": "Class E\n  In responsibility area of TWRs (CTR) at civil aerodromes, mixed aerodromes in Vietnam territory (Except CTR of TSN, NB, DN).",
+    "AnswerB": "Class D\n  In responsibility area of TWRs (CTR) at civil aerodromes, mixed aerodromes in Vietnam territory (Except CTR of TSN, NB, DN).",
+    "AnswerC": "Class D\n  In responsibility area of TWRs (CTR) at civil aerodromes, mixed aerodromes in Vietnam territory (Except CTR of Tho Xuan, Nuoc Man).",
+    "AnswerD": "",
+    "CorrectAnswer": "Class D\n  In responsibility area of TWRs (CTR) at civil aerodromes, mixed aerodromes in Vietnam territory (Except CTR of TSN, NB, DN).",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 4,
+    "Question": "According to the reference material that you have studied, what are objectives of ASM?",
+    "AnswerA": "1/ achieve the most efficient use of the airspace based on actual needs.\n  2/ avoid permanent airspace segregation while optimizing the network performance.",
+    "AnswerB": "1/ achieve the most efficient use of the airspace based on actual needs.\n  2/ avoid permanent airspace segregation while optimizing the network performance.\n  3/ meeting future air traffic requirements for increased safety, security, capacity, efficiency, environmental sustainability, and sovereignty depends on effective civil/military coordination.",
+    "AnswerC": "1/ achieve the most efficient use of the airspace based on actual needs.\n  2/ avoid permanent airspace segregation while optimizing the network performance.\n  3/ meeting future air traffic requirements for increased safety, security, capacity, efficiency, environmental sustainability, and sovereignty depends on effective civil/military coordination.\n  4/ implementation of the Flexible Use of Airspace (FUA) Concept",
+    "AnswerD": "None of them",
+    "CorrectAnswer": "1/ achieve the most efficient use of the airspace based on actual needs.\n  2/ avoid permanent airspace segregation while optimizing the network performance.\n  3/ meeting future air traffic requirements for increased safety, security, capacity, efficiency, environmental sustainability, and sovereignty depends on effective civil/military coordination.\n  4/ implementation of the Flexible Use of Airspace (FUA) Concept",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 5,
+    "Question": "How many airways are there in Danang CTL airspace? What are they?",
+    "AnswerA": "14\n  A1, B202, G221, G474, L628, P901, R588, R328, W1, W2, W10, W11, W12, Q1",
+    "AnswerB": "12\n  A1, B202, G221, G474, P901, R588, R328, W1, W2, W10, W11, W12",
+    "AnswerC": "11\n  A1, G221, G474, L628, P901, R588, W1, W2, W10, W11, W12",
+    "AnswerD": "14\n  A1, A2, B202, G221, G474, L628, P901, R588, R328, W1, W2, W10, W11, W12",
+    "CorrectAnswer": "14\n  A1, B202, G221, G474, L628, P901, R588, R328, W1, W2, W10, W11, W12, Q1",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 6,
+    "Question": "The SIDs of HUE ONE ALPHA DEPARTURE (HUE 1A) are described as follows:",
+    "AnswerA": "a. Climb on R-173 DAN to D5.0 DAN, turn left to DAN VOR/DME (Max IAS 445km/h), intercept R-307 DAN to HUE VOR/DME at FL120 or above (MNM PDG 5.0% until 1900m)",
+    "AnswerB": "b. Climb on R-175 DAN to D10.0 DAN, turn left to DAN VOR/DME (Max IAS 445km/h), intercept R-307 DAN to HUE VOR/DME at FL120 or above (MNM PDG 5.0% until 1550m).",
+    "AnswerC": "c. Climb on R-173 DAN to D5.0 DAN, turn left to DAN VOR/DME (Max IAS 445km/h), intercept R-330 DAN to HUE VOR/DME at FL120 or above (MNM PDG 5.0% until 1900m).",
+    "AnswerD": "d. Climb on R-175 DAN to D15.0 DAN, turn left to DAN VOR/DME (Max IAS 445km/h), intercept R-307 DAN to HUE VOR/DME at FL120 or above (MNM PDG 5.0% until 1900m).",
+    "CorrectAnswer": "a. Climb on R-173 DAN to D5.0 DAN, turn left to DAN VOR/DME (Max IAS 445km/h), intercept R-307 DAN to HUE VOR/DME at FL120 or above (MNM PDG 5.0% until 1900m)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 7,
+    "Question": "The SID of BUNTA 2A is described as follows:",
+    "AnswerA": "Climb on R-175 DAN to D10.0 DAN, turn right to DAN VOR/DME (max IAS 445km/h), intercept R-057 DAN to KANGU, BINKU and BUNTA.",
+    "AnswerB": "Climb on R-173 DAN to D5.0 DAN, turn right to DAN VOR/DME (max IAS 445km/h), intercept R-057 DAN to KANGU, BINKU and BUNTA",
+    "AnswerC": "Climb on R-175 DAN to D15.0 DAN, turn right to DAN VOR/DME (max IAS 445km/h), intercept R-057 DAN to KANGU, BINKU and BUNTA.",
+    "AnswerD": "Climb on R-175 DAN to D20.0 DAN, turn right to DAN VOR/DME (max IAS 445km/h), intercept R-057 DAN to KANGU, BINKU and BUNTA.",
+    "CorrectAnswer": "Climb on R-173 DAN to D5.0 DAN, turn right to DAN VOR/DME (max IAS 445km/h), intercept R-057 DAN to KANGU, BINKU and BUNTA",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 8,
+    "Question": "The STAR of VILOT 1F is denoted in words as follows",
+    "AnswerA": "From VILOT FL120 or above intercept R-186 DAN to MISIN at FL100 or above, continue to TAHUA, IAF R-185.7/D30.0 DAN at 1500m or above.",
+    "AnswerB": "From VILOT FL120 or above intercept R-186 DAN to MISIN at FL100 or above, continue to TAHUA, IAF R-185.7/D25.0 DAN at 1500m or above.",
+    "AnswerC": "From VILOT FL120 or above intercept R-186 DAN to MISIN at FL100 or above, continue to TAHUA, IAF R-185.7/D17.0 DAN at 1500m or above",
+    "AnswerD": "From VILOT FL120 or above intercept R-190 DAN to MISIN at FL100 or above, continue to TAHUA, IAF R-185.7/D17.0 DAN at 1500m or above.",
+    "CorrectAnswer": "From VILOT FL120 or above intercept R-186 DAN to MISIN at FL100 or above, continue to TAHUA, IAF R-185.7/D17.0 DAN at 1500m or above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 9,
+    "Question": "The STAR of CAHEO 1F is denoted in words as follows:",
+    "AnswerA": "From CAHEO intercept R-336 DAN to IAF R-336,1/D20.0 DAN at 2750m or above.",
+    "AnswerB": "From CAHEO intercept R-336 DAN to IAF R-336,1/D14.5 DAN at 3000m or above.",
+    "AnswerC": "From CAHEO intercept R-336 DAN to IAF R-336,1/D20.0 DAN at 2750m or above.",
+    "AnswerD": "From CAHEO intercept R-336 DAN to IAF R-336,1/D14.5DAN at 2750m or above",
+    "CorrectAnswer": "From CAHEO intercept R-336 DAN to IAF R-336,1/D14.5DAN at 2750m or above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 10,
+    "Question": "The Missed approach of VOR Z RWY 35R procedure is denoted in words as follows:",
+    "AnswerA": "Climb on R-353 DAN to D7.0 DAN, turn right to intercept R-107 HUE to D40.5 HUE (Max IAS 425km/h) turn right to R-069.0/D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction",
+    "AnswerB": "Climb on R-353 DAN to D15.0 DAN, turn right to intercept R-107 HUE to D40.5 HUE (Max IAS 425km/h) turn right to R-069.0/D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "AnswerC": "Climb on R-353 DAN to D20.0 DAN, turn right to intercept R-107 HUE to D40.5 HUE (Max IAS 425km/h) turn right to R-069.0/D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "AnswerD": "Climb on R-353 DAN to D25.0 DAN, turn right to intercept R-107 HUE to D40.5 HUE (Max IAS 425km/h) turn right to R-069.0/D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "CorrectAnswer": "Climb on R-353 DAN to D7.0 DAN, turn right to intercept R-107 HUE to D40.5 HUE (Max IAS 425km/h) turn right to R-069.0/D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 11,
+    "Question": "The Missed approach of ILS V RWY 35L Procedure is denoted in words as follows:",
+    "AnswerA": "Clim on course 353 to DN353, turn right to DN333, DN555 (MAX IAS 425km/h) and KONGA at 1200m. Join holding pattern or follow Da Nang TWR instructions",
+    "AnswerB": "Clim on course 350 to DN353, turn right to DN333, DN555 (MAX IAS 425km/h) and KONGA at 1200m. Join holding pattern or follow Da Nang TWR instructions.",
+    "AnswerC": "Clim on course 353 to DN353, turn right to DN333, DN555 (MAX IAS 425km/h) and KONGA at 2000m. Join holding pattern or follow Da Nang TWR instructions.",
+    "AnswerD": "Clim on course 353 to DN353, turn right to DN333, DN555 (MAX IAS 425km/h) and ROMIN at 1200m. Join holding pattern or follow Da Nang TWR instructions.",
+    "CorrectAnswer": "Clim on course 353 to DN353, turn right to DN333, DN555 (MAX IAS 425km/h) and KONGA at 1200m. Join holding pattern or follow Da Nang TWR instructions",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 12,
+    "Question": "What is the minimum visibility for cat D aircraft using ILS z, y, w, v, u approach procedures runway 35R (without GP) at Da Nang airport?",
+    "AnswerA": "2000m.",
+    "AnswerB": "2400m.",
+    "AnswerC": "1800m",
+    "AnswerD": "3200m.",
+    "CorrectAnswer": "1800m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 13,
+    "Question": "How many dangerous areas are established in Da Nang Airport area according to Da Nang aerodrome regulation manual?",
+    "AnswerA": "5 areas",
+    "AnswerB": "6 areas",
+    "AnswerC": "7 areas",
+    "AnswerD": "8 areas",
+    "CorrectAnswer": "5 areas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 14,
+    "Question": "According to Da Nang aerodrome regulation manual, the mount “Nui Tau” is…",
+    "AnswerA": "953m height and located at 37,5 km on bearing 186 degrees of DN Airport reference point",
+    "AnswerB": "942m height and located at 37,5 km on bearing 186 degrees of DN Airport reference point",
+    "AnswerC": "953m height and located at 37,5 km on bearing 180 degrees of DN Airport reference point",
+    "AnswerD": "942m height and located at 37,5 km South of threshold runway 35R DN Airport",
+    "CorrectAnswer": "942m height and located at 37,5 km on bearing 186 degrees of DN Airport reference point",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 15,
+    "Question": "Da Nang TWR controllers aren’t allowed to issue landing clearance for aircraft in cases of:",
+    "AnswerA": "Obstacles on runway; or",
+    "AnswerB": "Ceiling/visibility is below minimum for approach procedure conducted by aircraft or wind velocity exceeds the limitations of aircraft performance at the time being; or",
+    "AnswerC": "There are dangerous phenomena in the approach/landing area affected to the air safety.",
+    "AnswerD": "All above",
+    "CorrectAnswer": "All above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 16,
+    "Question": "How many in-flight abnormal situations of civil aircraft are listed in the Da Nang APP/TWR Manual of Operation?",
+    "AnswerA": 7,
+    "AnswerB": 8,
+    "AnswerC": 18,
+    "AnswerD": 9,
+    "CorrectAnswer": 18,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 17,
+    "Question": "The overall width of domestic airways is ...",
+    "AnswerA": "10 Km",
+    "AnswerB": "20 Km",
+    "AnswerC": "30 Km",
+    "AnswerD": "40 Km",
+    "CorrectAnswer": "20 Km",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 18,
+    "Question": "The overall width of international airways is ...",
+    "AnswerA": "10 Km",
+    "AnswerB": "20 Km",
+    "AnswerC": "30 Km",
+    "AnswerD": "40 Km",
+    "CorrectAnswer": "30 Km",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 19,
+    "Question": "Vertical limitation of the prohibited area over Danang city (VVP3) is:",
+    "AnswerA": "From ground/water surface up to 1500m",
+    "AnswerB": "From ground/water surface up to 2750m",
+    "AnswerC": "From ground/water surface up to 3000m",
+    "AnswerD": "From ground/water surface up to unlimited",
+    "CorrectAnswer": "From ground/water surface up to 1500m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 20,
+    "Question": "How many jet fighter training zones are listed in the Da Nang aerodrome regulation manual?",
+    "AnswerA": 6,
+    "AnswerB": 7,
+    "AnswerC": 8,
+    "AnswerD": 9,
+    "CorrectAnswer": 9,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 21,
+    "Question": "How many helicopter training zones are listed in the Da Nang aerodrome regulation manual?",
+    "AnswerA": 3,
+    "AnswerB": 4,
+    "AnswerC": 5,
+    "AnswerD": 6,
+    "CorrectAnswer": 5,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 22,
+    "Question": "The Missed approach procedure of VOR Y RWY 17L is denoted in words as follows:",
+    "AnswerA": "Climb on R-173 DAN to D2.4 DAN, turn left heading 090 to intercept R-110 DAN (Max IAS 410km/h) to D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "AnswerB": "Climb on R-173 DAN to D2.4 DAN, turn left heading 100 to intercept R-110 DAN (Max IAS 410km/h) to D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "AnswerC": "Climb on R-175 DAN to D10.0 DAN, turn left heading 070 to intercept R-110 DAN (Max IAS 410km/h) to D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction.",
+    "AnswerD": "Climb on R-173 DAN to D2.4 DAN, turn left heading 070 to intercept R-110 DAN (Max IAS 410km/h) to D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction",
+    "CorrectAnswer": "Climb on R-173 DAN to D2.4 DAN, turn left heading 070 to intercept R-110 DAN (Max IAS 410km/h) to D14.5 DAN at 1200m. Join holding pattern or follow Da Nang TWR instruction",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 23,
+    "Question": "What is the minimum visibility for cat C aircraft using ILS approach procedures runway 35L (without GP) at Da Nang airport?",
+    "AnswerA": "1000m.",
+    "AnswerB": "2200m",
+    "AnswerC": "2800m.",
+    "AnswerD": "3200m.",
+    "CorrectAnswer": "2200m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 24,
+    "Question": "How many air defense tactical holding patterns are there in the Middle region of Viet Nam?",
+    "AnswerA": "4 holding patterns",
+    "AnswerB": "5 holding patterns",
+    "AnswerC": "6 holding patterns",
+    "AnswerD": "7 holding patterns",
+    "CorrectAnswer": "6 holding patterns",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 25,
+    "Question": "The STAR RNAV1 should be issued by ATC in the following order",
+    "AnswerA": "STAR identifier- Transition Point identifier- Runway in use- Assigned Flight level/ altitude",
+    "AnswerB": "STAR identifier - Runway in use - Assigned Flight level/ altitude.",
+    "AnswerC": "STAR identifier - Assigned Flight level/ altitude- Runway in use.",
+    "AnswerD": "",
+    "CorrectAnswer": "STAR identifier- Transition Point identifier- Runway in use- Assigned Flight level/ altitude",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 26,
+    "Question": "In STAR CAHEO 2K, altitude restriction at TAMLA is:",
+    "AnswerA": "1350m or above",
+    "AnswerB": "1350m or below.",
+    "AnswerC": "1500m.",
+    "AnswerD": "1200m.",
+    "CorrectAnswer": "1350m or above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 27,
+    "Question": "Which point is the end of STARs LATOM 2K",
+    "AnswerA": "MONRY.",
+    "AnswerB": "LOLUC.",
+    "AnswerC": "TAMLA",
+    "AnswerD": "FIRAI",
+    "CorrectAnswer": "TAMLA",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 28,
+    "Question": "The SID (RNAV1) for the flights to the East via A1 is:",
+    "AnswerA": "BUNTA 1G.",
+    "AnswerB": "BUNTA 2G",
+    "AnswerC": "KANGU 1G.",
+    "AnswerD": "KANGU2G.",
+    "CorrectAnswer": "BUNTA 2G",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 29,
+    "Question": "VOR checkpoint located on",
+    "AnswerA": "Taxiway CL E ( Between TWY E1 & E2)",
+    "AnswerB": "Taxiway CL E ( Between TWY E1 & E2) 6M from Holding position of TWY E to the North",
+    "AnswerC": "Taxiway CL E ( Between TWY E1 & E2) 6M from Holding position of TWY E to the South",
+    "AnswerD": "",
+    "CorrectAnswer": "Taxiway CL E ( Between TWY E1 & E2) 6M from Holding position of TWY E to the North",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 30,
+    "Question": "How many hotspot in VVDN",
+    "AnswerA": 2,
+    "AnswerB": 8,
+    "AnswerC": 5,
+    "AnswerD": 4,
+    "CorrectAnswer": 2,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 31,
+    "Question": "What is recommended IAS for RNAV1 for RWY 35L/R at 5NM from Touchdown zone",
+    "AnswerA": "300km/h ( 160kts )",
+    "AnswerB": "310km/h ( 170kts)",
+    "AnswerC": "320km/h ( 180kts)",
+    "AnswerD": "",
+    "CorrectAnswer": "300km/h ( 160kts )",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 32,
+    "Question": "what is the minumum Visibility/RVR for aircraft CAT C using ILSz, ILSy, ILSw, ILSv, ILSu approach procedure for RWY 35R",
+    "AnswerA": "1000(RVR600)",
+    "AnswerB": "1000(RVR750).",
+    "AnswerC": "1000 ( RVR850).",
+    "AnswerD": "1000 (RVR550).",
+    "CorrectAnswer": "1000(RVR600)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 33,
+    "Question": "How many SIDs RNAV1 for 35L/R",
+    "AnswerA": 8,
+    "AnswerB": 15,
+    "AnswerC": 4,
+    "AnswerD": 12,
+    "CorrectAnswer": 8,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 34,
+    "Question": "What is Aerodrome category for Fire fighting in VVDN",
+    "AnswerA": "CAT 9 with AD HR",
+    "AnswerB": "CAT 2.",
+    "AnswerC": "CAT 3.",
+    "AnswerD": "CAT 4.",
+    "CorrectAnswer": "CAT 9 with AD HR",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 35,
+    "Question": "The flight procedures for civil aviation activities at Da Nang airport are certified by:",
+    "AnswerA": "Middle region airports authority",
+    "AnswerB": "Middle region air traffic services",
+    "AnswerC": "Vietnam air traffic management",
+    "AnswerD": "Civil aviation authority of Vietnam",
+    "CorrectAnswer": "Civil aviation authority of Vietnam",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 36,
+    "Question": "AIP SUPPLEMENT pages should be coloured in order to be conspicuous, preferrably in",
+    "AnswerA": "yellow",
+    "AnswerB": "green",
+    "AnswerC": "white",
+    "AnswerD": "",
+    "CorrectAnswer": "yellow",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 37,
+    "Question": "In instrument approach chart, final approach descent gradient and in parenthesis, descent angle to the nearest one tenth of decree shall be shown for ……………………. with a final approach fix",
+    "AnswerA": "precision procedures",
+    "AnswerB": "non precision procedures",
+    "AnswerC": "",
+    "AnswerD": "",
+    "CorrectAnswer": "non precision procedures",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 38,
+    "Question": "Helicopters may be permitted to operate in less than……..,if manoeuverd at a speed that will give adequate opportunity to observe other traffic or any obstacles in time to avoid collision",
+    "AnswerA": "1800m visibility",
+    "AnswerB": "2000m visibility",
+    "AnswerC": "1500m visibility",
+    "AnswerD": "2000m flight visib",
+    "CorrectAnswer": "1500m visibility",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 39,
+    "Question": "Integrated Aeronautical Information Package consists of:",
+    "AnswerA": "AIP, including amendment service; supplements to AIP;",
+    "AnswerB": "notam and pre-flight information bulletins(PIB);",
+    "AnswerC": "AIC; checklists and summaries",
+    "AnswerD": "all of above",
+    "CorrectAnswer": "all of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 40,
+    "Question": "An aircraft shall be cleared for the entire route to the aerodrome of first intended landing:",
+    "AnswerA": "When it has been possible, prior to departure, to coordinate the clearance between all the units under whose control the a/c will come.",
+    "AnswerB": "When there is reasonable assurance that prior to coordinate will be effect between those units whose control the a/c will subsequently come.",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 or 2",
+    "CorrectAnswer": "1 or 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 41,
+    "Question": "Communication by direct speed alone or in combination with data link communications, whereby for the purpose of tranffer of rada control the communications can be estiblished instantaneously and for the other purposes the communications can normally be established wthin …………..",
+    "AnswerA": "15 seconds",
+    "AnswerB": "20 seconds",
+    "AnswerC": "25 seconds",
+    "AnswerD": "",
+    "CorrectAnswer": "15 seconds",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 42,
+    "Question": "When air-ground data link is used and automatic dependent surveillance(ADS) or secondary surveillance radar(SSR) mode S is being applied, automated reporting observations should be made every ………… during the enroute phase and every…………during the climb-out phase for the first 10 minutes of the flight.",
+    "AnswerA": "5 minutes; 15 seconds",
+    "AnswerB": "10 minutes; 20 seconds",
+    "AnswerC": "15 minutes; 30 seconds",
+    "AnswerD": "",
+    "CorrectAnswer": "15 minutes; 30 seconds",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 43,
+    "Question": "Integrated Aeronautical Information Package consists of:",
+    "AnswerA": "AIP, including amendment service; supplements to AIP;",
+    "AnswerB": "notam and pre-flight information bulletins(PIB);",
+    "AnswerC": "AIC; checklists and summaries",
+    "AnswerD": "all of above",
+    "CorrectAnswer": "all of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 44,
+    "Question": "For flight transporting nuclear waste,flight permits may be granted only upon permission of",
+    "AnswerA": "President",
+    "AnswerB": "Prime Minister",
+    "AnswerC": "",
+    "AnswerD": "",
+    "CorrectAnswer": "Prime Minister",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 45,
+    "Question": "When shall an aircraft not yet taxing be suspended from making a flight",
+    "AnswerA": "There arises an urgent circumstance necessitating the performance of the task of safeguarding national sovereignty and security or the aircraft is detected to show signs of violation of regulations on assurance of defense and security;",
+    "AnswerB": "Violation of regulations on airworthiness standards, operation of aircraft, aviation safety and security, flight formalities, making and implementation of flight schedules, and observance of flight permits;",
+    "AnswerC": "It is detected that aviation safety and security in the flight are under threat;",
+    "AnswerD": "all of above",
+    "CorrectAnswer": "all of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 46,
+    "Question": "Who shall make a written record thereon and issue a decision to suspend the flight. A decision to suspend a flight takes immediate effect and must be sent to the aircraft commander, the air traffic service establishment and concerned agencies and organizations.",
+    "AnswerA": "the director of the airport authority",
+    "AnswerB": "the aviation inspector",
+    "AnswerC": "1 or 2",
+    "AnswerD": "",
+    "CorrectAnswer": "1 or 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 47,
+    "Question": "Who shall comply with decisions to suspend flights and may request agencies or persons who have made such decisions to give reasons for suspension.",
+    "AnswerA": "Aircraft commanders and airtraffic controllers",
+    "AnswerB": "Aircraft commanders and aircraft operators",
+    "AnswerC": "Air traffic controllers and aircraft operators",
+    "AnswerD": "",
+    "CorrectAnswer": "Aircraft commanders and aircraft operators",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 48,
+    "Question": "Which appropriate authority shall approves the establishment and operation of the airways (sourced by VN Civil Aviation Law 2014):",
+    "AnswerA": "Prime minister",
+    "AnswerB": "Ministry of transport",
+    "AnswerC": "Ministry of national defense",
+    "AnswerD": "Ministry of foreign affairs",
+    "CorrectAnswer": "Prime minister",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 49,
+    "Question": "Each search and rescue aircraft, when used for search and rescue over marine area and required to communicate with merchant ships, shall be equipped to be able to communicate with such ships on…….",
+    "AnswerA": "121.5MHZ",
+    "AnswerB": "406MHZ",
+    "AnswerC": "2182KHZ",
+    "AnswerD": "",
+    "CorrectAnswer": "2182KHZ",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 50,
+    "Question": "A flight permit for an aircraft to land at a Vietnamese airport or airfield is valid from 12 hour before to….. hours after the estimated time of landing stated in the permit.",
+    "AnswerA": 12,
+    "AnswerB": 24,
+    "AnswerC": 72,
+    "AnswerD": "Non above",
+    "CorrectAnswer": 24,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 51,
+    "Question": "A flight permit for an aircraft to fly cross the Vietnamese airspace is valid from 3 hour before to….. hours after the estimated time of landing stated in the permit.",
+    "AnswerA": 12,
+    "AnswerB": 24,
+    "AnswerC": 72,
+    "AnswerD": "Non above",
+    "CorrectAnswer": 72,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 52,
+    "Question": "The flight permit granting agency shall send the granted, modified or cancelled flight permit to the applicant and ……..",
+    "AnswerA": "National Flight Management Center",
+    "AnswerB": "The VietNam Aviation Administration",
+    "AnswerC": "The Military Operation Department of the Ministry of Defense.",
+    "AnswerD": "Consular Department of the Ministry of Foreign Affairs",
+    "CorrectAnswer": "National Flight Management Center",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 53,
+    "Question": "Aircraft operators, carriers or authorized persons with respect to flights across or with the flight information regions above the international seas under Vietnam’s management shall send their requests for air navigation assurance services to air traffic service enterprises according to the following deadline",
+    "AnswerA": "1 day before the estimated date of making a scheduled flight",
+    "AnswerB": "30 days before the estimated date of making a non scheduled flight",
+    "AnswerC": "20 days before the estimated date of making a scheduled",
+    "AnswerD": "1 hours before the estimated date of making a scheduled flight",
+    "CorrectAnswer": "20 days before the estimated date of making a scheduled",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 54,
+    "Question": "Aircraft operators, carriers or authorized persons with respect to flights across or with the flight information regions above the international seas under Vietnam’s management shall send their requests for air navigation assurance services to air traffic service enterprises according to the following deadline:",
+    "AnswerA": "1 day before the estimated date of making a scheduled flight",
+    "AnswerB": "30 days before the estimated date of making a non-scheduled flight",
+    "AnswerC": "30 days before the estimated date of making a scheduled flight",
+    "AnswerD": "1 hours before the estimated date of making a non-scheduled flight",
+    "CorrectAnswer": "1 hours before the estimated date of making a non-scheduled flight",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 55,
+    "Question": "Air traffic service enterprises shall make civil air navigation plans on season and daily basis and send them to the:",
+    "AnswerA": "The VietNam Aviation Administration",
+    "AnswerB": "National Flight Management Center",
+    "AnswerC": "Civil aviation authority of Vietnam",
+    "AnswerD": "2 and 3",
+    "CorrectAnswer": "2 and 3",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 56,
+    "Question": "Who shall decide on the list of alternate airports for civil aviation after obtaining the agreement of concerned agencies of the Ministry of Defense?",
+    "AnswerA": "The Director of the Vietnam Aviation Administration",
+    "AnswerB": "The Head of National Flight Management Center",
+    "AnswerC": "The Ministry of Foreign Affairs",
+    "AnswerD": "The General Director of The Vietnam Air traffic Management Corporation",
+    "CorrectAnswer": "The Director of the Vietnam Aviation Administration",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 57,
+    "Question": "Who shall grant flight permission to foreign VIP flights carrying the guests of the Party and State and escorting flights or other flights associated with the VIP flight?",
+    "AnswerA": "The Ministry of Foreign Affairs",
+    "AnswerB": "The Ministry of National Defense",
+    "AnswerC": "The Director of the Vietnam Aviation Administration",
+    "AnswerD": "The Ministry of Transport",
+    "CorrectAnswer": "The Ministry of Foreign Affairs",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 58,
+    "Question": "Who shall grant flight permission to Vietnamese and foreign military aircraft operating civil flights in Viet Nam and to unmanned aircraft?",
+    "AnswerA": "The Ministry of Foreign Affairs",
+    "AnswerB": "The Ministry of National Defense",
+    "AnswerC": "The Director of the Vietnam Aviation Administration",
+    "AnswerD": "The Ministry of Transport",
+    "CorrectAnswer": "The Ministry of National Defense",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 59,
+    "Question": "Who shall grant flight permission to civil flights operated in Viet Nam, including those operated by Vietnamese and foreign aircraft for civil purposes; Vietnamese VIP flights, escorting flights or other related flights; foreign VIP flights which falls outside of the provisions of the sub-paragraph a) of this paragraph or escorting flights or other flights associated with these VIP flights; flights operated by the State aircraft of Viet Nam and foreign countries, which fall outside the scope of the sub-paragraphs a) and b) of this paragraph.",
+    "AnswerA": "The Ministry of Foreign Affairs",
+    "AnswerB": "The Ministry of National Defense",
+    "AnswerC": "The Director of the Vietnam Aviation Administration",
+    "AnswerD": "The Ministry of Transport",
+    "CorrectAnswer": "The Ministry of Transport",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 60,
+    "Question": "How many VHF air-ground communication frequencies using for civil aviation purpose are there at Da Nang APP/TWR?",
+    "AnswerA": 5,
+    "AnswerB": 6,
+    "AnswerC": 7,
+    "AnswerD": 8,
+    "CorrectAnswer": 8,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 61,
+    "Question": "What is the Primary frequency of ATS communication facility in Da Nang Approach?",
+    "AnswerA": "119.5 MHz",
+    "AnswerB": "120.45 MHz",
+    "AnswerC": "121.5 MHz",
+    "AnswerD": "",
+    "CorrectAnswer": "120.45 MHz",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 62,
+    "Question": "Which one is correct for DVOR/DME DAN?",
+    "AnswerA": "114.4 KHz CH91X",
+    "AnswerB": "114.4 MHz CH91X.",
+    "AnswerC": "114.3 MHz CH91X",
+    "AnswerD": "",
+    "CorrectAnswer": "114.4 MHz CH91X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 63,
+    "Question": "The radio navigation of GP/DME IDR in Da Nang airport has frequency:",
+    "AnswerA": "329.6 MHz CH42X",
+    "AnswerB": "332.9 MHz CH52X.",
+    "AnswerC": "332.6 MHz CH52X",
+    "AnswerD": "",
+    "CorrectAnswer": "332.9 MHz CH52X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 64,
+    "Question": "The radio navigation of ILS/LLZ DAD in Da Nang airport has frequency:",
+    "AnswerA": "111.5 MHz",
+    "AnswerB": "110.5 MHz.",
+    "AnswerC": "110.5 KHz",
+    "AnswerD": "d. 111.5 KHz",
+    "CorrectAnswer": "110.5 MHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 65,
+    "Question": "What is the Primary frequency of ATS communication facility in Da Nang TOWER?",
+    "AnswerA": "118.15 MHz",
+    "AnswerB": "118.35 MHz.",
+    "AnswerC": "121.5 MHz",
+    "AnswerD": "",
+    "CorrectAnswer": "118.35 MHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 66,
+    "Question": "Which one is correct for DVOR/DME HUE",
+    "AnswerA": "114.4 MHz CH105X",
+    "AnswerB": "115.8 MHz CH105 X.",
+    "AnswerC": "116.3 MHz CH105X",
+    "AnswerD": "",
+    "CorrectAnswer": "115.8 MHz CH105 X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 67,
+    "Question": "Which one is correct for DVOR/DME PCA",
+    "AnswerA": "114.4 MHz CH110X",
+    "AnswerB": "115.8 MHz CH110 X",
+    "AnswerC": "116.3 MHz CH110X.",
+    "AnswerD": "",
+    "CorrectAnswer": "116.3 MHz CH110X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 68,
+    "Question": "Which one is correct for DVOR/DME PLK",
+    "AnswerA": "116.3 MHz CH81X",
+    "AnswerB": "115.8 MHz CH81 X",
+    "AnswerC": "113.4 MHz CH81X.",
+    "AnswerD": "114.3 MHz CH81X",
+    "CorrectAnswer": "113.4 MHz CH81X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 69,
+    "Question": "Which one is correct for DVOR/DME CLA",
+    "AnswerA": "116.3 MHz CH99X",
+    "AnswerB": "115.2 MHz CH99 X.",
+    "AnswerC": "113.4 MHz CH99X",
+    "AnswerD": "113.6 MHz CH99X",
+    "CorrectAnswer": "115.2 MHz CH99 X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 70,
+    "Question": "The identification and frequency of Chu Lai NDB is:",
+    "AnswerA": "CA 300 KHz",
+    "AnswerB": "CL 300 MHz",
+    "AnswerC": "CQ 300 KHz.",
+    "AnswerD": "",
+    "CorrectAnswer": "CQ 300 KHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 71,
+    "Question": "What is the Secondary frequency of ATS communication facility in Da Nang Tower?",
+    "AnswerA": "119.5 MHz",
+    "AnswerB": "118.05 MHz.",
+    "AnswerC": "118.35 MHz",
+    "AnswerD": "",
+    "CorrectAnswer": "118.05 MHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 72,
+    "Question": "Da Nang Approach Control operates SSR/PSR station at Son Tra with the range of:",
+    "AnswerA": "SSR/200 NM and PSR/70 NM",
+    "AnswerB": "SSR/250 NM and PSR/80 NM.",
+    "AnswerC": "SSR/300 NM and PSR/90 NM",
+    "AnswerD": "",
+    "CorrectAnswer": "SSR/250 NM and PSR/80 NM.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 73,
+    "Question": "The location of DVOR/DME DAN:",
+    "AnswerA": "In the East of RWY 35R",
+    "AnswerB": "In the West of RWY 35L",
+    "AnswerC": "Between RWY 35R and 35L",
+    "AnswerD": "Outside of Danang airport",
+    "CorrectAnswer": "Between RWY 35R and 35L",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 74,
+    "Question": "The coverage of DVOR/DME DAN is:",
+    "AnswerA": "300 KM.",
+    "AnswerB": "350 KM",
+    "AnswerC": "400 KM",
+    "AnswerD": "",
+    "CorrectAnswer": "300 KM.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 75,
+    "Question": "Which one is correct for NDB/DJ?",
+    "AnswerA": "212 KHz.",
+    "AnswerB": "234 KHz",
+    "AnswerC": "300 KHZ",
+    "AnswerD": "",
+    "CorrectAnswer": "212 KHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 76,
+    "Question": "Which one is correct for NDB/D?",
+    "AnswerA": "212 KHz",
+    "AnswerB": "234 KHz.",
+    "AnswerC": "300 KHZ",
+    "AnswerD": "",
+    "CorrectAnswer": "234 KHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 77,
+    "Question": "What is the Secondary frequency of ATS communication facility of Da Nang Approach?",
+    "AnswerA": "125.45 MHz.",
+    "AnswerB": "125.3 MHz",
+    "AnswerC": "121.5 MHz",
+    "AnswerD": "",
+    "CorrectAnswer": "125.45 MHz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 78,
+    "Question": "The radio navigation of GP/DME DAD in Da Nang airport has frequency:",
+    "AnswerA": "329.6 MHz CH42X.",
+    "AnswerB": "332.9 MHz CH52X",
+    "AnswerC": "332.6 MHz CH52X",
+    "AnswerD": "",
+    "CorrectAnswer": "329.6 MHz CH42X.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 79,
+    "Question": "The radio navigation of ILS/LLZ IDR in Da Nang airport has frequency:",
+    "AnswerA": "111.5 MHz .",
+    "AnswerB": "110.5 MHz",
+    "AnswerC": "110.5 KHz",
+    "AnswerD": "",
+    "CorrectAnswer": "111.5 MHz .",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 80,
+    "Question": "The ARP of Danang is:",
+    "AnswerA": "TWR building",
+    "AnswerB": "Intersection of RWY 35L/17R and E3 centerline",
+    "AnswerC": "Intersection of RWY 35R/17L and E3 centerline",
+    "AnswerD": "",
+    "CorrectAnswer": "Intersection of RWY 35R/17L and E3 centerline",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 81,
+    "Question": "What is the Primary frequency of ATS communication facility of Da Nang Ground Control?",
+    "AnswerA": "121.9 MHz",
+    "AnswerB": "121.6 MHz",
+    "AnswerC": "118.35 MHz",
+    "AnswerD": "118.15MHz",
+    "CorrectAnswer": "121.6 MHz",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 82,
+    "Question": "The hours of operation of DVOR/DME DAN?",
+    "AnswerA": "H12",
+    "AnswerB": "H24",
+    "AnswerC": "HS",
+    "AnswerD": "",
+    "CorrectAnswer": "H24",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 83,
+    "Question": "The length of TWYs G1, G2, G4, G6 is",
+    "AnswerA": "168m.",
+    "AnswerB": "214m",
+    "AnswerC": "760m",
+    "AnswerD": "",
+    "CorrectAnswer": "168m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 84,
+    "Question": "What is Aerodrome category for Fire fighting in VVDN",
+    "AnswerA": "CAT 6",
+    "AnswerB": "CAT 9",
+    "AnswerC": "CAT 9 with AD HR",
+    "AnswerD": "CAT 8",
+    "CorrectAnswer": "CAT 9 with AD HR",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 85,
+    "Question": "How many turn pad area in VVDN",
+    "AnswerA": 2,
+    "AnswerB": 3,
+    "AnswerC": 4,
+    "AnswerD": 5,
+    "CorrectAnswer": 3,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 86,
+    "Question": "Which frequencies of the following is required the operational certificates at Da Nang CTL position?",
+    "AnswerA": "Only APP VHF 121.5 Mhz.",
+    "AnswerB": "Only APP VHF 125.3 Mhz and secondary VHF frequency 119.5 Mhz",
+    "AnswerC": "CTL VHF 121.5 Mhz, 125.3 Mhz and secondary VHF frequency 125.45 Mhz.",
+    "AnswerD": "Only APP VHF 125.3 Mhz and 121.5 Mhz",
+    "CorrectAnswer": "CTL VHF 121.5 Mhz, 125.3 Mhz and secondary VHF frequency 125.45 Mhz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 87,
+    "Question": "Viba is a/an:",
+    "AnswerA": "Data processing system",
+    "AnswerB": "Electromagnatic microwave transmitting system",
+    "AnswerC": "Positioning system",
+    "AnswerD": "Electricity generating system",
+    "CorrectAnswer": "Electromagnatic microwave transmitting system",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 88,
+    "Question": "AMSS is an abbreviation of:",
+    "AnswerA": "Aeronautical Message Switching System.",
+    "AnswerB": "Aeronautical Message Switching Service.",
+    "AnswerC": "Automatic Message Switching System",
+    "AnswerD": "Automatic Message Switching Service.",
+    "CorrectAnswer": "Automatic Message Switching System",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 89,
+    "Question": "Function of VCCS system at Da Nang CTL/TWR position:",
+    "AnswerA": "Controls all VHF and voice communication channels.",
+    "AnswerB": "Controls voice record.",
+    "AnswerC": "Controls all VHF channels and stores all recorded information.",
+    "AnswerD": "Controls all voice communication and voice record.",
+    "CorrectAnswer": "Controls all VHF and voice communication channels.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 90,
+    "Question": "Time to meet the requirement to transfer a required message over AFTN is………?",
+    "AnswerA": "< 3 minutes",
+    "AnswerB": "< 4 minutes",
+    "AnswerC": "< 5 minutes",
+    "AnswerD": "< 6 minutes",
+    "CorrectAnswer": "< 5 minutes",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 91,
+    "Question": "Which address do we use to establish point-to-point communication over AFTN system between DAN APP/TWR and Meteorology Observing Unit of MACs?",
+    "AnswerA": "VVDNYMYX",
+    "AnswerB": "VVDNZMZX",
+    "AnswerC": "VVDNZMZQ",
+    "AnswerD": "VVDNYMYQ",
+    "CorrectAnswer": "VVDNYMYQ",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 92,
+    "Question": "The automatic changeover of standby electricity power for flight control equipments and navigation facilities ensures …….. to supply the power in a stable/steady manner:",
+    "AnswerA": "< 30 seconds",
+    "AnswerB": "< 25 seconds",
+    "AnswerC": "< 20 seconds",
+    "AnswerD": "< 15 seconds",
+    "CorrectAnswer": "< 15 seconds",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 93,
+    "Question": "SSB system is used to establish communication between:",
+    "AnswerA": "satellite airports",
+    "AnswerB": "international airports",
+    "AnswerC": "airports all over the nation",
+    "AnswerD": "international and domestic airports",
+    "CorrectAnswer": "airports all over the nation",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 94,
+    "Question": "The coverage of Son Tra secondary radar:",
+    "AnswerA": "493km (250NM)",
+    "AnswerB": "483km (250NM)",
+    "AnswerC": "473km (250NM)",
+    "AnswerD": "463km (250NM)",
+    "CorrectAnswer": "463km (250NM)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 95,
+    "Question": "The coverage of Son Tra primary radar:",
+    "AnswerA": "168km (80NM)",
+    "AnswerB": "158km (80NM)",
+    "AnswerC": "148km (80NM)",
+    "AnswerD": "178km (80NM)",
+    "CorrectAnswer": "148km (80NM)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 96,
+    "Question": "When the electricity is lost, what is the capacity of the UPS to ensure the normal operation of all communication equipments and radar monitoring system at Da Nang APP/TWR",
+    "AnswerA": "within ½ hour",
+    "AnswerB": "within 1 hour",
+    "AnswerC": "within 1 hour 30 minutes",
+    "AnswerD": "within 2 hours",
+    "CorrectAnswer": "within 1 hour",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 97,
+    "Question": "Who is responsible for the control of the Walkie-talkie 146.850 Mhz?",
+    "AnswerA": "MIRATS",
+    "AnswerB": "VATM",
+    "AnswerC": "(an authorized unit of) Da Nang International Airport",
+    "AnswerD": "None of the above",
+    "CorrectAnswer": "MIRATS",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 98,
+    "Question": "The function of the AMSS at Da Nang APP/TWR is:",
+    "AnswerA": "monitoring the coming messages",
+    "AnswerB": "monitoring and transferring messages in standard format",
+    "AnswerC": "receiving, transferring and storing aeronautical messages.",
+    "AnswerD": "transferring messages to local airports",
+    "CorrectAnswer": "receiving, transferring and storing aeronautical messages.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 99,
+    "Question": "Which one independently works with VCCS system at Da Nang APP/TWR?",
+    "AnswerA": "voice record equipments",
+    "AnswerB": "hotlines",
+    "AnswerC": "remote control secondary VHF equipment",
+    "AnswerD": "none of the above",
+    "CorrectAnswer": "remote control secondary VHF equipment",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 100,
+    "Question": "Voice record equipment at Da Nang APP/TWR is used:",
+    "AnswerA": "to record only VHF channels and connected with VCCS system",
+    "AnswerB": "to record only VHF channels and not connected with VCCS system",
+    "AnswerC": "to record all voice channels but not connected with VCCS system",
+    "AnswerD": "to record all voice channels and connected with VCCS system",
+    "CorrectAnswer": "to record all voice channels and connected with VCCS system",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 101,
+    "Question": "By which line that the AIS system is connected with the AIS center in Da Nang?",
+    "AnswerA": "by viba",
+    "AnswerB": "by bronze cable.",
+    "AnswerC": "by fibre cable",
+    "AnswerD": "none of the above",
+    "CorrectAnswer": "by bronze cable.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 102,
+    "Question": "What is the UPS used for?",
+    "AnswerA": "releasing the electricity current when there is a shock",
+    "AnswerB": "keeping the high voltage to the equipment.",
+    "AnswerC": "keeping the uninterrupted and steady electricity current",
+    "AnswerD": "supplying more electricity to the equipment",
+    "CorrectAnswer": "keeping the uninterrupted and steady electricity current",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 103,
+    "Question": "How are VHF equipments at Da Nang APP/TWR controlled?",
+    "AnswerA": "directly controlled",
+    "AnswerB": "remote controlled",
+    "AnswerC": "both a and b",
+    "AnswerD": "none of the above",
+    "CorrectAnswer": "both a and b",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 104,
+    "Question": "What is the maximum capacity of Da Nang AMSS system to meet the requirement of the amount of aeronautical message?",
+    "AnswerA": "30.000 messages per day",
+    "AnswerB": "31.000 messages per day",
+    "AnswerC": "32.000 messages per day",
+    "AnswerD": "33.000 messages per day",
+    "CorrectAnswer": "30.000 messages per day",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 105,
+    "Question": "How many channels that the AFTN system can be connected with Da Nang AMSS ?",
+    "AnswerA": 25,
+    "AnswerB": 30,
+    "AnswerC": 35,
+    "AnswerD": 40,
+    "CorrectAnswer": 40,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 106,
+    "Question": "How many VHF channels that can be controlled by the VCCS system at APP/TWR Da Nang?",
+    "AnswerA": 4,
+    "AnswerB": 6,
+    "AnswerC": 8,
+    "AnswerD": 10,
+    "CorrectAnswer": 6,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 107,
+    "Question": "What are the basic information that we can see on the radar screen at Da Nang APP/TWR?",
+    "AnswerA": "aircraft position.",
+    "AnswerB": "aircraft position and level",
+    "AnswerC": "aircraft position, level and speed.",
+    "AnswerD": "aircraft position, level, speed, heading and other necessary information.",
+    "CorrectAnswer": "aircraft position, level, speed, heading and other necessary information.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 108,
+    "Question": "Nui Tau Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "942m...186 degrees",
+    "AnswerB": "953m...186 degrees",
+    "AnswerC": "942m....176 degrees",
+    "AnswerD": "953m...176 degrees",
+    "CorrectAnswer": "942m...186 degrees",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 109,
+    "Question": "Cu Lao Cham Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "506m...108 degrees",
+    "AnswerB": "517m....208 degrees",
+    "AnswerC": "517m....108 degrees",
+    "AnswerD": "506m...208 degrees",
+    "CorrectAnswer": "506m...108 degrees",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 110,
+    "Question": "What is the most significant obstacle on W1 from PLK to DAN that make the minimum fight level of that segment is FL120.",
+    "AnswerA": "Nui Tau Mount",
+    "AnswerB": "Ngoc Linh Mount",
+    "AnswerC": "Son Tra Mount",
+    "AnswerD": "Hai Van Mount",
+    "CorrectAnswer": "Ngoc Linh Mount",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 111,
+    "Question": "Hai Van Mount pass is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "1181m...327 degrees.",
+    "AnswerB": "1192m...327 degrees.",
+    "AnswerC": "1181m...227 degrees.",
+    "AnswerD": "1192m...227 degrees.",
+    "CorrectAnswer": "1181m...327 degrees.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 112,
+    "Question": "The Phuoc Tuong Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "346m....274 degrees",
+    "AnswerB": "336m....264 degrees",
+    "AnswerC": "326m...254 degrees",
+    "AnswerD": "316m...244 degrees",
+    "CorrectAnswer": "316m...244 degrees",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 113,
+    "Question": "An aircraft executing VOR Z approach for runway 35R when flying over the SDF is not below....MSL.",
+    "AnswerA": "1191m",
+    "AnswerB": "1050m.",
+    "AnswerC": "1500m",
+    "AnswerD": "1600m",
+    "CorrectAnswer": "1050m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 114,
+    "Question": "An aircraft executing VOR Z approach for runway 35L when flying over the SDF is not below....MSL.",
+    "AnswerA": "1193m",
+    "AnswerB": "1191m",
+    "AnswerC": "1050m.",
+    "AnswerD": "1500m",
+    "CorrectAnswer": "1050m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 115,
+    "Question": "An aircraft executing ILSz approach for runway 35R when flying over the SDF is not below....MSL.",
+    "AnswerA": "1191m",
+    "AnswerB": "1050m.",
+    "AnswerC": "1500m",
+    "AnswerD": "1600m",
+    "CorrectAnswer": "1050m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 116,
+    "Question": "An aircraft executing ILSz approach for runway 35L when flying over the SDF is not below....MSL.",
+    "AnswerA": "1193m",
+    "AnswerB": "1191m",
+    "AnswerC": "1050m.",
+    "AnswerD": "1500m",
+    "CorrectAnswer": "1050m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 117,
+    "Question": "The SDF position in VORz approach for runway 35R is at.... from DAN VOR",
+    "AnswerA": "D6.2/R-173.",
+    "AnswerB": "D.18/R172",
+    "AnswerC": "D.18/R-174",
+    "AnswerD": "D.15/R-174",
+    "CorrectAnswer": "D6.2/R-173.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 118,
+    "Question": "The SDF position in VORz approach for runway 35L is at.... from DAN VOR.",
+    "AnswerA": "D.15/R-172",
+    "AnswerB": "D.18/R172",
+    "AnswerC": "D.18/R-174",
+    "AnswerD": "D6.3/R-173.",
+    "CorrectAnswer": "D6.3/R-173.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 119,
+    "Question": "How many nautical miles an aircraft will fly from FAF to MAPt in VORy approach for runway 35R?",
+    "AnswerA": "4,7 NM.",
+    "AnswerB": "10 NM",
+    "AnswerC": "20 NM",
+    "AnswerD": "15 NM",
+    "CorrectAnswer": "4,7 NM.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 120,
+    "Question": "How many miles an aircraft will fly from FAF to MAPt in VORy approach for runway 35L?",
+    "AnswerA": "10 NM",
+    "AnswerB": "4,7 NM.",
+    "AnswerC": "8 NM",
+    "AnswerD": "9 NM",
+    "CorrectAnswer": "4,7 NM.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 121,
+    "Question": "How many miles an aircraft will fly from FAF to MAPt in ILSy approach for runway 35R?",
+    "AnswerA": "8 NM",
+    "AnswerB": "9 NM",
+    "AnswerC": "4,7 NM",
+    "AnswerD": "10 NM",
+    "CorrectAnswer": "4,7 NM",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 122,
+    "Question": "How many miles an aircraft will fly from FAF to MAPt in ILSy approach for runway 35L?",
+    "AnswerA": "5 NM",
+    "AnswerB": "10 NM",
+    "AnswerC": "8 NM",
+    "AnswerD": "4,7 NM",
+    "CorrectAnswer": "4,7 NM",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 123,
+    "Question": "An aircraft lining up RWY 35R for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5 m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "8.5 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 124,
+    "Question": "An aircraft lining up RWY 35L for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5 m",
+    "AnswerC": "7m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7.5 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 125,
+    "Question": "An aircraft lining up RWY 17L for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7 m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 126,
+    "Question": "An aircraft lining up RWY 17R for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7 m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 127,
+    "Question": "The minimum altitude when an aircraft following the STAR HUE 2K is flying over the point HINTA",
+    "AnswerA": "1800m",
+    "AnswerB": "2050m",
+    "AnswerC": "2150m",
+    "AnswerD": "2750m",
+    "CorrectAnswer": "2750m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 128,
+    "Question": "Where does a departing Su22 first turn for training at Restricted area number 11?",
+    "AnswerA": "Son Tra Mount.",
+    "AnswerB": "Hai Van Mount",
+    "AnswerC": "Cu Lao Cham Mount",
+    "AnswerD": "Nui Tau Mount",
+    "CorrectAnswer": "Son Tra Mount.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 129,
+    "Question": "Where does a departing Su22 first turn for training at Restricted area number 14?",
+    "AnswerA": "Son Tra Mount",
+    "AnswerB": "Hai Van Mount.",
+    "AnswerC": "Cu Lao Cham Mount",
+    "AnswerD": "Nui Tau Mount",
+    "CorrectAnswer": "Hai Van Mount.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 130,
+    "Question": "The minimum altitude of fuel dumping area at Danang airport is not below 10.000ft. State the position of this area?",
+    "AnswerA": "IAF2 (D.18/R-172 DAN DVOR/DME)",
+    "AnswerB": "IAF3 (D.21/R-143 DAN DVOR/DME)",
+    "AnswerC": "FIX: (D.15/R-066 DAN DVOR/DME)",
+    "AnswerD": "IAF5 (D.15/R-057 DAN DVOR/DME)",
+    "CorrectAnswer": "FIX: (D.15/R-066 DAN DVOR/DME)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 131,
+    "Question": "Where is the jettison area of baggage, cargo, other objects from aircraft at Da Nang in case of emergency?",
+    "AnswerA": "A circle with a radius 7,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP",
+    "AnswerB": "A circle with a radius 4,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "AnswerC": "A circle with a radius 5,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "AnswerD": "A circle with a radius 6,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "CorrectAnswer": "A circle with a radius 7,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 132,
+    "Question": "The minimum altitude when an aircraft following the STAR SADIN 2K is flying over the waypoint DOTEN",
+    "AnswerA": "1500M",
+    "AnswerB": "2750M",
+    "AnswerC": "1850M",
+    "AnswerD": "2150M",
+    "CorrectAnswer": "1850M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 133,
+    "Question": "The minimum altitude when an aircraft following the STAR LATOM 2K is flying over the waypoint TAMLA",
+    "AnswerA": "1100M",
+    "AnswerB": "1200M",
+    "AnswerC": "1350M",
+    "AnswerD": "1400M",
+    "CorrectAnswer": "1350M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 134,
+    "Question": "The minimum altitude when an aircraft following the STAR PAPRA2K is flying over the waypoint MONRY",
+    "AnswerA": "1300M",
+    "AnswerB": "1400M",
+    "AnswerC": "1500M",
+    "AnswerD": "1600M",
+    "CorrectAnswer": "1500M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 135,
+    "Question": "The minimum altitude when an aircraft following the STAR CAHEO 2K is flying over the waypoint DOTEN",
+    "AnswerA": "1650M",
+    "AnswerB": "1750M",
+    "AnswerC": "1850M",
+    "AnswerD": "1950M",
+    "CorrectAnswer": "1850M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 136,
+    "Question": "The minimum altitude when an aircraft following the STAR CAHEO 2M is flying over the waypoint LINDA",
+    "AnswerA": "FL100",
+    "AnswerB": "FL110",
+    "AnswerC": "FL120.",
+    "AnswerD": "FL130",
+    "CorrectAnswer": "FL120.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 137,
+    "Question": "The maximum altitude when an aircraft following the SID VIDEN 2G is flying over the waypoint LAIKA",
+    "AnswerA": "FL100",
+    "AnswerB": "FL150",
+    "AnswerC": "FL110.",
+    "AnswerD": "2450m",
+    "CorrectAnswer": "FL110.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 138,
+    "Question": "How many corridors of civil aviation traffic flow are there to/from Danang airport",
+    "AnswerA": 4,
+    "AnswerB": 5,
+    "AnswerC": 6,
+    "AnswerD": 7,
+    "CorrectAnswer": 7,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 139,
+    "Question": "How many upper route (above 7000m) defined for purpose of jet fighter training?",
+    "AnswerA": 2,
+    "AnswerB": 3,
+    "AnswerC": 4,
+    "AnswerD": 5,
+    "CorrectAnswer": 2,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 140,
+    "Question": "What is the maximun level of the route defined for purpose of helicopter training:",
+    "AnswerA": "800m",
+    "AnswerB": "1500m",
+    "AnswerC": "1800m",
+    "AnswerD": "2100m",
+    "CorrectAnswer": "2100m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 141,
+    "Question": "How many training zone use for jet fighter at Danang airport:",
+    "AnswerA": 7,
+    "AnswerB": 8,
+    "AnswerC": 9,
+    "AnswerD": 10,
+    "CorrectAnswer": 9,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 142,
+    "Question": "How many training zone use for helicopter at Danang airport:",
+    "AnswerA": 9,
+    "AnswerB": 8,
+    "AnswerC": 7,
+    "AnswerD": 10,
+    "CorrectAnswer": 7,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 143,
+    "Question": "What is the upper limit defined for training zone 40, 41, 42, 43, 46, 47, 48?",
+    "AnswerA": "5000m",
+    "AnswerB": "6000m",
+    "AnswerC": "7000m",
+    "AnswerD": "8000m",
+    "CorrectAnswer": "8000m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 144,
+    "Question": "How many traffic circuit defined for the use of helicopter?",
+    "AnswerA": 1,
+    "AnswerB": 2,
+    "AnswerC": 3,
+    "AnswerD": "None of above.",
+    "CorrectAnswer": 2,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 145,
+    "Question": "In case of mixed operation of military and civil aviation, only one runway direction (normally 3520) to be used for both without exception.",
+    "AnswerA": "TRUE",
+    "AnswerB": "False.",
+    "AnswerC": "",
+    "AnswerD": "",
+    "CorrectAnswer": "False.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 146,
+    "Question": "What is the altitude of jet fighter before turning base in the traffic circuit?",
+    "AnswerA": "400m",
+    "AnswerB": "500m",
+    "AnswerC": "600m",
+    "AnswerD": "900m",
+    "CorrectAnswer": "500m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 147,
+    "Question": "What is the maximum width of the traffic circuit defined for the use of jet fighter?",
+    "AnswerA": "9 Km",
+    "AnswerB": "10 Km",
+    "AnswerC": "11 Km",
+    "AnswerD": "12 Km",
+    "CorrectAnswer": "12 Km",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 148,
+    "Question": "What is the maximum level of the jet fighter operation in training zone 40, 41, 42, 43, 46, 47, 48?",
+    "AnswerA": "5000m",
+    "AnswerB": "6000m",
+    "AnswerC": "7000m",
+    "AnswerD": "8000m",
+    "CorrectAnswer": "8000m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 149,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 40 after finishing their task at altitude",
+    "AnswerA": "900m",
+    "AnswerB": "1000m",
+    "AnswerC": "1500m",
+    "AnswerD": "1800m",
+    "CorrectAnswer": "1500m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 150,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 41 after finishing their task at altitude",
+    "AnswerA": "900m",
+    "AnswerB": "1000m",
+    "AnswerC": "1500m",
+    "AnswerD": "1800m",
+    "CorrectAnswer": "1800m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 151,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 42 after finishing their task at altitude",
+    "AnswerA": "900m",
+    "AnswerB": "1000m",
+    "AnswerC": "1500m",
+    "AnswerD": "1800m",
+    "CorrectAnswer": "900m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 152,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 43 after finishing their task at altitude",
+    "AnswerA": "2000m",
+    "AnswerB": "2100m",
+    "AnswerC": "2400m",
+    "AnswerD": "3000m",
+    "CorrectAnswer": "3000m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 153,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 46 after finishing their task at altitude",
+    "AnswerA": "2000m",
+    "AnswerB": "2100m",
+    "AnswerC": "2400m",
+    "AnswerD": "3000m",
+    "CorrectAnswer": "2000m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 154,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 47 after finishing their task at altitude",
+    "AnswerA": "2000m",
+    "AnswerB": "2100m",
+    "AnswerC": "2400m",
+    "AnswerD": "3000m",
+    "CorrectAnswer": "2400m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 155,
+    "Question": "Except prior coordination, jet fighter will leave the training zone 48 after finishing their task at altitude",
+    "AnswerA": "2000m",
+    "AnswerB": "2100m",
+    "AnswerC": "2400m",
+    "AnswerD": "3000m",
+    "CorrectAnswer": "2100m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 156,
+    "Question": "Except prior coordination, jet fighters will enter the traffic circuit for landing after finishing their task at altitude:",
+    "AnswerA": "500m",
+    "AnswerB": "900m",
+    "AnswerC": "1500m",
+    "AnswerD": "1800m",
+    "CorrectAnswer": "900m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 157,
+    "Question": "Location of the jet fighters training zone 40 from Danang airport is centered at:",
+    "AnswerA": "87 Km in the South",
+    "AnswerB": "87 Km in the South-East",
+    "AnswerC": "97 Km in the South",
+    "AnswerD": "97 Km in the South-East",
+    "CorrectAnswer": "87 Km in the South-East",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 158,
+    "Question": "Location of the jet fighters training zone 41 from Danang airport is centered at:",
+    "AnswerA": "48,5 Km in the South",
+    "AnswerB": "38,5 Km in the South",
+    "AnswerC": "38,5 Km in the South-West",
+    "AnswerD": "48,5 Km in the South-West",
+    "CorrectAnswer": "38,5 Km in the South-West",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 159,
+    "Question": "Location of the jet fighters training zone 42 from Danang airport is centered at:",
+    "AnswerA": "36 Km in the South",
+    "AnswerB": "36 Km in the South-East",
+    "AnswerC": "46 Km in the South",
+    "AnswerD": "46 Km in the South-East",
+    "CorrectAnswer": "46 Km in the South-East",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 160,
+    "Question": "Location of the jet fighters training zone 43 from Danang airport is centered at:",
+    "AnswerA": "82 Km in the North-West",
+    "AnswerB": ". 92 Km in the North-West",
+    "AnswerC": "82 Km in the North",
+    "AnswerD": "92 Km in the West",
+    "CorrectAnswer": ". 92 Km in the North-West",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 161,
+    "Question": "Location of the jet fighters training zone 46 from Danang airport is centered at:",
+    "AnswerA": "44 Km in the North",
+    "AnswerB": "54 Km in the North",
+    "AnswerC": "44 Km in the North-West",
+    "AnswerD": "54 Km in the North-East",
+    "CorrectAnswer": "44 Km in the North",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 162,
+    "Question": "Location of the jet fighters training zone 48 from Danang airport is centered at:",
+    "AnswerA": "59 Km in the South-East",
+    "AnswerB": "69 Km in the South-East",
+    "AnswerC": "79 Km in the South-East",
+    "AnswerD": "89 Km in the South-East",
+    "CorrectAnswer": "69 Km in the South-East",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 163,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, METAR is updated:",
+    "AnswerA": "Every 02 minutes",
+    "AnswerB": "Every 05 minutes",
+    "AnswerC": "Every 10 minutes",
+    "AnswerD": "Every 30 minutes",
+    "CorrectAnswer": "Every 30 minutes",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 164,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, surface wind should be based on an average value in period of:",
+    "AnswerA": "02 minutes",
+    "AnswerB": "05 minutes",
+    "AnswerC": "10 minutes",
+    "AnswerD": "30 minutes",
+    "CorrectAnswer": "10 minutes",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 165,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, cloud amount is given as follows:",
+    "AnswerA": "FEW (1-2 oktas), SCT (3-4 oktas), BKN (5-6 oktas) or OVC (7-8 oktas)",
+    "AnswerB": "FEW (1oktas), SCT (2-3 oktas), BKN (4-5 oktas) or OVC (6-8 oktas)",
+    "AnswerC": "FEW (1-2 oktas), SCT (3-4 oktas), BKN (5-7 oktas) or OVC (8 oktas)",
+    "AnswerD": "FEW (1-2 oktas), SCT (3-5 oktas), BKN (6-7 oktas) or OVC (8 oktas)",
+    "CorrectAnswer": "FEW (1-2 oktas), SCT (3-4 oktas), BKN (5-7 oktas) or OVC (8 oktas)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 166,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, FEW is given cloud amount:",
+    "AnswerA": "1-2 oktas",
+    "AnswerB": "3-4 oktas",
+    "AnswerC": "5-6 oktas",
+    "AnswerD": "7-8 oktas",
+    "CorrectAnswer": "1-2 oktas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 167,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, SCT is given cloud amount:",
+    "AnswerA": "1-2 oktas",
+    "AnswerB": "3-4 oktas",
+    "AnswerC": "5-7 oktas",
+    "AnswerD": "8 oktas",
+    "CorrectAnswer": "3-4 oktas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 168,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, BKN is given cloud amount:",
+    "AnswerA": "1-2 oktas",
+    "AnswerB": "3-4 oktas",
+    "AnswerC": "5-7 oktas",
+    "AnswerD": "8 oktas",
+    "CorrectAnswer": "5-7 oktas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 169,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, OVC is given cloud amount:",
+    "AnswerA": "1-2 oktas",
+    "AnswerB": "3-4 oktas",
+    "AnswerC": "5-7 oktas",
+    "AnswerD": "8 oktas",
+    "CorrectAnswer": "8 oktas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 170,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, atmospheric pressure is given in hectopascals and:",
+    "AnswerA": "rounded down to the nearest lower whole hectopascal",
+    "AnswerB": "rounded up to the nearest higher whole hectopascal",
+    "AnswerC": "rounded up to the whole hectopascal",
+    "AnswerD": "exact to the hectopascal",
+    "CorrectAnswer": "rounded down to the nearest lower whole hectopascal",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 171,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, observations of air temperature and dew-point temperature should be representative of the whole runway complex. In METAR, the temperatures are reported:",
+    "AnswerA": "with observed values involving rounded down to the next lower whole degree Celsius.",
+    "AnswerB": "with observed values involving rounded up to the next higher whole degree Celsius.",
+    "AnswerC": "with observed values involving rounded to the nearest whole degree Celsius.",
+    "AnswerD": "",
+    "CorrectAnswer": "with observed values involving rounded to the nearest whole degree Celsius.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 172,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, surface wind should be based on:",
+    "AnswerA": "an averaging period of ten minutes in METAR",
+    "AnswerB": "an averaging period of two minutes in local reports.",
+    "AnswerC": "an averaging period of two minutes in local reports and an averaging period of ten minutes in METAR",
+    "AnswerD": "",
+    "CorrectAnswer": "an averaging period of two minutes in local reports and an averaging period of ten minutes in METAR",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 173,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, when visibility is less than 1 000 m, ......is reported.",
+    "AnswerA": "BR",
+    "AnswerB": "FG",
+    "AnswerC": "IC",
+    "AnswerD": "DR",
+    "CorrectAnswer": "FG",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 174,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, when visibility is at least 1 000 m but not more than 5 000 m, ...... is reported.",
+    "AnswerA": "BR",
+    "AnswerB": "FG",
+    "AnswerC": "IC",
+    "AnswerD": "DR",
+    "CorrectAnswer": "BR",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 175,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, when diameter of largest hailstones is 5 mm or more, ...... is reported.",
+    "AnswerA": "GS",
+    "AnswerB": "GR",
+    "AnswerC": "IC",
+    "AnswerD": "SG",
+    "CorrectAnswer": "GR",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 176,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, when diameter of largest hailstones is less than 5 mm, ...... is reported",
+    "AnswerA": "GS",
+    "AnswerB": "GR",
+    "AnswerC": "IC",
+    "AnswerD": "SG",
+    "CorrectAnswer": "GS",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 177,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in METAR, intensity/proximity of present weather phenomena is indicated:",
+    "AnswerA": "Light, moderate, heavy",
+    "AnswerB": "#ERROR!",
+    "AnswerC": "FBL, MOD, HVY",
+    "AnswerD": "P, no indication, M",
+    "CorrectAnswer": 2,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 178,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, if it is obscured by haze or smoke or cannot be readily seen due to darkness, an area of thunderstorms and cumulonimbus clouds should be considered:",
+    "AnswerA": "OBSC (Obscured)",
+    "AnswerB": "EMBD (Embedded)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "OBSC (Obscured)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 179,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, if it is embedded within cloud layers and cannot be readily recognized, an area of thunderstorms and cumulonimbus clouds should be considered:",
+    "AnswerA": "OBSC (Obscured)",
+    "AnswerB": "EMBD (Embedded)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "EMBD (Embedded)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 180,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, if it consists of individual features which affect, or are forecast to affect, an area with a maximum spatial coverage less than 50 per cent of the area concerned (at a fixed time or during the period of validity)",
+    "AnswerA": "OBSC (Obscured)",
+    "AnswerB": "EMBD (Embedded)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "ISOL (Isolated)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 181,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, if it consists of well-separated features which affect, or are forecast to affect, an area with a maximum spatial coverage between 50 and 75 per cent of the area concerned (at a fixed time or during the period of validity)",
+    "AnswerA": "OBSC (Obscured)",
+    "AnswerB": "EMBD (Embedded)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "OCNL (Occasional)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 182,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, if within that area there is little or no separation between adjacent thunderstorms with a maximum spatial coverage greater than 75 per cent of the area affected, or forecast to be affected, by the phenomenon (at a fixed time or during the period of validity), an area of thunderstorms should be considered:",
+    "AnswerA": "FRQ (Frequent)",
+    "AnswerB": "SQL (Squall line)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "FRQ (Frequent)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 183,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, a thunderstorm along a line with little or no space between individual clouds is indicated by:",
+    "AnswerA": "FRQ (Frequent)",
+    "AnswerB": "SQL (Squall line)",
+    "AnswerC": "ISOL (Isolated)",
+    "AnswerD": "OCNL (Occasional)",
+    "CorrectAnswer": "SQL (Squall line)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 184,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, the period of validity of a SIGMET message shall be:",
+    "AnswerA": "4 hours",
+    "AnswerB": "not more than 4 hours",
+    "AnswerC": "6 hours",
+    "AnswerD": "Not more than 6 hours",
+    "CorrectAnswer": "not more than 4 hours",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 185,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in the special case of SIGMET messages for volcanic ash cloud and tropical cyclones, the period of validity shall be extended:",
+    "AnswerA": "4 hours",
+    "AnswerB": "not more than 4 hours",
+    "AnswerC": "more than 6 hours",
+    "AnswerD": "up to 6 hours",
+    "CorrectAnswer": "up to 6 hours",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 186,
+    "Question": "According to Manual of Operation of Da Nang APP/TWR, in SIGMET, a mountain wave (MTW) should be considered severe whenever:",
+    "AnswerA": "an accompanying downdraft of 3.0 m/s (600 ft/min) or more",
+    "AnswerB": "severe turbulence is observed or forecast.",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 and/or 2",
+    "CorrectAnswer": "1 and/or 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 187,
+    "Question": "At Da Nang aerodrome, the period of validity of a TAF message shall be:",
+    "AnswerA": "6 hours",
+    "AnswerB": "12 hours",
+    "AnswerC": "18 hours",
+    "AnswerD": "24 hours",
+    "CorrectAnswer": "24 hours",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 188,
+    "Question": "Search and rescue aircraft must be equipped the communication facilities on the frequency:aerodrome system plans?",
+    "AnswerA": "121.5MHZ; 406MHZ, 2182MHZ.",
+    "AnswerB": "123.5MHZ; 403MHZ, 2182MHZ.",
+    "AnswerC": "121.5MHZ; 406MHZ, 2180MHZ",
+    "AnswerD": "125.3MHZ; 406MHZ, 2182MHZ",
+    "CorrectAnswer": "121.5MHZ; 406MHZ, 2182MHZ.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 189,
+    "Question": "Alert phase is defined commencing at (Regulations of Civil aviation Search an Rescue):",
+    "AnswerA": "The point of time that has doubts about the safety of the aircraft and persons on board.",
+    "AnswerB": "The point of time that the safety of the aircraft and persons on board has been lost",
+    "AnswerC": "The point of time that evidences of the aircraft and persons on board have been directly dangerous and necessary for emergency assistance.",
+    "AnswerD": "When the information regarding to the aircraft’s necessity for assistance and support of SAR units has delivered.",
+    "CorrectAnswer": "The point of time that the safety of the aircraft and persons on board has been lost",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 190,
+    "Question": "Search and rescue region is defined (Regulations of Civil aviation Search an Rescue):",
+    "AnswerA": "The region that the accident has occurred and the SAR services are provided",
+    "AnswerB": "The un-defined dimension region in which the SAR services are provided",
+    "AnswerC": "The defined dimension region in which the SAR services are provided.",
+    "AnswerD": "The region in which the SAR services are provided",
+    "CorrectAnswer": "The defined dimension region in which the SAR services are provided.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 191,
+    "Question": "Search and rescue aircraft are defined as: (Regulations of Civil aviation Search an Rescue)",
+    "AnswerA": "Aircraft are equipped suitable navigation system to carry out the search and rescue duties.",
+    "AnswerB": "Aircraft are equipped suitable specialized equipment to carry out the search and rescue duties",
+    "AnswerC": "The aircraft are used to carry out the search and rescue duties.",
+    "AnswerD": "Aircraft are equipped suitable communication system to carry out the search and rescue duties.",
+    "CorrectAnswer": "Aircraft are equipped suitable specialized equipment to carry out the search and rescue duties",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 192,
+    "Question": "Seach and Rescue Services Units is defined as:(Regulations of Civil aviation Search an Rescue)",
+    "AnswerA": "The units coordinate in search, rescue and directly carry out the search and rescue duties.",
+    "AnswerB": "Rescue in a search and rescue region",
+    "AnswerC": "Forward the information to Search and Rescue Center and other air traffic services Units",
+    "AnswerD": "Collect the related information of aircraft in uncertain phase and alert phase and distress phase",
+    "CorrectAnswer": "The units coordinate in search, rescue and directly carry out the search and rescue duties.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 193,
+    "Question": "In the case of the position of the aircaft in distress is determined in the responsible region of MIRATS, which Units is responsible for issue the command and deploy the search and rescue activities?",
+    "AnswerA": "Search and Rescue Center",
+    "AnswerB": "Approach and Tower Control Center",
+    "AnswerC": "Middle Region Air Traffic Services Company",
+    "AnswerD": "Ho Chi Minh Area Control Center",
+    "CorrectAnswer": "Middle Region Air Traffic Services Company",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 194,
+    "Question": "Approach and Tower Control Center is the unit to be responsible for activities in search and rescue such as:",
+    "AnswerA": "Support for Approach and Tower Control Center to search and rescue the aircarft in distress.",
+    "AnswerB": "Coordinate information of aircaft in distress with Approach and Tower Control Center",
+    "AnswerC": "Carry out the alert services of abnormal air traffic in the responsible area and take part in the search and rescue activities if requested",
+    "AnswerD": "Coordinate to the related air traffic services units for serch and rescue the accident aircraft and provide that information to Search and Rescue Center.",
+    "CorrectAnswer": "Carry out the alert services of abnormal air traffic in the responsible area and take part in the search and rescue activities if requested",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 195,
+    "Question": "The focal to collect information about the state of danger of distress of civil aviation aircraft operations units responsible region and providing information for related search and rescue services is:",
+    "AnswerA": "Aerodrome control Tower",
+    "AnswerB": "Approach control Office",
+    "AnswerC": "Area Control centre",
+    "AnswerD": "Search and rescue services Centre",
+    "CorrectAnswer": "Area Control centre",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 196,
+    "Question": "The approach control Office (APP) and Aerodrome control Tower (TWR) of VATM shall notify the alerting information to:",
+    "AnswerA": "Search and rescue Services Center",
+    "AnswerB": "Ho Chi Minh/ Hanoi ACC",
+    "AnswerC": "General Airport Corporation",
+    "AnswerD": "National Search and rescue Center",
+    "CorrectAnswer": "Ho Chi Minh/ Hanoi ACC",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 197,
+    "Question": "The organization that is responsible for coordinating with other search and rescue force and search and rescue center of the neighbour countries in search and rescue accident aircraft in the responsible area of Vietnam is:",
+    "AnswerA": "National Search and Rescue Center",
+    "AnswerB": "Aviation Administration Committee for Flood - Storm Control and Search and Rescue",
+    "AnswerC": "Ministry of Defence",
+    "AnswerD": "Foreign Ministry",
+    "CorrectAnswer": "Aviation Administration Committee for Flood - Storm Control and Search and Rescue",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 198,
+    "Question": "Codes and abbreviations are used to communicate while conducting search and rescue mentioned in ICAO document:",
+    "AnswerA": "Doc 4444",
+    "AnswerB": "Doc 9432",
+    "AnswerC": "Doc 8168",
+    "AnswerD": "Doc 8400",
+    "CorrectAnswer": "Doc 8400",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 199,
+    "Question": "What size of map of the search and rescue region shall be available at each rescue coordination centre for the purpose of displaying and plotting information of interest to search and rescue:",
+    "AnswerA": "Small-scale",
+    "AnswerB": "Large-scale",
+    "AnswerC": "Scale 1:1.000.000",
+    "AnswerD": "Scale 1:500.000",
+    "CorrectAnswer": "Large-scale",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 200,
+    "Question": "During the uncertainty phase, the rescue coordination centre shall cooperate to the utmost with........... and other appropriate agencies and services in order that incoming reports may be speedily evaluated.",
+    "AnswerA": "Air traffic services units",
+    "AnswerB": "Nationnal Search and rescue Committee",
+    "AnswerC": "Ho Chi Minh ACC",
+    "AnswerD": "Hanoi ACC",
+    "CorrectAnswer": "Air traffic services units",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 201,
+    "Question": "Upon the occurrence of an alert phase the rescue coordination centre shall immediately alert appropriate ......... and initiate any necessary action.",
+    "AnswerA": "Air traffic services units",
+    "AnswerB": "Search and rescue services units",
+    "AnswerC": "Military Airforce",
+    "AnswerD": "Prime Minister",
+    "CorrectAnswer": "Search and rescue services units",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 202,
+    "Question": "When an aircraft is believed to be in distress, or when a distress phase exists, the rescue coordination centre shall:",
+    "AnswerA": "Initiate action by appropriate search and rescue services units and rescue units in accordance with the detailed plan of operation;",
+    "AnswerB": "Ascertain the position of the aircraft, estimate the degree of uncertainty of this position, and, on the basis of this information and the circumstances, determine the extent of the area to be searched;",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2",
+    "CorrectAnswer": "1 and 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 203,
+    "Question": "When an aircraft is believed to be in distress, or when a distress phase exists, the rescue coordination centre shall notify:",
+    "AnswerA": "The State of Registry of the aircraft",
+    "AnswerB": "The appropriate accident investigation authorities",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2",
+    "CorrectAnswer": "1 and 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 204,
+    "Question": "Unless otherwise decided by common agreement of the rescue coordination centres concerned, the rescue coordination centre to coordinate search and rescue action shall be the centre responsible for:",
+    "AnswerA": "The region in which the aircraft was according to its last reported position; or",
+    "AnswerB": "The region to which the aircraft was proceeding when its last reported position was at the boundary of two search and rescue regions; or",
+    "AnswerC": "The region to which the aircraft was destined when it was not equipped with suitable two-way radio communication or not under obligation to maintain radio communication.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 205,
+    "Question": "Whenever applicable, the rescue coordination centre responsible for search and rescue action shall forward to ...... in which the aircraft is operating, information of the search and rescue action initiated, in order that such information can be passed to the aircraft",
+    "AnswerA": "The air traffic services unit serving the flight information region",
+    "AnswerB": "The Search and Rescue Coordination Centre and Rescue Units",
+    "AnswerC": "The Flight Information Centre",
+    "AnswerD": "The airlines Operator",
+    "CorrectAnswer": "The air traffic services unit serving the flight information region",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 206,
+    "Question": "When during a distress phase the rescue coordination centre is informed that the emergency no longer exists, it shall take the necessary action to:",
+    "AnswerA": "Terminate the operations and to inform any authority, unit or service which it has activated or notified",
+    "AnswerB": "Do nothing. All search and rescue operations automatically expired",
+    "AnswerC": "Inform the air trafic services units and declare the resume normal operations",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "Terminate the operations and to inform any authority, unit or service which it has activated or notified",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 207,
+    "Question": "The authorities immediately directing the conduct of operations or any part thereof shall:",
+    "AnswerA": "Give instructions to the units under their direction and inform the rescue coordination centre of such instructions;",
+    "AnswerB": "Keep the rescue coordination centre informed of developments.",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2",
+    "CorrectAnswer": "1 and 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 208,
+    "Question": "When notified by the rescue coordination centre, the rescue unit shall:",
+    "AnswerA": "Act as required in the notification;",
+    "AnswerB": "Keep the rescue coordination centre currently informed of the quantity and preparedness of its search and rescue equipment;",
+    "AnswerC": "Keep the rescue coordination centre currently informed of its operations.",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 209,
+    "Question": "When a pilot-in-command observes that either another aircraft or a surface craft is in distress, he shall, unless he is unable, or in the circumstances of the case considers it unreasonable or unnecessary:",
+    "AnswerA": "Report to the rescue coordination centre or air traffic services unit as much of the aircraft in distress information as possible.",
+    "AnswerB": "Act as instructed by the rescue coordination centre or the air traffic services unit",
+    "AnswerC": "1 and 2",
+    "AnswerD": "1 or 2",
+    "CorrectAnswer": "1 and 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 210,
+    "Question": "The following manoeuvres performed in sequence by an aircraft mean that the aircraft wishes to direct a surface craft towards an aircraft or a surface craft in distress:",
+    "AnswerA": "Circling the surface craft at least once",
+    "AnswerB": "Crossing the projected course of the surface craft close ahead at low altitude and rocking the wings.",
+    "AnswerC": "Heading in the direction in which the surface craft is to be directed",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "All of above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 211,
+    "Question": "The following signals by aircraft mean that the ground signals have been understood:",
+    "AnswerA": "During the hours of daylight: By rocking the aircraft’s wings;",
+    "AnswerB": "During the hours of darkness: Flashing on and off twice the aircraft’s landing lights or, if not so equipped, by switching on and off twice its navigation lights.",
+    "AnswerC": "1 or 2",
+    "AnswerD": "1 and 2",
+    "CorrectAnswer": "1 or 2",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 212,
+    "Question": "Ground-air visual signal code for use by rescue units NN means:",
+    "AnswerA": "Nothing found. Will continue to search",
+    "AnswerB": "Number of",
+    "AnswerC": "No one needs assistance",
+    "AnswerD": "All of above",
+    "CorrectAnswer": "Nothing found. Will continue to search",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 213,
+    "Question": "A horizontal red square panel with yellow diagonals when displayed in a signal area indicates:",
+    "AnswerA": "landings are prohibited",
+    "AnswerB": "normal safety services are not available",
+    "AnswerC": "land on paved surface only",
+    "AnswerD": "exercise special care when landing",
+    "CorrectAnswer": "landings are prohibited",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 214,
+    "Question": "The letter C displayed vertically in black against a yellow background indicates:",
+    "AnswerA": "An IFR holding point",
+    "AnswerB": "The airfield is unusable.",
+    "AnswerC": "the location of the air traffic services reporting office.",
+    "AnswerD": "That the glider activity is in progress",
+    "CorrectAnswer": "the location of the air traffic services reporting office.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 215,
+    "Question": "A double white cross displayed horizontally in the signal area indicates that:",
+    "AnswerA": "Glider flying is in progress",
+    "AnswerB": "Landing and take off are prohibited",
+    "AnswerC": "Landing only on the runway",
+    "AnswerD": "This aerodrome is using paralle runways.",
+    "CorrectAnswer": "Glider flying is in progress",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 216,
+    "Question": "In a precision approach CATI lighting system, the centre line and crossbar lights shall be:",
+    "AnswerA": "Fixed light showing variable green",
+    "AnswerB": "Fixed light showing variable red",
+    "AnswerC": "Fixed light showing variable white",
+    "AnswerD": "Fixed light showing variable blue",
+    "CorrectAnswer": "Fixed light showing variable white",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 217,
+    "Question": "At VVDN, Airfield beacons on TWR cab show:",
+    "AnswerA": "A two letter identification code in red.",
+    "AnswerB": "A two letter identification code in blue.",
+    "AnswerC": "White and green flashing strobe light",
+    "AnswerD": "A two letter identification code in yellow",
+    "CorrectAnswer": "White and green flashing strobe light",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 218,
+    "Question": "When on or close to the approach slope, the wing bar of a PAPI shows:",
+    "AnswerA": "Two red lights and two white lights.",
+    "AnswerB": "Four red lights",
+    "AnswerC": "Four white lights.",
+    "AnswerD": "Three red lights and one white light",
+    "CorrectAnswer": "Two red lights and two white lights.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 219,
+    "Question": "Touchdown zone markings are placed:",
+    "AnswerA": "150m from the runway threshold",
+    "AnswerB": "400m from the runway threshold",
+    "AnswerC": "500m from the runway threshold",
+    "AnswerD": "800m from the runway threshold",
+    "CorrectAnswer": "400m from the runway threshold",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 220,
+    "Question": "The abbreviation PAPI stands for:",
+    "AnswerA": "Precision Approach Power Index",
+    "AnswerB": "Precision Approach Path Index",
+    "AnswerC": "Precision Approach Power Indicator",
+    "AnswerD": "Precision Approach Path Indicator",
+    "CorrectAnswer": "Precision Approach Path Indicator",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 221,
+    "Question": "Alternate yellow and green centreline lights of a taxiway indicates:",
+    "AnswerA": "A rapid taxiway",
+    "AnswerB": "A stopway",
+    "AnswerC": "A stopbar",
+    "AnswerD": "An ILS critical/sensitive area.",
+    "CorrectAnswer": "An ILS critical/sensitive area.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 222,
+    "Question": "Crosses of a single contrasting colour, yellow or white displayed horizontally on runways and taxiways or parts thereof indicate:",
+    "AnswerA": "Aircraft can not use for movement.",
+    "AnswerB": "an area availabe for movement of aircraft.",
+    "AnswerC": "an area can be used for helicopter.",
+    "AnswerD": "an area can be used for glider",
+    "CorrectAnswer": "Aircraft can not use for movement.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 223,
+    "Question": "At VVDN, The length of the CAT I ILS approach lights system RWY 35R:",
+    "AnswerA": "1500m",
+    "AnswerB": "2000m",
+    "AnswerC": "3000m",
+    "AnswerD": "900m",
+    "CorrectAnswer": "900m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 224,
+    "Question": "At VVDN, The length of the Simple approach lights system RWY 35L:",
+    "AnswerA": "420m",
+    "AnswerB": "600m",
+    "AnswerC": "800m",
+    "AnswerD": "1200m",
+    "CorrectAnswer": "420m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 225,
+    "Question": "At VVDN, The length of the Simple approach lights system RWY 17L:",
+    "AnswerA": "200m",
+    "AnswerB": "300m",
+    "AnswerC": "700m",
+    "AnswerD": "420m",
+    "CorrectAnswer": "420m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 226,
+    "Question": "A horizontal white or orange landing T indicates:",
+    "AnswerA": "Directions for landing or take-off.",
+    "AnswerB": "Closed Taxiway",
+    "AnswerC": "Taxi direction",
+    "AnswerD": "Area used for taxi",
+    "CorrectAnswer": "Directions for landing or take-off.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 227,
+    "Question": "At VVDN, Spacing between every single Runway edge light:",
+    "AnswerA": "10m",
+    "AnswerB": "20m",
+    "AnswerC": "30m",
+    "AnswerD": "60m",
+    "CorrectAnswer": "60m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 228,
+    "Question": "A pilot making an approach sees 3 reds lights and 1 white light on the wingbar of a PAPI. This means that:",
+    "AnswerA": "He is abvoe the approach slope",
+    "AnswerB": "He is on the centre line axis",
+    "AnswerC": "He is below the approach slope",
+    "AnswerD": "He is on the prescribed glide slope",
+    "CorrectAnswer": "He is below the approach slope",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 229,
+    "Question": "Taxiway markings and aircraft stand markings are:",
+    "AnswerA": "Red",
+    "AnswerB": "Brown",
+    "AnswerC": "Blue",
+    "AnswerD": "Yellow",
+    "CorrectAnswer": "Yellow",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 230,
+    "Question": "Runway end lights shall be:",
+    "AnswerA": "Fixed; uni-directional; red",
+    "AnswerB": "Fixed; omni-directional; green",
+    "AnswerC": "Fixed; uni-directional; white",
+    "AnswerD": "Fixed; omni-directional; brown",
+    "CorrectAnswer": "Fixed; uni-directional; red",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 231,
+    "Question": "What shape is a landing direction indicator?",
+    "AnswerA": "S",
+    "AnswerB": "U",
+    "AnswerC": "W",
+    "AnswerD": "T",
+    "CorrectAnswer": "T",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 232,
+    "Question": "To cross lighted stop bars on the manoeuvring area of an aerodrome, the following applies:",
+    "AnswerA": "An aircraft may only proceed further if the lights are switched off.",
+    "AnswerB": "An aircraft can cross with caution.",
+    "AnswerC": "An aircraft can cross with minimum taxi speed",
+    "AnswerD": "An aircraft wait for 5 minutes and than cross",
+    "CorrectAnswer": "An aircraft may only proceed further if the lights are switched off.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 233,
+    "Question": "Runway direction is indicated by two digits:",
+    "AnswerA": "The units are expressed in 20 degree to the nearest 20 degree of the True North.",
+    "AnswerB": "The units are expressed in 10 degree to the nearest 10 degree of the magnetic compass.",
+    "AnswerC": "The units are expressed in 5 degree to the nearest 5 degree of the magnetic compass",
+    "AnswerD": "The units are expressed in 15 degree to the nearest 15 degree of the magnetic compass.",
+    "CorrectAnswer": "The units are expressed in 10 degree to the nearest 10 degree of the magnetic compass.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 234,
+    "Question": "What colour are runway markings?",
+    "AnswerA": "Azura",
+    "AnswerB": "Yellow",
+    "AnswerC": "Black",
+    "AnswerD": "White",
+    "CorrectAnswer": "White",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 235,
+    "Question": "A right-hand arrow of conspicuous colour indicates:",
+    "AnswerA": "The position of the holding point",
+    "AnswerB": "that turns are to be made to the right before landing and after take-off",
+    "AnswerC": "The position of the holding position",
+    "AnswerD": "180 degree turns on the runway for the backtrack.",
+    "CorrectAnswer": "that turns are to be made to the right before landing and after take-off",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 236,
+    "Question": "Lead-in lights are:",
+    "AnswerA": "White flashing in direction pointing towards the runway",
+    "AnswerB": "Green",
+    "AnswerC": "White across runway",
+    "AnswerD": "Red",
+    "CorrectAnswer": "White flashing in direction pointing towards the runway",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 237,
+    "Question": "What colour are apron markings (apron safety lines)",
+    "AnswerA": "White",
+    "AnswerB": "Black",
+    "AnswerC": "Brown",
+    "AnswerD": "A contrasting colour from the taxiway markings",
+    "CorrectAnswer": "A contrasting colour from the taxiway markings",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 238,
+    "Question": "At VVDN, taxiways connect RWY 35L and RWY 35R are:",
+    "AnswerA": "C1,C2,C4,C5",
+    "AnswerB": "G1,G2,G4,G6",
+    "AnswerC": "E1,E2,E3,E4",
+    "AnswerD": "W1,W2,W4,W5",
+    "CorrectAnswer": "G1,G2,G4,G6",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 239,
+    "Question": "At VVDN, taxiways connect parallel taxiway E and RWY 35R are:",
+    "AnswerA": "C1,C2,C4,C5",
+    "AnswerB": "G1,G2,G4,G5",
+    "AnswerC": "E1,E2,E3,E4,E6,E7",
+    "AnswerD": "W1,W2,W4,W5",
+    "CorrectAnswer": "E1,E2,E3,E4,E6,E7",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 240,
+    "Question": "The TORA of RWY35L/17R",
+    "AnswerA": "3048m",
+    "AnswerB": "3354m",
+    "AnswerC": "3500m",
+    "AnswerD": "3049m",
+    "CorrectAnswer": "3049m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 241,
+    "Question": "The TODA of RWY35L/17R",
+    "AnswerA": "3354m",
+    "AnswerB": "3860m",
+    "AnswerC": "3650m",
+    "AnswerD": "3650m",
+    "CorrectAnswer": "3354m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 242,
+    "Question": "The TODA of RWY35R/17L",
+    "AnswerA": "3650m",
+    "AnswerB": "3500m",
+    "AnswerC": "3500m",
+    "AnswerD": "3860m",
+    "CorrectAnswer": "3500m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 243,
+    "Question": "The parking 14 is using for",
+    "AnswerA": "Aircraft of CAT C ( wingspan up to 36m)",
+    "AnswerB": "Aircraft of CAT E ( wingspan up to 65m) when ther is no aircraft parking at stand 15 and stand 12 is use for parking aircraft with wingspan up to 28m only.",
+    "AnswerC": "Aircraft of CAT D ( wingspan up to 52m) when ther is no aircraft parking at stand 15 and stand 12 is use for parking aircraft with wingspan up to 36m only",
+    "AnswerD": "All the above.",
+    "CorrectAnswer": "All the above.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 244,
+    "Question": "The parking 16,18,20,23 and 25 are using for",
+    "AnswerA": "Aircraft of CAT C ( wingspan up to 36m)",
+    "AnswerB": "Aircraft of CAT E ( wingspan up to 65m) when ther is no aircraft parking at adjacent stands.",
+    "AnswerC": "None of above.",
+    "AnswerD": "Both a and b",
+    "CorrectAnswer": "Both a and b",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 245,
+    "Question": "When using stands 3M,4M,5M for aircraft the other aircraft",
+    "AnswerA": "Is not allowed to taxi behind that parking aicraft",
+    "AnswerB": "Able to taxi behind that parking aicraft",
+    "AnswerC": "A and b are not correct.",
+    "AnswerD": "",
+    "CorrectAnswer": "Is not allowed to taxi behind that parking aicraft",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 246,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, in case using the VGDS signal, the aircraft maximum speed for taxiing is:",
+    "AnswerA": "3m/s",
+    "AnswerB": "2m/s",
+    "AnswerC": "4m/s",
+    "AnswerD": "5m/s",
+    "CorrectAnswer": "2m/s",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 247,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, can ground service vehicles cross over between aircraft taxiing and the follow-me car? :",
+    "AnswerA": "Yes",
+    "AnswerB": "Yes with permission from Ground Control",
+    "AnswerC": "Do not allowed",
+    "AnswerD": "None of the above",
+    "CorrectAnswer": "Do not allowed",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 248,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, in case of crossing over the aircraft taxi route, the minimum distance must be maintained for ground service vehicles if behind the aircraft shall be:",
+    "AnswerA": "200 m.",
+    "AnswerB": "250 m",
+    "AnswerC": "300 m",
+    "AnswerD": "400 m",
+    "CorrectAnswer": "200 m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 249,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation ,when aircraft starting up engine with idle power, the minimum distance must be maintained for ground service vehicles if behind the aircraft shall be:",
+    "AnswerA": "70m",
+    "AnswerB": "80m.",
+    "AnswerC": "90m",
+    "AnswerD": "100m",
+    "CorrectAnswer": "80m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 250,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, when aircraft starting up engine with idle power, the minimum distance must be maintained for ground service vehicles if in front of the aircraft shall be:",
+    "AnswerA": "7m",
+    "AnswerB": "8m.",
+    "AnswerC": "9m",
+    "AnswerD": "10m",
+    "CorrectAnswer": "8m.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 251,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, when the aircraft is in refueling process, all vehicles in movement area do not allowed to start engine within minimum distance of:",
+    "AnswerA": "15m radius.",
+    "AnswerB": "20m radius",
+    "AnswerC": "25m radius",
+    "AnswerD": "30m radius",
+    "CorrectAnswer": "15m radius.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 252,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, which position aircraft have to be towed on taxiway E for starting up high power engine:",
+    "AnswerA": "Between stand 6 and stand 9, facing South",
+    "AnswerB": "Between stand 5 and stand 8, facing North",
+    "AnswerC": "Between stand 5 and stand 9, facing South",
+    "AnswerD": "None of the above",
+    "CorrectAnswer": "Between stand 5 and stand 9, facing South",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 253,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, the marshaller only allowed to leave the aircraft when:",
+    "AnswerA": "The aircraft fully stop",
+    "AnswerB": "The aircraft finishing shutdown engine",
+    "AnswerC": "The aircraft being chocked",
+    "AnswerD": "Passengers being disembarked",
+    "CorrectAnswer": "The aircraft being chocked",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 254,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, maximum speed for vehicles operating inside the limited safety parking area is:",
+    "AnswerA": "5km/h.",
+    "AnswerB": "10km/h",
+    "AnswerC": "15km/h",
+    "AnswerD": "20km/h",
+    "CorrectAnswer": "5km/h.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 255,
+    "Question": "According to the Decision 704 related to Da Nang International airport Safety Regulation, maximum speed for vehicles operating outside the limited safety parking area is:",
+    "AnswerA": "30km/h",
+    "AnswerB": "35km/h.",
+    "AnswerC": "40km/h",
+    "AnswerD": "45km/h",
+    "CorrectAnswer": "35km/h.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 256,
+    "Question": "What is the minimum visibility for cat D aircraft using ILS y, z approach procedures runway 35R (without GP) at Da Nang airport?",
+    "AnswerA": "2000m",
+    "AnswerB": "2400m",
+    "AnswerC": "1800m",
+    "AnswerD": "2800m",
+    "CorrectAnswer": "1800m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 257,
+    "Question": "What is the minimum visibility for the aircraft using ILS approach procedures runway 35L",
+    "AnswerA": "800m",
+    "AnswerB": "1000m",
+    "AnswerC": "1800m",
+    "AnswerD": "2200m",
+    "CorrectAnswer": "1000m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 258,
+    "Question": "How many dangerous areas are established in Da Nang Airport area according to Da Nang aerodrome regulation manual",
+    "AnswerA": "5 areas",
+    "AnswerB": "6 areas",
+    "AnswerC": "7 areas",
+    "AnswerD": "8 areas",
+    "CorrectAnswer": "7 areas",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 259,
+    "Question": "Which one is correct for DVOR/DME DAN",
+    "AnswerA": "114.4 KHz CH91X",
+    "AnswerB": "114.4 MHz CH91X",
+    "AnswerC": "114.3 KHz CH91X",
+    "AnswerD": "",
+    "CorrectAnswer": "114.4 MHz CH91X",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 260,
+    "Question": "The location of DVOR/DME DAN",
+    "AnswerA": "In the East of RWY 35R",
+    "AnswerB": "In the West of RWY 35L",
+    "AnswerC": "Between RWY 35R and 35L",
+    "AnswerD": "Outside of Danang airport",
+    "CorrectAnswer": "Between RWY 35R and 35L",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 261,
+    "Question": "How are VHF equipments at Da Nang APP/TWR controlled?",
+    "AnswerA": "directly controlled.",
+    "AnswerB": "remote controlled.",
+    "AnswerC": "both a and b.",
+    "AnswerD": "none of the above.",
+    "CorrectAnswer": "both a and b.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 262,
+    "Question": "What is the maximum capacity of Da Nang AMSS system to meet the requirement of the amount of aeronautical message?",
+    "AnswerA": "30.000 messages per day.",
+    "AnswerB": "31.000 messages per day.",
+    "AnswerC": "32.000 messages per day.",
+    "AnswerD": "33.000 messages per day.",
+    "CorrectAnswer": "30.000 messages per day.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 263,
+    "Question": "What is the UPS used for?",
+    "AnswerA": "releasing the electricity current when there is a shock.",
+    "AnswerB": "keeping the high voltage to the equipment.",
+    "AnswerC": "keeping the uninterrupted and steady electricity current.",
+    "AnswerD": "supplying more electricity to the equipment.",
+    "CorrectAnswer": "keeping the uninterrupted and steady electricity current.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 264,
+    "Question": "Nui Tau Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "942m...186 degrees.",
+    "AnswerB": "953m...186 degrees",
+    "AnswerC": "942m....176 degrees",
+    "AnswerD": "953m...176 degrees",
+    "CorrectAnswer": "942m...186 degrees.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 265,
+    "Question": "Cu Lao Cham Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "506m...108 degrees",
+    "AnswerB": "517m....208 degrees",
+    "AnswerC": "517m....108 degrees",
+    "AnswerD": "506m...208 degrees",
+    "CorrectAnswer": "506m...108 degrees",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 266,
+    "Question": "What is the most significant obstacle on W1 from PLK to DAN that make the minimum fight level of that segment is FL120.",
+    "AnswerA": "Nui Tau Mount",
+    "AnswerB": "Ngoc Linh Mount",
+    "AnswerC": "Son Tra Mount",
+    "AnswerD": "Hai Van Mount",
+    "CorrectAnswer": "Ngoc Linh Mount",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 267,
+    "Question": "Hai Van Mount pass is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "1181m...327 degrees.",
+    "AnswerB": "1192m...327 degrees.",
+    "AnswerC": "1181m...227 degrees.",
+    "AnswerD": "1192m...227 degrees.",
+    "CorrectAnswer": "1181m...327 degrees.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 268,
+    "Question": "The Phuoc Tuong Mount is ...high AGL and on bearing...from Danang ARP.",
+    "AnswerA": "346m....274 degrees",
+    "AnswerB": "336m....264 degrees",
+    "AnswerC": "326m...254 degrees",
+    "AnswerD": "316m...244 degrees",
+    "CorrectAnswer": "316m...244 degrees",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 269,
+    "Question": "Where is the jettison area of baggage, cargo, other objects from aircraft at Da Nang in case of emergency?",
+    "AnswerA": "A circle with a radius 7,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "AnswerB": "A circle with a radius 4,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "AnswerC": "A circle with a radius 5,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "AnswerD": "A circle with a radius 6,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "CorrectAnswer": "A circle with a radius 7,5km centred at 37,5km and on bearing 186 degrees from Da Nang ARP.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 270,
+    "Question": "What is the altitude over IAF - TAMLA- for ILS V RWY 35 L/ R",
+    "AnswerA": "1200m",
+    "AnswerB": "1350 m",
+    "AnswerC": "900m",
+    "AnswerD": "1100m",
+    "CorrectAnswer": "1350 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 271,
+    "Question": "What is the altitude over IAF- TAWAN- for ILS V RWY 35 L/ R",
+    "AnswerA": "2100m",
+    "AnswerB": "1500m",
+    "AnswerC": "1200 m",
+    "AnswerD": "2750m",
+    "CorrectAnswer": "1200 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 272,
+    "Question": "What is the altitude over IAF- LOLUC- for the ILS V RWY 35L/R",
+    "AnswerA": "1200 m",
+    "AnswerB": "2150m",
+    "AnswerC": "2750m",
+    "AnswerD": "2450m",
+    "CorrectAnswer": "1200 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 273,
+    "Question": "The altitude when an aircraft following the ILS V 35R is flying over FAF/FAP",
+    "AnswerA": "900M",
+    "AnswerB": "790M",
+    "AnswerC": "450 M",
+    "AnswerD": "170M",
+    "CorrectAnswer": "450 M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 274,
+    "Question": "The altitude when an aircraft following the ILS Y 35R is flying over FAF/FAP",
+    "AnswerA": "950M",
+    "AnswerB": "900M",
+    "AnswerC": "790M",
+    "AnswerD": "600 M",
+    "CorrectAnswer": "600 M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 275,
+    "Question": "Da Nang TWR controllers aren’t allowed to issue landing clearance for aircraft in cases of:",
+    "AnswerA": "Obstacles on runway; or",
+    "AnswerB": "Ceiling/visibility is below minimum for approach procedure conducted by aircraft or wind velocity exceeds the limitations of aircraft performance at the time being; or",
+    "AnswerC": "There are dangerous phenomena in the approach/landing area affected to the air safety.",
+    "AnswerD": "All above",
+    "CorrectAnswer": "All above",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 276,
+    "Question": "Vertical limitation of the prohibited area over Danang city (VVP3) is:",
+    "AnswerA": "From ground/water surface up to 1500m",
+    "AnswerB": "From ground/water surface up to 2750m",
+    "AnswerC": "From ground/water surface up to 3000m",
+    "AnswerD": "From ground/water surface up to unlimited",
+    "CorrectAnswer": "From ground/water surface up to 1500m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 277,
+    "Question": "How many air defense tactical holding patterns are there in the Middle region of Viet Nam?",
+    "AnswerA": "4 holding patterns",
+    "AnswerB": "5 holding patterns",
+    "AnswerC": "6 holding patterns",
+    "AnswerD": "7 holding patterns",
+    "CorrectAnswer": "6 holding patterns",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 278,
+    "Question": "How many VHF air-ground communication frequencies using for civil aviation purpose are there at Da Nang APP/TWR?",
+    "AnswerA": 5,
+    "AnswerB": 6,
+    "AnswerC": 4,
+    "AnswerD": 8,
+    "CorrectAnswer": 8,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 279,
+    "Question": "The location of DVOR/DME DAN:",
+    "AnswerA": "In the East of RWY 35R",
+    "AnswerB": "In the West of RWY 35L",
+    "AnswerC": "Between RWY 35R and 35L",
+    "AnswerD": "Outside of Danang airport",
+    "CorrectAnswer": "Between RWY 35R and 35L",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 280,
+    "Question": "What is the Secondary frequency of ATS communication facility of Da Nang Approach?",
+    "AnswerA": "125.45 MHz",
+    "AnswerB": "125.3 MHz",
+    "AnswerC": "121.5 MHz",
+    "AnswerD": "118.35 MHz",
+    "CorrectAnswer": "125.45 MHz",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 281,
+    "Question": "Which frequencies of the following is required the operational certificates at Da Nang APP position?",
+    "AnswerA": "Only APP VHF 121.5 Mhz.5",
+    "AnswerB": "Only APP VHF 125.3 Mhz and secondary VHF frequency 119.5 Mhz.",
+    "AnswerC": "APP VHF 121.5 Mhz, 120.45 Mhz and secondary VHF frequency 125.45 Mhz.",
+    "AnswerD": "Only APP VHF 125.3 Mhz and 121.5 Mhz.",
+    "CorrectAnswer": "APP VHF 121.5 Mhz, 120.45 Mhz and secondary VHF frequency 125.45 Mhz.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 282,
+    "Question": "Function of VCCS system at Da Nang APP/TWR position:",
+    "AnswerA": "Controls all VHF and voice communication channels.",
+    "AnswerB": "Controls voice record.",
+    "AnswerC": "Controls all VHF channels and stores all recorded information.",
+    "AnswerD": "Controls all voice communication and voice record.",
+    "CorrectAnswer": "Controls all VHF and voice communication channels.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 283,
+    "Question": "The coverage of Son Tra secondary radar:",
+    "AnswerA": "493km (250NM)",
+    "AnswerB": "483km (250NM)",
+    "AnswerC": "473km (250NM)",
+    "AnswerD": "463km (250NM)",
+    "CorrectAnswer": "463km (250NM)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 284,
+    "Question": "The coverage of Son Tra primary radar:",
+    "AnswerA": "168km (80NM)",
+    "AnswerB": "158km (80NM)",
+    "AnswerC": "148km (80NM)",
+    "AnswerD": "178km (80NM)",
+    "CorrectAnswer": "148km (80NM)",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 285,
+    "Question": "When the electricity is lost, what is the capacity of the UPS to ensure the normal operation of all communication equipments and radar monitoring system at Da Nang APP/TWR",
+    "AnswerA": "within ½ hour",
+    "AnswerB": "within 1 hour",
+    "AnswerC": "within 1 hour 30 minutes",
+    "AnswerD": "within 2 hours",
+    "CorrectAnswer": "within 1 hour",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 286,
+    "Question": "Who is responsible for the control of the Walkie-talkie 147.925 Mhz?",
+    "AnswerA": "MIRATS",
+    "AnswerB": "VATM",
+    "AnswerC": "(an authorized unit of) Da Nang International Airport.",
+    "AnswerD": "None of the above.",
+    "CorrectAnswer": "(an authorized unit of) Da Nang International Airport.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 287,
+    "Question": "The function of the AMSS at Da Nang APP/TWR is:",
+    "AnswerA": "monitoring the coming messages.",
+    "AnswerB": "monitoring and transferring messages in standard format.",
+    "AnswerC": "receiving, transferring and storing aeronautical messages.",
+    "AnswerD": "transferring messages to local airports.",
+    "CorrectAnswer": "receiving, transferring and storing aeronautical messages.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 288,
+    "Question": "Voice record equipment at Da Nang APP/TWR is used:",
+    "AnswerA": "to record only VHF channels and connected with VCCS system.",
+    "AnswerB": "to record only VHF channels and not connected with VCCS system.",
+    "AnswerC": "to record all voice channels but not connected with VCCS system.",
+    "AnswerD": "to record all voice channels and connected with VCCS system.",
+    "CorrectAnswer": "to record all voice channels and connected with VCCS system.",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 289,
+    "Question": "An+B38:G41+B38:G40 aircraft lining up RWY 35R for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5 m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "8.5 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 290,
+    "Question": "An aircraft lining up RWY 35L for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5 m",
+    "AnswerC": "7m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7.5 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 291,
+    "Question": "An aircraft lining up RWY 17L for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7 m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 292,
+    "Question": "An aircraft lining up RWY 17R for departure is setting QNH. State the height of the aircraft above mean sea level?",
+    "AnswerA": "8.5m",
+    "AnswerB": "7.5m",
+    "AnswerC": "7 m",
+    "AnswerD": "6.5m",
+    "CorrectAnswer": "7 m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 293,
+    "Question": "At VVDN, The length of the CAT I ILS approach lights system RWY 35R:",
+    "AnswerA": "1500m",
+    "AnswerB": "2000m",
+    "AnswerC": "3000m",
+    "AnswerD": "900m",
+    "CorrectAnswer": "900m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 294,
+    "Question": "At VVDN, The length of the Simple approach lights system RWY 35L:",
+    "AnswerA": "420m",
+    "AnswerB": "600m",
+    "AnswerC": "800m",
+    "AnswerD": "1200m",
+    "CorrectAnswer": "420m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 295,
+    "Question": "At VVDN, The length of the Simple approach lights system RWY 17L:",
+    "AnswerA": "200m",
+    "AnswerB": "300m",
+    "AnswerC": "700m",
+    "AnswerD": "420m",
+    "CorrectAnswer": "420m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 296,
+    "Question": "At VVDN, Spacing between every single Runway edge light:",
+    "AnswerA": "10m",
+    "AnswerB": "20m",
+    "AnswerC": "30m",
+    "AnswerD": "60m",
+    "CorrectAnswer": "60m",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 297,
+    "Question": "Taxiway markings and aircraft stand markings are:",
+    "AnswerA": "Red",
+    "AnswerB": "Brown",
+    "AnswerC": "Blue",
+    "AnswerD": "Yellow",
+    "CorrectAnswer": "Yellow",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 298,
+    "Question": "Runway end lights shall be:",
+    "AnswerA": "Fixed; uni-directional; red",
+    "AnswerB": "Fixed; omni-directional; green",
+    "AnswerC": "Fixed; uni-directional; white",
+    "AnswerD": "Fixed; omni-directional; brown",
+    "CorrectAnswer": "Fixed; uni-directional; red",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 299,
+    "Question": "TORA for intersection Departure at TWY E2 & RWY35R is:",
+    "AnswerA": "2500M",
+    "AnswerB": "2800M",
+    "AnswerC": "3500M",
+    "AnswerD": "4200M",
+    "CorrectAnswer": "2500M",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 300,
+    "Question": "PCR of Stands from 28 to 36 of Danang airport is declared in AIP",
+    "AnswerA": "670 R/B/X/U",
+    "AnswerB": "300 R/B/X/U",
+    "AnswerC": "760 R/B/X/U",
+    "AnswerD": "770 R/A/X/U",
+    "CorrectAnswer": "770 R/A/X/U",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 301,
+    "Question": "AIP is declared PCR of TWY E in Danang airport",
+    "AnswerA": "760 R/A/T/X",
+    "AnswerB": "670 R/A/X/U",
+    "AnswerC": "770 R/A/X/T",
+    "AnswerD": "500 R/X/A/U",
+    "CorrectAnswer": "670 R/A/X/U",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 302,
+    "Question": "AIP is declared PCR of RWY 35R/17L in Danang airport",
+    "AnswerA": "610 /R/A/W/U",
+    "AnswerB": "670 R/A/X/U",
+    "AnswerC": "770 R/A/X/U",
+    "AnswerD": "500 R/X/A/U",
+    "CorrectAnswer": "610 /R/A/W/U",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 303,
+    "Question": "AIP is declared PCR of RWY 35L/17R in Danang airport",
+    "AnswerA": "460 /F/B/X/U",
+    "AnswerB": "560 F/B/X/U",
+    "AnswerC": "460 R/A/X/T",
+    "AnswerD": "500 R/X/A/U",
+    "CorrectAnswer": "460 /F/B/X/U",
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 304,
+    "Question": "How many Hotspots are there in Danang Airport?",
+    "AnswerA": 1,
+    "AnswerB": 2,
+    "AnswerC": 3,
+    "AnswerD": 4,
+    "CorrectAnswer": 1,
+    "Category": "LTCSDAN"
+  },
+  {
+    "QID": 305,
+    "Question": "What colour are runway markings?",
+    "AnswerA": "Azura",
+    "AnswerB": "Yellow",
+    "AnswerC": "Black",
+    "AnswerD": "White",
+    "CorrectAnswer": "White",
+    "Category": "LTCSDAN"
+  }
+]
