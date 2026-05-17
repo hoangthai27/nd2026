@@ -95,7 +95,7 @@
     "AnswerA": "ALERFA, INCERFA, DETRESFA.",
     "AnswerB": "INCERFA, ALERFA, DETRESFA.",
     "AnswerC": "DETRESFA, ALERFA INCERFA.",
-    "AnswerD": "No difference",
+    "AnswerD": "INCERFA, ALERFA, DETRESFA.",
     "CorrectAnswer": "No difference",
     "Category": "LTCTWR"
   },
@@ -136,7 +136,7 @@
     "AnswerB": "At least 300m(1000ft) above terrain.",
     "AnswerC": "At least 300m(1000ft) above highest obstacle in plain area, 600m(2000ft) above highest obstacle in mountain area.",
     "AnswerD": "Non of the above.",
-    "CorrectAnswer": "Non of the above.",
+    "CorrectAnswer": "At least 300m(1000ft) above highest obstacle in plain area, 600m(2000ft) above highest obstacle in mountain area.",
     "Category": "LTCTWR"
   },
   {
@@ -186,7 +186,7 @@
     "AnswerB": "SMALL, MEDIUM, LARGE;",
     "AnswerC": "LIGHT, MEDIUM, HEAVY;",
     "AnswerD": "CAT A, CAT B, CAT C.",
-    "CorrectAnswer": "CAT A, CAT B, CAT C.",
+    "CorrectAnswer": "LIGHT, MEDIUM, HEAVY;",
     "Category": "LTCTWR"
   },
   {
@@ -196,7 +196,7 @@
     "AnswerB": "At a particular time, are considered by the aerodrome control tower to be the most suitable for use by the types of aircraft expected to land or take off at the aerodrome.",
     "AnswerC": "At a particular time, are considered by the area control center to be the most suitable for use by the types of aircraft expected to land or take off at the aerodrome.",
     "AnswerD": "At a particular time, are considered by the aerodrome control tower to be the most suitable for use by the types of aircraft expected for training at the aerodrome.",
-    "CorrectAnswer": "At a particular time, are considered by the aerodrome control tower to be the most suitable for use by the types of aircraft expected for training at the aerodrome.",
+    "CorrectAnswer": "At a particular time, are considered by the aerodrome control tower to be the most suitable for use by the types of aircraft expected to land or take off at the aerodrome.",
     "Category": "LTCTWR"
   },
   {
@@ -216,7 +216,7 @@
     "AnswerB": "At least 300m(1000ft) above terrain.",
     "AnswerC": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainuos area.",
     "AnswerD": "Non of the above.",
-    "CorrectAnswer": "Non of the above.",
+    "CorrectAnswer": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainuos area.",
     "Category": "LTCTWR"
   },
   {
@@ -226,7 +226,7 @@
     "AnswerB": "The one that has the other on its right.",
     "AnswerC": "The one that has the other in sight first.",
     "AnswerD": "The one that is faster than the other.",
-    "CorrectAnswer": "The one that is faster than the other.",
+    "CorrectAnswer": "The one that has the other on its left.",
     "Category": "LTCTWR"
   },
   {
@@ -246,7 +246,7 @@
     "AnswerB": "Taxiing aircraft.",
     "AnswerC": "Arriving aircraft on final approach.",
     "AnswerD": "Arriving aircraft in the traffic pattern.",
-    "CorrectAnswer": "Arriving aircraft in the traffic pattern.",
+    "CorrectAnswer": "Arriving aircraft on final approach.",
     "Category": "LTCTWR"
   },
   {
@@ -316,7 +316,7 @@
     "AnswerB": "Provide the radar information to the aircraft.",
     "AnswerC": "Request the pilot to change heading 30 degrees or more.",
     "AnswerD": "Instruct the pilot to operate SPI feature.",
-    "CorrectAnswer": "Instruct the pilot to operate SPI feature.",
+    "CorrectAnswer": "Establish radar identity of that aircraft.",
     "Category": "LTCTWR"
   },
   {
@@ -366,7 +366,7 @@
     "AnswerB": "MAYDAY",
     "AnswerC": "PANPAN",
     "AnswerD": "EMERGENCY",
-    "CorrectAnswer": "EMERGENCY",
+    "CorrectAnswer": "MAYDAY",
     "Category": "LTCTWR"
   },
   {
@@ -375,7 +375,7 @@
     "AnswerA": "( call sign) confirm RVSM approved.",
     "AnswerB": "( call sign) affirm RVSM.",
     "AnswerC": "( call sign) do you have RVSM approval.",
-    "AnswerD": "Non of the above.",
+    "AnswerD": "( call sign) confirm RVSM approved.",
     "CorrectAnswer": "Non of the above.",
     "Category": "LTCTWR"
   },
@@ -406,7 +406,7 @@
     "AnswerB": "Moutain",
     "AnswerC": "Terain",
     "AnswerD": "Balloon",
-    "CorrectAnswer": "Balloon",
+    "CorrectAnswer": "Terain",
     "Category": "LTCTWR"
   },
   {
@@ -426,7 +426,7 @@
     "AnswerB": "At or above…….initial approach segment.",
     "AnswerC": "Upper………..missed approach procedure",
     "AnswerD": "Below……………intermediate approach segment.",
-    "CorrectAnswer": "Below……………intermediate approach segment.",
+    "CorrectAnswer": "At or above…….initial approach segment.",
     "Category": "LTCTWR"
   },
   {
@@ -466,7 +466,7 @@
     "AnswerB": "45 degrees or less",
     "AnswerC": "25 degrees or less",
     "AnswerD": "Non of above",
-    "CorrectAnswer": "Non of above",
+    "CorrectAnswer": "30 degrees or less",
     "Category": "LTCTWR"
   },
   {
@@ -516,7 +516,7 @@
     "AnswerB": "Taxiing aircraft.",
     "AnswerC": "Arriving aircraft on final approach.",
     "AnswerD": "Arriving aircraft in the traffic pattern.",
-    "CorrectAnswer": "Arriving aircraft in the traffic pattern.",
+    "CorrectAnswer": "Arriving aircraft on final approach.",
     "Category": "LTCTWR"
   },
   {
@@ -536,7 +536,7 @@
     "AnswerB": "Suggested by ATC when VMC exist",
     "AnswerC": "1 and 2",
     "AnswerD": "1 or 2",
-    "CorrectAnswer": "1 or 2",
+    "CorrectAnswer": "Made by pilot-in-command",
     "Category": "LTCTWR"
   },
   {
@@ -596,7 +596,7 @@
     "AnswerB": "A means of communication between controller and pilot, using data link for ATC communications.",
     "AnswerC": "A means of communication between pilots, using data link for ATC communications.",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "A means of communication between controller and pilot, using data link for ATC communications.",
     "Category": "LTCTWR"
   },
   {
@@ -606,7 +606,7 @@
     "AnswerB": "b) a qualified pilot occupies a control seat to act as safety\n pilot for the person who is flying under simulated instrument conditions. The safety pilot shall have adequate\n vision forward and to each side of the aircraft, or a competent observer in communication with the safety pilot\n shall occupy a position in the aircraft from which the\n observer’s field of vision adequately supplements that of\n the safety pilot.",
     "AnswerC": "a and b",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "a and b",
     "Category": "LTCTWR"
   },
   {
@@ -626,7 +626,7 @@
     "AnswerB": "b) altitudes, for flights below the lowest usable flight level or,\n where applicable, at or below the transition altitude",
     "AnswerC": "a and b",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "a and b",
     "Category": "LTCTWR"
   },
   {
@@ -656,7 +656,7 @@
     "AnswerB": "Area navigation based on performance requirements for aircraft operating along an ATS route.",
     "AnswerC": "Area navigation based on performance requirements for aircraft operating in a designated airspace.",
     "AnswerD": "Area navigation based on performance requirements for aircraft operating on an instrument approach procedure.",
-    "CorrectAnswer": "Area navigation based on performance requirements for aircraft operating on an instrument approach procedure.",
+    "CorrectAnswer": "Area navigation based on performance requirements for aircraft operating along an ATS route, on an instrument approach procedure or in a designated airspace.",
     "Category": "LTCTWR"
   },
   {
@@ -666,7 +666,7 @@
     "AnswerB": "Altitude.",
     "AnswerC": "Height.",
     "AnswerD": "Airspace.",
-    "CorrectAnswer": "Airspace.",
+    "CorrectAnswer": "Altitude.",
     "Category": "LTCTWR"
   },
   {
@@ -676,7 +676,7 @@
     "AnswerB": "ATIS information.",
     "AnswerC": "Guidance information.",
     "AnswerD": "Departure information.",
-    "CorrectAnswer": "Departure information.",
+    "CorrectAnswer": "Guidance information.",
     "Category": "LTCTWR"
   },
   {
@@ -696,7 +696,7 @@
     "AnswerB": "The upward.",
     "AnswerC": "1 and 2.",
     "AnswerD": "1 or 2",
-    "CorrectAnswer": "1 or 2",
+    "CorrectAnswer": "The downward.",
     "Category": "LTCTWR"
   },
   {
@@ -716,7 +716,7 @@
     "AnswerB": "The surveillance radar element (SRE).",
     "AnswerC": "1 and 2.",
     "AnswerD": "1 or 2",
-    "CorrectAnswer": "1 or 2",
+    "CorrectAnswer": "1 and 2.",
     "Category": "LTCTWR"
   },
   {
@@ -736,7 +736,7 @@
     "AnswerB": "Vertical distance.",
     "AnswerC": "1 or 2.",
     "AnswerD": "1 and 2",
-    "CorrectAnswer": "1 and 2",
+    "CorrectAnswer": "Slant range distance.",
     "Category": "LTCTWR"
   },
   {
@@ -756,7 +756,7 @@
     "AnswerB": "The transponder.",
     "AnswerC": "The receiver.",
     "AnswerD": "The transmitter.",
-    "CorrectAnswer": "The transmitter.",
+    "CorrectAnswer": "The interrogator.",
     "Category": "LTCTWR"
   },
   {
@@ -766,7 +766,7 @@
     "AnswerB": "The transponder.",
     "AnswerC": "The receiver.",
     "AnswerD": "The transmitter.",
-    "CorrectAnswer": "The transmitter.",
+    "CorrectAnswer": "The transponder.",
     "Category": "LTCTWR"
   },
   {
@@ -786,7 +786,7 @@
     "AnswerB": "Two-way communication between aircraft and stations or locations on the surface of the earth.",
     "AnswerC": "1 or 2.",
     "AnswerD": "1 and 2",
-    "CorrectAnswer": "1 and 2",
+    "CorrectAnswer": "Two-way communication between aircraft and stations or locations on the surface of the earth.",
     "Category": "LTCTWR"
   },
   {
@@ -796,7 +796,7 @@
     "AnswerB": "Two-way communication from aircraft to stations or locations on the surface of the earth.",
     "AnswerC": "1 or 2.",
     "AnswerD": "1 and 2",
-    "CorrectAnswer": "1 and 2",
+    "CorrectAnswer": "One-way communication from aircraft to stations or locations on the surface of the earth.",
     "Category": "LTCTWR"
   },
   {
@@ -806,7 +806,7 @@
     "AnswerB": "Two-way communication from stations or locations on the surface of the earth to aircraft.",
     "AnswerC": "1 or 2.",
     "AnswerD": "1 and 2",
-    "CorrectAnswer": "1 and 2",
+    "CorrectAnswer": "One-way communication from stations or locations on the surface of the earth to aircraft.",
     "Category": "LTCTWR"
   },
   {
@@ -816,7 +816,7 @@
     "AnswerB": "A means of communication between controller and pilot, using data link for ATC communications.",
     "AnswerC": "A means of communication between pilots, using data link for ATC communications.",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "A means of communication between controller and pilot, using data link for ATC communications.",
     "Category": "LTCTWR"
   },
   {
@@ -826,7 +826,7 @@
     "AnswerB": "A report from an aircraft on ground.",
     "AnswerC": "A report from an aircraft in the air.",
     "AnswerD": "A report from an aircraft in hangar.",
-    "CorrectAnswer": "A report from an aircraft in hangar.",
+    "CorrectAnswer": "A report from an aircraft in flight.",
     "Category": "LTCTWR"
   },
   {
@@ -836,7 +836,7 @@
     "AnswerB": "This message category shall comprise those messages sent by mobile stations reporting that they are in danger.",
     "AnswerC": "This message category shall comprise those messages sent by ATC unit reporting that they are in danger.",
     "AnswerD": "This message category shall comprise those messages sent by area control centre reporting that they are in danger.",
-    "CorrectAnswer": "This message category shall comprise those messages sent by area control centre reporting that they are in danger.",
+    "CorrectAnswer": "This message category shall comprise those messages sent by mobile stations reporting that they are threatened by grave and imminent danger.",
     "Category": "LTCTWR"
   },
   {
@@ -846,7 +846,7 @@
     "AnswerB": "This category shall comprise messages concerning the safety of a ship.",
     "AnswerC": "This category shall comprise messages concerning the safety of an aircraft.",
     "AnswerD": "This category shall comprise messages concerning the safety of some person on board.",
-    "CorrectAnswer": "This category shall comprise messages concerning the safety of some person on board.",
+    "CorrectAnswer": "This category shall comprise messages concerning the safety of a ship, aircraft or other vehicles, or of some person on board or within sight.",
     "Category": "LTCTWR"
   },
   {
@@ -866,7 +866,7 @@
     "AnswerB": "DD FF GG KK SS.",
     "AnswerC": "FF GG KK SS DD.",
     "AnswerD": "GG KK SS DD FF.",
-    "CorrectAnswer": "GG KK SS DD FF.",
+    "CorrectAnswer": "SS DD FF GG KK.",
     "Category": "LTCTWR"
   },
   {
@@ -876,7 +876,7 @@
     "AnswerB": "Doc 7910.",
     "AnswerC": "Doc 8186.",
     "AnswerD": "Doc 9432.",
-    "CorrectAnswer": "Doc 9432.",
+    "CorrectAnswer": "Doc 7910.",
     "Category": "LTCTWR"
   },
   {
@@ -886,7 +886,7 @@
     "AnswerB": "Doc 8186.",
     "AnswerC": "Doc 8585.",
     "AnswerD": "Doc 9432.",
-    "CorrectAnswer": "Doc 9432.",
+    "CorrectAnswer": "Doc 8585.",
     "Category": "LTCTWR"
   },
   {
@@ -896,9 +896,10 @@
     "AnswerB": "60 days.",
     "AnswerC": "45 days.",
     "AnswerD": "30 days.",
-    "CorrectAnswer": "30 days.",
+    "CorrectAnswer": "60 days.",
     "Category": "LTCTWR"
   },
+  [
   {
     "QID": 91,
     "Question": "An aircraft shall not change the type of its radiotelephony call sign during flight, except temporarily on the instruction of…",
@@ -906,7 +907,7 @@
     "AnswerB": "Ground control unit.",
     "AnswerC": "Approach control unit.",
     "AnswerD": "Area control unit.",
-    "CorrectAnswer": "Area control unit.",
+    "CorrectAnswer": "An air traffic control unit.",
     "Category": "LTCTWR"
   },
   {
@@ -946,7 +947,7 @@
     "AnswerB": "An aircraft system based on primary radar signals.",
     "AnswerC": "1 or 2",
     "AnswerD": "1 and 2",
-    "CorrectAnswer": "1 and 2",
+    "CorrectAnswer": "An aircraft system based on secondary surveillance radar (SSR) transponder signals.",
     "Category": "LTCTWR"
   },
   {
@@ -966,7 +967,7 @@
     "AnswerB": "Radar equipment used to determine the position of an aircraft in range and azimuth.",
     "AnswerC": "Radar equipment used to determine the position of an aircraft in range.",
     "AnswerD": "Radar equipment used to determine the position of an aircraft in azimuth.",
-    "CorrectAnswer": "Radar equipment used to determine the position of an aircraft in azimuth.",
+    "CorrectAnswer": "Radar equipment used to determine the position of an aircraft in range and azimuth.",
     "Category": "LTCTWR"
   },
   {
@@ -976,7 +977,7 @@
     "AnswerB": "A surveillance radar system which uses receivers.",
     "AnswerC": "A surveillance radar system which uses transmitters/receivers (interrogators) and transponders.",
     "AnswerD": "A surveillance radar system which uses transponders.",
-    "CorrectAnswer": "A surveillance radar system which uses transponders.",
+    "CorrectAnswer": "A surveillance radar system which uses transmitters/receivers (interrogators) and transponders.",
     "Category": "LTCTWR"
   },
   {
@@ -996,7 +997,7 @@
     "AnswerB": "Code 7500.",
     "AnswerC": "Code 7600.",
     "AnswerD": "Code 7700.",
-    "CorrectAnswer": "Code 7700.",
+    "CorrectAnswer": "Code 7600.",
     "Category": "LTCTWR"
   },
   {
@@ -1006,7 +1007,7 @@
     "AnswerB": "Code 7500.",
     "AnswerC": "Code 7600.",
     "AnswerD": "Code 7700.",
-    "CorrectAnswer": "Code 7700.",
+    "CorrectAnswer": "Code 7500.",
     "Category": "LTCTWR"
   },
   {
@@ -1016,7 +1017,7 @@
     "AnswerB": "Code 2100.",
     "AnswerC": "Code 2200.",
     "AnswerD": "Code 2300.",
-    "CorrectAnswer": "Code 2300.",
+    "CorrectAnswer": "Code 2000.",
     "Category": "LTCTWR"
   },
   {
@@ -1052,51 +1053,51 @@
   {
     "QID": 106,
     "Question": "A visual docking guidance system shall be provided:",
-    "AnswerA": "when it is intended to indicate, by a visual aid, the precise\n positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
-    "AnswerB": "when it is intended to indicate, by a visual aid, the precise\n positioning of an aircraft on an aircraft stand .",
-    "AnswerC": "when it is intended to indicate, by a visual aid, the precise\n positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
-    "AnswerD": "when it is intended to indicate, by a visual aid, the precise\n positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
-    "CorrectAnswer": "when it is intended to indicate, by a visual aid, the precise\n positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
+    "AnswerA": "when it is intended to indicate, by a visual aid, the precise positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
+    "AnswerB": "when it is intended to indicate, by a visual aid, the precise positioning of an aircraft on an aircraft stand.",
+    "AnswerC": "when it is intended to indicate, by a visual aid, the precise positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
+    "AnswerD": "when it is intended to indicate, by a visual aid, the precise positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
+    "CorrectAnswer": "when it is intended to indicate, by a visual aid, the precise positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",
     "Category": "LTCTWR"
   },
   {
     "QID": 107,
-    "Question": "The azimuth guidance unit and the stopping position indicator shall be of a design such that:\n  a) a clear indication of malfunction of either or both is available to the pilot; and\n  b) they can be turned off.",
+    "Question": "The azimuth guidance unit and the stopping position indicator shall be of a design such that: a) a clear indication of malfunction of either or both is available to the pilot; and b) they can be turned off.",
     "AnswerA": "A",
     "AnswerB": "B",
     "AnswerC": "A and B",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "A and B",
     "Category": "LTCTWR"
   },
   {
     "QID": 108,
-    "Question": "The road-holding position light shall comprise:\n  a) a controllable red (stop)/green (go) traffic light; or\n  b) a flashing-red light.",
+    "Question": "The road-holding position light shall comprise: a) a controllable red (stop)/green (go) traffic light; or b) a flashing-red light.",
     "AnswerA": "A",
     "AnswerB": "B",
     "AnswerC": "A and B",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "A and B",
     "Category": "LTCTWR"
   },
   {
     "QID": 109,
-    "Question": "A runway vacated sign shall be located at least on one side of the taxiway. The distance between the sign and\n the centre line of a runway shall be not less than the greater of the following:\n  a) the distance between the centre line of the runway and the perimeter of the ILS/MLS critical/sensitive area; or\n  b) the distance between the centre line of the runway and the lower edge of the inner transitional surface.",
+    "Question": "A runway vacated sign shall be located at least on one side of the taxiway. The distance between the sign and the centre line of a runway shall be not less than the greater of: a) the distance between the centre line of the runway and the perimeter of the ILS/MLS critical/sensitive area; or b) the distance between the centre line of the runway and the lower edge of the inner transitional surface.",
     "AnswerA": "A",
     "AnswerB": "B",
     "AnswerC": "A and B",
     "AnswerD": "None of the above.",
-    "CorrectAnswer": "None of the above.",
+    "CorrectAnswer": "A and B",
     "Category": "LTCTWR"
   },
   {
     "QID": 110,
     "Question": "Precision approach runway, category II",
-    "AnswerA": "A runway served by visual aids and non-visual aid(s) intended for landing\n operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)\n but not lower than 30 m (100 ft) and a runway visual range not less than 300 m.",
-    "AnswerB": "A runway served by visual aids and non-visual aid(s) intended for landing\n operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)\n but not lower than 30 m (100 ft) and a runway visual range not less than 200 m.",
-    "AnswerC": "A runway served by visual aids and non-visual aid(s) intended for landing\n operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)\n but not lower than 30 m (100 ft) and a runway visual range not less than 400 m.",
+    "AnswerA": "A runway served by visual aids and non-visual aid(s) intended for landing operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a runway visual range not less than 300 m.",
+    "AnswerB": "A runway served by visual aids and non-visual aid(s) intended for landing operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a runway visual range not less than 200 m.",
+    "AnswerC": "A runway served by visual aids and non-visual aid(s) intended for landing operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a runway visual range not less than 400 m.",
     "AnswerD": "all are not correct",
-    "CorrectAnswer": "all are not correct",
+    "CorrectAnswer": "A runway served by visual aids and non-visual aid(s) intended for landing operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a runway visual range not less than 300 m.",
     "Category": "LTCTWR"
   },
   {
@@ -1126,7 +1127,7 @@
     "AnswerB": "At least 300m(1000ft) above terrain.",
     "AnswerC": "At least 300m(1000ft) above highest obstacle in plain area, 600m(2000ft) above highest obstacle in mountain area.",
     "AnswerD": "Non of the above.",
-    "CorrectAnswer": "Non of the above.",
+    "CorrectAnswer": "At least 300m(1000ft) above highest obstacle in plain area, 600m(2000ft) above highest obstacle in mountain area.",
     "Category": "LTCTWR"
   },
   {
@@ -1186,9 +1187,10 @@
     "AnswerB": "SMALL, MEDIUM, LARGE;",
     "AnswerC": "LIGHT, MEDIUM, HEAVY;",
     "AnswerD": "CAT A, CAT B, CAT C.",
-    "CorrectAnswer": "CAT A, CAT B, CAT C.",
+    "CorrectAnswer": "LIGHT, MEDIUM, HEAVY;",
     "Category": "LTCTWR"
   },
+  
   {
     "QID": 120,
     "Question": "If an arriving aircraft is making a complete instrument approach, a departing aircraft may take off in any direction until:",
@@ -1199,6 +1201,7 @@
     "CorrectAnswer": "The pilot of the arriving aircraft has observed the departing aircraft.",
     "Category": "LTCTWR"
   },
+  
   {
     "QID": 121,
     "Question": "The controller shall…………. To ascertain that the clearance or instruction has been correctly acknowledge by flight crew and shall take immediately action to correct any discrepancies revealed by the…..",
@@ -1216,7 +1219,7 @@
     "AnswerB": "At least 300m(1000ft) above terrain.",
     "AnswerC": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainuos area.",
     "AnswerD": "Non of the above.",
-    "CorrectAnswer": "Non of the above.",
+    "CorrectAnswer": "At least 300m(1000ft) above highest obstacle in plain area, 600m above highest obstacle in high terrain mountainous area.",
     "Category": "LTCTWR"
   },
   {
@@ -1226,7 +1229,7 @@
     "AnswerB": "Taxiing aircraft.",
     "AnswerC": "Arriving aircraft on final approach.",
     "AnswerD": "Arriving aircraft in the traffic pattern.",
-    "CorrectAnswer": "Arriving aircraft in the traffic pattern.",
+    "CorrectAnswer": "Arriving aircraft on final approach.",
     "Category": "LTCTWR"
   },
   {
@@ -1256,7 +1259,7 @@
     "AnswerB": "( call sign) affirm RVSM.",
     "AnswerC": "( call sign) do you have RVSM approval.",
     "AnswerD": "Non of the above.",
-    "CorrectAnswer": "Non of the above.",
+    "CorrectAnswer": "( call sign) confirm RVSM approved.",
     "Category": "LTCTWR"
   },
   {
@@ -1276,7 +1279,7 @@
     "AnswerB": "At or above…….initial approach segment.",
     "AnswerC": "Upper………..missed approach procedure",
     "AnswerD": "Below……………intermediate approach segment.",
-    "CorrectAnswer": "Below……………intermediate approach segment.",
+    "CorrectAnswer": "At or above…….initial approach segment.",
     "Category": "LTCTWR"
   },
   {
@@ -1286,7 +1289,7 @@
     "AnswerB": "At or above…….initial approach segment.",
     "AnswerC": "Upper………..missed approach procedure",
     "AnswerD": "Below……………intermediate approach segment.",
-    "CorrectAnswer": "Below……………intermediate approach segment.",
+    "CorrectAnswer": "At or above…….initial approach segment.",
     "Category": "LTCTWR"
   },
   {
@@ -1306,7 +1309,7 @@
     "AnswerB": "45 degrees or less",
     "AnswerC": "25 degrees or less",
     "AnswerD": "Non of above",
-    "CorrectAnswer": "Non of above",
+    "CorrectAnswer": "30 degrees or less",
     "Category": "LTCTWR"
   },
   {
@@ -1316,7 +1319,7 @@
     "AnswerB": "A/3 7500",
     "AnswerC": "A/3 7600",
     "AnswerD": "A/3 7700",
-    "CorrectAnswer": "A/3 7700",
+    "CorrectAnswer": "A/3 7600",
     "Category": "LTCTWR"
   },
   {
@@ -1326,7 +1329,7 @@
     "AnswerB": "A/3 7500",
     "AnswerC": "A/3 7600",
     "AnswerD": "A/3 7700",
-    "CorrectAnswer": "A/3 7700",
+    "CorrectAnswer": "A/3 7600",
     "Category": "LTCTWR"
   },
   {
@@ -1346,7 +1349,7 @@
     "AnswerB": "Airplane B regardless if the direction from which airplane A is approaching .",
     "AnswerC": "Airplane A if it has airplane B on its right.",
     "AnswerD": "Airplane B if it has airplane A on its left.",
-    "CorrectAnswer": "Airplane B if it has airplane A on its left.",
+    "CorrectAnswer": "Airplane A if it has airplane B on its right.",
     "Category": "LTCTWR"
   },
   {
@@ -1376,9 +1379,10 @@
     "AnswerB": "The same frequencies i.e. 1090MHz for the ground to air transmission and 1030MHz for the air to ground transmission.",
     "AnswerC": "The same frequency i.e. 1030MHz for transmissions on both directions .",
     "AnswerD": "",
-    "CorrectAnswer": "",
+    "CorrectAnswer": "The same frequencies i.e. 1030MHz for the ground to air transmission and 1090MHz for the air to ground transmission.",
     "Category": "LTCTWR"
-  },
+  }
+
   {
     "QID": 141,
     "Question": "If an identified aircraft is approaching heading on the controlled aircraft what action should be taken by the radar controller?",
@@ -2186,7 +2190,7 @@
     "AnswerB": "thunder",
     "AnswerC": "rain",
     "AnswerD": "mist",
-    "CorrectAnswer": "mist",
+    "CorrectAnswer": "lightning",
     "Category": "LTCTWR"
   },
   {
@@ -2276,7 +2280,7 @@
     "AnswerB": "Aerodrome forecast",
     "AnswerC": "Volcanic ash advisorie",
     "AnswerD": "Administrative",
-    "CorrectAnswer": "Administrative",
+    "CorrectAnswer": "Aerodrome report",
     "Category": "LTCTWR"
   },
   {
@@ -2286,7 +2290,7 @@
     "AnswerB": "TCA",
     "AnswerC": "METAR",
     "AnswerD": "VAA",
-    "CorrectAnswer": "VAA",
+    "CorrectAnswer": "TAF",
     "Category": "LTCTWR"
   },
   {
@@ -2296,7 +2300,7 @@
     "AnswerB": "SIGMET for TC",
     "AnswerC": "SIGMET for VA",
     "AnswerD": "VAA",
-    "CorrectAnswer": "VAA",
+    "CorrectAnswer": "SIGMET",
     "Category": "LTCTWR"
   },
   {
@@ -2376,7 +2380,7 @@
     "AnswerB": "D",
     "AnswerC": "N",
     "AnswerD": "P",
-    "CorrectAnswer": "P",
+    "CorrectAnswer": "U",
     "Category": "LTCTWR"
   },
   {
